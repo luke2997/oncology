@@ -1,0 +1,13 @@
+ADaM dataset,Variable,Source,Derivation,Use in analysis
+ADSL,USUBJID,DM.USUBJID,Unique subject identifier copied from source,Subject-level key
+ADSL,TRT01P/TRT01A,DM.TRTARM / EX,Planned/actual treatment arm,Randomization and actual treatment
+ADSL,FASFL,DM randomization status,Y for all randomized subjects,Full Analysis Set
+ADSL,SAFFL,EX exposure records,Y for treated subjects,Safety population
+ADSL,TRTDURM,EX first/last dose dates,Duration in months = treatment duration days / 30.4375,Exposure summaries
+ADTTE,PARAMCD=PFS,TTE progression/death variables,"AVAL months from randomization to event/censor date; CNSR 0=event, 1=censored",Primary endpoint
+ADTTE,PARAMCD=OS,TTE death variables,"AVAL months from randomization to death/censor date; CNSR 0=event, 1=censored",Key secondary endpoint
+ADRS,ORRFL,RS best overall response,Y if BOR in CR or PR,Objective response rate
+ADRS,DCRFL,RS best overall response,"Y if BOR in CR, PR or SD",Disease control rate
+ADAE,TRTEMFL,AE start date / treatment dates,Y if treatment-emergent,Safety analyses
+ADAE,AOCCFL/AOCCSFL,AE records,Analysis occurrence flags for subject-level counts,TEAE by PT/SOC
+ADLB,SHIFT,LB baseline and worst grade,BASEGR to WORSTGR shift category,Lab shift table

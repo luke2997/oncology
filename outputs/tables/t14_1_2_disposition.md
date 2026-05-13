@@ -1,0 +1,16 @@
+# Table 14.1.2 Subject Disposition
+
+| Category              | ONC-305 + SOC (N=211)   | Placebo + SOC (N=209)   | Total (N=420)   |
+|:----------------------|:------------------------|:------------------------|:----------------|
+| Randomized            | 211 (100.0%)            | 209 (100.0%)            | 420 (100.0%)    |
+| Full analysis set     | 211 (100.0%)            | 209 (100.0%)            | 420 (100.0%)    |
+| Safety set            | 211 (100.0%)            | 209 (100.0%)            | 420 (100.0%)    |
+| Ongoing               | 12 (5.7%)               | 9 (4.3%)                | 21 (5.0%)       |
+| Completed treatment   | 10 (4.7%)               | 9 (4.3%)                | 19 (4.5%)       |
+| Progressive disease   | 156 (73.9%)             | 173 (82.8%)             | 329 (78.3%)     |
+| Adverse event         | 5 (2.4%)                | 1 (0.5%)                | 6 (1.4%)        |
+| Withdrawal by subject | 6 (2.8%)                | 0 (0.0%)                | 6 (1.4%)        |
+| Death                 | 14 (6.6%)               | 16 (7.7%)               | 30 (7.1%)       |
+| Other                 | 8 (3.8%)                | 1 (0.5%)                | 9 (2.1%)        |
+
+* Disposition categories are generated from simulated treatment end reasons.

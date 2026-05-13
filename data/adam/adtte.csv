@@ -1,0 +1,841 @@
+STUDYID,USUBJID,TRT01P,TRT01PN,PARAM,PARAMCD,AVAL,AVALD,CNSR,EVNTDESC,STARTDT,ADT,ANL01FL,AGEGR1,SEX,ECOG,STAGE,PDL1CAT,REGION,FASFL
+ONC-305-301,ONC-305-301-0001,Placebo + SOC,0,Progression-Free Survival,PFS,7.5,228,0,Event,2024-05-14,2024-12-28,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0001,Placebo + SOC,0,Overall Survival,OS,20.6,627,1,Censored,2024-05-14,2026-01-31,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0002,ONC-305 + SOC,1,Progression-Free Survival,PFS,17.15,522,1,Censored,2024-08-27,2026-01-31,Y,<65,Female,1,IV,<1%,Rest of World,Y
+ONC-305-301,ONC-305-301-0002,ONC-305 + SOC,1,Overall Survival,OS,17.15,522,1,Censored,2024-08-27,2026-01-31,Y,<65,Female,1,IV,<1%,Rest of World,Y
+ONC-305-301,ONC-305-301-0003,Placebo + SOC,0,Progression-Free Survival,PFS,0.15,5,0,Event,2024-02-15,2024-02-20,Y,<65,Female,1,IIIB/IIIC,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0003,Placebo + SOC,0,Overall Survival,OS,4.15,126,0,Event,2024-02-15,2024-06-20,Y,<65,Female,1,IIIB/IIIC,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0004,Placebo + SOC,0,Progression-Free Survival,PFS,7.63,232,0,Event,2024-07-12,2025-03-01,Y,>=65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0004,Placebo + SOC,0,Overall Survival,OS,12.78,389,0,Event,2024-07-12,2025-08-05,Y,>=65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0005,ONC-305 + SOC,1,Progression-Free Survival,PFS,18.2,554,1,Censored,2024-07-26,2026-01-31,Y,<65,Female,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0005,ONC-305 + SOC,1,Overall Survival,OS,17.45,531,1,Censored,2024-07-26,2026-01-08,Y,<65,Female,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0006,Placebo + SOC,0,Progression-Free Survival,PFS,4.86,148,0,Event,2024-02-18,2024-07-15,Y,<65,Female,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0006,Placebo + SOC,0,Overall Survival,OS,7.63,232,0,Event,2024-02-18,2024-10-07,Y,<65,Female,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0007,ONC-305 + SOC,1,Progression-Free Survival,PFS,14.47,441,0,Event,2024-02-28,2025-05-14,Y,>=65,Male,0,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0007,ONC-305 + SOC,1,Overall Survival,OS,19.88,605,1,Censored,2024-02-28,2025-10-25,Y,>=65,Male,0,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0008,ONC-305 + SOC,1,Progression-Free Survival,PFS,7.58,231,0,Event,2024-08-02,2025-03-21,Y,<65,Female,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0008,ONC-305 + SOC,1,Overall Survival,OS,13.09,398,0,Event,2024-08-02,2025-09-04,Y,<65,Female,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0009,Placebo + SOC,0,Progression-Free Survival,PFS,3.7,113,0,Event,2024-01-14,2024-05-06,Y,<65,Male,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0009,Placebo + SOC,0,Overall Survival,OS,17.1,520,0,Event,2024-01-14,2025-06-17,Y,<65,Male,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0010,Placebo + SOC,0,Progression-Free Survival,PFS,1.09,33,0,Event,2024-06-14,2024-07-17,Y,<65,Female,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0010,Placebo + SOC,0,Overall Survival,OS,19.58,596,1,Censored,2024-06-14,2026-01-31,Y,<65,Female,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0011,ONC-305 + SOC,1,Progression-Free Survival,PFS,4.63,141,0,Event,2024-08-02,2024-12-21,Y,<65,Male,1,IIIB/IIIC,<1%,North America,Y
+ONC-305-301,ONC-305-301-0011,ONC-305 + SOC,1,Overall Survival,OS,17.97,547,1,Censored,2024-08-02,2026-01-31,Y,<65,Male,1,IIIB/IIIC,<1%,North America,Y
+ONC-305-301,ONC-305-301-0012,Placebo + SOC,0,Progression-Free Survival,PFS,5.0,152,0,Event,2024-04-27,2024-09-26,Y,<65,Male,1,IIIB/IIIC,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0012,Placebo + SOC,0,Overall Survival,OS,9.79,298,0,Event,2024-04-27,2025-02-19,Y,<65,Male,1,IIIB/IIIC,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0013,Placebo + SOC,0,Progression-Free Survival,PFS,2.83,86,0,Event,2024-06-27,2024-09-21,Y,<65,Male,0,IIIB/IIIC,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0013,Placebo + SOC,0,Overall Survival,OS,19.15,583,1,Censored,2024-06-27,2026-01-31,Y,<65,Male,0,IIIB/IIIC,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0014,ONC-305 + SOC,1,Progression-Free Survival,PFS,6.46,197,0,Event,2024-06-16,2024-12-30,Y,<65,Male,0,IV,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0014,ONC-305 + SOC,1,Overall Survival,OS,9.93,302,0,Event,2024-06-16,2025-04-14,Y,<65,Male,0,IV,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0015,Placebo + SOC,0,Progression-Free Survival,PFS,2.95,90,0,Event,2024-06-19,2024-09-17,Y,<65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0015,Placebo + SOC,0,Overall Survival,OS,8.76,267,0,Event,2024-06-19,2025-03-13,Y,<65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0016,Placebo + SOC,0,Progression-Free Survival,PFS,1.46,44,0,Event,2024-03-30,2024-05-13,Y,>=65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0016,Placebo + SOC,0,Overall Survival,OS,14.17,431,0,Event,2024-03-30,2025-06-04,Y,>=65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0017,Placebo + SOC,0,Progression-Free Survival,PFS,15.31,466,0,Event,2024-02-22,2025-06-02,Y,>=65,Male,1,IIIB/IIIC,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0017,Placebo + SOC,0,Overall Survival,OS,23.29,709,1,Censored,2024-02-22,2026-01-31,Y,>=65,Male,1,IIIB/IIIC,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0018,Placebo + SOC,0,Progression-Free Survival,PFS,2.13,65,0,Event,2024-07-05,2024-09-08,Y,<65,Female,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0018,Placebo + SOC,0,Overall Survival,OS,5.26,160,0,Event,2024-07-05,2024-12-12,Y,<65,Female,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0019,ONC-305 + SOC,1,Progression-Free Survival,PFS,11.24,342,0,Event,2024-04-09,2025-03-17,Y,>=65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0019,ONC-305 + SOC,1,Overall Survival,OS,12.5,380,0,Event,2024-04-09,2025-04-24,Y,>=65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0020,ONC-305 + SOC,1,Progression-Free Survival,PFS,22.54,686,1,Censored,2024-03-16,2026-01-31,Y,<65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0020,ONC-305 + SOC,1,Overall Survival,OS,22.54,686,1,Censored,2024-03-16,2026-01-31,Y,<65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0021,ONC-305 + SOC,1,Progression-Free Survival,PFS,13.0,396,1,Censored,2024-04-21,2025-05-22,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0021,ONC-305 + SOC,1,Overall Survival,OS,21.13,643,1,Censored,2024-04-21,2026-01-24,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0022,Placebo + SOC,0,Progression-Free Survival,PFS,12.95,394,1,Censored,2024-03-03,2025-04-01,Y,<65,Male,1,IIIB/IIIC,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0022,Placebo + SOC,0,Overall Survival,OS,17.86,544,1,Censored,2024-03-03,2025-08-29,Y,<65,Male,1,IIIB/IIIC,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0023,ONC-305 + SOC,1,Progression-Free Survival,PFS,22.9,697,1,Censored,2024-03-05,2026-01-31,Y,<65,Female,1,IIIB/IIIC,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0023,ONC-305 + SOC,1,Overall Survival,OS,14.21,433,1,Censored,2024-03-05,2025-05-12,Y,<65,Female,1,IIIB/IIIC,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0024,ONC-305 + SOC,1,Progression-Free Survival,PFS,0.99,30,0,Event,2024-08-31,2024-09-30,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0024,ONC-305 + SOC,1,Overall Survival,OS,17.02,518,1,Censored,2024-08-31,2026-01-31,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0025,Placebo + SOC,0,Progression-Free Survival,PFS,13.46,410,1,Censored,2024-06-16,2025-07-31,Y,>=65,Female,0,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0025,Placebo + SOC,0,Overall Survival,OS,18.55,565,1,Censored,2024-06-16,2026-01-02,Y,>=65,Female,0,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0026,Placebo + SOC,0,Progression-Free Survival,PFS,12.05,367,0,Event,2024-02-03,2025-02-04,Y,>=65,Male,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0026,Placebo + SOC,0,Overall Survival,OS,14.42,439,1,Censored,2024-02-03,2025-04-17,Y,>=65,Male,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0027,ONC-305 + SOC,1,Progression-Free Survival,PFS,12.15,370,0,Event,2024-07-07,2025-07-12,Y,>=65,Male,0,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0027,ONC-305 + SOC,1,Overall Survival,OS,18.83,573,1,Censored,2024-07-07,2026-01-31,Y,>=65,Male,0,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0028,Placebo + SOC,0,Progression-Free Survival,PFS,10.43,317,1,Censored,2024-01-23,2024-12-05,Y,>=65,Male,0,IV,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0028,Placebo + SOC,0,Overall Survival,OS,16.51,503,1,Censored,2024-01-23,2025-06-09,Y,>=65,Male,0,IV,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0029,Placebo + SOC,0,Progression-Free Survival,PFS,4.28,130,0,Event,2024-08-07,2024-12-15,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0029,Placebo + SOC,0,Overall Survival,OS,12.22,372,0,Event,2024-08-07,2025-08-14,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0030,Placebo + SOC,0,Progression-Free Survival,PFS,2.48,75,0,Event,2024-04-08,2024-06-22,Y,>=65,Female,1,IV,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0030,Placebo + SOC,0,Overall Survival,OS,3.66,111,0,Event,2024-04-08,2024-07-28,Y,>=65,Female,1,IV,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0031,ONC-305 + SOC,1,Progression-Free Survival,PFS,14.35,437,1,Censored,2024-07-22,2025-10-02,Y,<65,Male,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0031,ONC-305 + SOC,1,Overall Survival,OS,18.33,558,1,Censored,2024-07-22,2026-01-31,Y,<65,Male,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0032,Placebo + SOC,0,Progression-Free Survival,PFS,13.07,398,0,Event,2024-07-22,2025-08-24,Y,<65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0032,Placebo + SOC,0,Overall Survival,OS,15.74,479,0,Event,2024-07-22,2025-11-13,Y,<65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0033,ONC-305 + SOC,1,Progression-Free Survival,PFS,6.47,197,0,Event,2024-07-27,2025-02-09,Y,>=65,Female,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0033,ONC-305 + SOC,1,Overall Survival,OS,16.71,509,1,Censored,2024-07-27,2025-12-18,Y,>=65,Female,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0034,Placebo + SOC,0,Progression-Free Survival,PFS,9.5,289,0,Event,2024-01-16,2024-10-31,Y,>=65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0034,Placebo + SOC,0,Overall Survival,OS,17.69,538,1,Censored,2024-01-16,2025-07-07,Y,>=65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0035,Placebo + SOC,0,Progression-Free Survival,PFS,2.22,68,0,Event,2024-08-05,2024-10-12,Y,<65,Female,0,IIIB/IIIC,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0035,Placebo + SOC,0,Overall Survival,OS,17.87,544,1,Censored,2024-08-05,2026-01-31,Y,<65,Female,0,IIIB/IIIC,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0036,ONC-305 + SOC,1,Progression-Free Survival,PFS,0.38,12,0,Event,2024-01-04,2024-01-16,Y,>=65,Male,1,IIIB/IIIC,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0036,ONC-305 + SOC,1,Overall Survival,OS,24.9,758,1,Censored,2024-01-04,2026-01-31,Y,>=65,Male,1,IIIB/IIIC,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0037,ONC-305 + SOC,1,Progression-Free Survival,PFS,14.08,428,0,Event,2024-08-24,2025-10-26,Y,>=65,Female,0,IV,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0037,ONC-305 + SOC,1,Overall Survival,OS,17.25,525,1,Censored,2024-08-24,2026-01-31,Y,>=65,Female,0,IV,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0038,Placebo + SOC,0,Progression-Free Survival,PFS,17.47,532,1,Censored,2024-01-28,2025-07-13,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0038,Placebo + SOC,0,Overall Survival,OS,24.11,734,1,Censored,2024-01-28,2026-01-31,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0039,Placebo + SOC,0,Progression-Free Survival,PFS,21.19,645,1,Censored,2024-04-26,2026-01-31,Y,<65,Male,0,IIIB/IIIC,<1%,North America,Y
+ONC-305-301,ONC-305-301-0039,Placebo + SOC,0,Overall Survival,OS,17.2,524,1,Censored,2024-04-26,2025-10-02,Y,<65,Male,0,IIIB/IIIC,<1%,North America,Y
+ONC-305-301,ONC-305-301-0040,Placebo + SOC,0,Progression-Free Survival,PFS,0.26,8,0,Event,2024-04-14,2024-04-22,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0040,Placebo + SOC,0,Overall Survival,OS,10.71,326,0,Event,2024-04-14,2025-03-06,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0041,ONC-305 + SOC,1,Progression-Free Survival,PFS,10.47,319,0,Event,2024-04-20,2025-03-05,Y,>=65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0041,ONC-305 + SOC,1,Overall Survival,OS,13.71,417,0,Event,2024-04-20,2025-06-11,Y,>=65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0042,Placebo + SOC,0,Progression-Free Survival,PFS,0.24,7,0,Event,2024-07-28,2024-08-04,Y,>=65,Male,1,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0042,Placebo + SOC,0,Overall Survival,OS,18.14,552,1,Censored,2024-07-28,2026-01-31,Y,>=65,Male,1,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0043,Placebo + SOC,0,Progression-Free Survival,PFS,9.16,279,0,Event,2024-07-21,2025-04-26,Y,<65,Female,1,IIIB/IIIC,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0043,Placebo + SOC,0,Overall Survival,OS,11.55,352,0,Event,2024-07-21,2025-07-08,Y,<65,Female,1,IIIB/IIIC,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0044,Placebo + SOC,0,Progression-Free Survival,PFS,6.79,207,0,Event,2024-02-06,2024-08-31,Y,>=65,Male,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0044,Placebo + SOC,0,Overall Survival,OS,12.23,372,0,Event,2024-02-06,2025-02-12,Y,>=65,Male,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0045,Placebo + SOC,0,Progression-Free Survival,PFS,6.75,206,0,Event,2024-03-06,2024-09-28,Y,<65,Male,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0045,Placebo + SOC,0,Overall Survival,OS,9.93,302,0,Event,2024-03-06,2025-01-02,Y,<65,Male,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0046,ONC-305 + SOC,1,Progression-Free Survival,PFS,6.75,205,0,Event,2024-02-12,2024-09-04,Y,<65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0046,ONC-305 + SOC,1,Overall Survival,OS,9.16,279,0,Event,2024-02-12,2024-11-17,Y,<65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0047,ONC-305 + SOC,1,Progression-Free Survival,PFS,17.07,520,1,Censored,2024-01-04,2025-06-07,Y,>=65,Male,1,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0047,ONC-305 + SOC,1,Overall Survival,OS,16.75,510,1,Censored,2024-01-04,2025-05-28,Y,>=65,Male,1,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0048,Placebo + SOC,0,Progression-Free Survival,PFS,6.56,200,0,Event,2024-04-19,2024-11-05,Y,>=65,Male,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0048,Placebo + SOC,0,Overall Survival,OS,21.42,652,1,Censored,2024-04-19,2026-01-31,Y,>=65,Male,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0049,ONC-305 + SOC,1,Progression-Free Survival,PFS,3.18,97,0,Event,2024-01-06,2024-04-12,Y,>=65,Male,0,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0049,ONC-305 + SOC,1,Overall Survival,OS,7.9,240,0,Event,2024-01-06,2024-09-02,Y,>=65,Male,0,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0050,Placebo + SOC,0,Progression-Free Survival,PFS,11.3,344,0,Event,2024-08-12,2025-07-22,Y,<65,Male,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0050,Placebo + SOC,0,Overall Survival,OS,15.0,457,0,Event,2024-08-12,2025-11-12,Y,<65,Male,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0051,Placebo + SOC,0,Progression-Free Survival,PFS,5.36,163,0,Event,2024-02-06,2024-07-18,Y,<65,Female,0,IIIB/IIIC,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0051,Placebo + SOC,0,Overall Survival,OS,20.24,616,1,Censored,2024-02-06,2025-10-14,Y,<65,Female,0,IIIB/IIIC,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0052,ONC-305 + SOC,1,Progression-Free Survival,PFS,6.41,195,0,Event,2024-01-11,2024-07-24,Y,<65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0052,ONC-305 + SOC,1,Overall Survival,OS,24.51,746,1,Censored,2024-01-11,2026-01-26,Y,<65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0053,Placebo + SOC,0,Progression-Free Survival,PFS,17.76,540,0,Event,2024-06-07,2025-11-29,Y,<65,Female,1,IV,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0053,Placebo + SOC,0,Overall Survival,OS,19.6,596,0,Event,2024-06-07,2026-01-24,Y,<65,Female,1,IV,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0054,ONC-305 + SOC,1,Progression-Free Survival,PFS,2.11,64,0,Event,2024-05-16,2024-07-19,Y,>=65,Female,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0054,ONC-305 + SOC,1,Overall Survival,OS,20.53,625,1,Censored,2024-05-16,2026-01-31,Y,>=65,Female,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0055,ONC-305 + SOC,1,Progression-Free Survival,PFS,0.45,14,0,Event,2024-06-21,2024-07-05,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0055,ONC-305 + SOC,1,Overall Survival,OS,9.01,274,0,Event,2024-06-21,2025-03-22,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0056,ONC-305 + SOC,1,Progression-Free Survival,PFS,8.64,263,0,Event,2024-04-24,2025-01-12,Y,<65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0056,ONC-305 + SOC,1,Overall Survival,OS,21.26,647,1,Censored,2024-04-24,2026-01-31,Y,<65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0057,Placebo + SOC,0,Progression-Free Survival,PFS,0.61,19,0,Event,2024-02-20,2024-03-10,Y,>=65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0057,Placebo + SOC,0,Overall Survival,OS,3.13,95,0,Event,2024-02-20,2024-05-25,Y,>=65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0058,Placebo + SOC,0,Progression-Free Survival,PFS,4.57,139,0,Event,2024-08-12,2024-12-29,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0058,Placebo + SOC,0,Overall Survival,OS,17.64,537,1,Censored,2024-08-12,2026-01-31,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0059,ONC-305 + SOC,1,Progression-Free Survival,PFS,1.19,36,0,Event,2024-01-06,2024-02-11,Y,>=65,Male,1,IV,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0059,ONC-305 + SOC,1,Overall Survival,OS,14.61,445,1,Censored,2024-01-06,2025-03-26,Y,>=65,Male,1,IV,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0060,ONC-305 + SOC,1,Progression-Free Survival,PFS,2.75,84,0,Event,2024-05-04,2024-07-27,Y,<65,Male,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0060,ONC-305 + SOC,1,Overall Survival,OS,2.79,85,0,Event,2024-05-04,2024-07-28,Y,<65,Male,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0061,Placebo + SOC,0,Progression-Free Survival,PFS,14.12,430,0,Event,2024-01-07,2025-03-12,Y,<65,Male,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0061,Placebo + SOC,0,Overall Survival,OS,15.08,459,1,Censored,2024-01-07,2025-04-10,Y,<65,Male,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0062,ONC-305 + SOC,1,Progression-Free Survival,PFS,4.11,125,0,Event,2024-06-10,2024-10-13,Y,>=65,Female,0,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0062,ONC-305 + SOC,1,Overall Survival,OS,19.71,600,1,Censored,2024-06-10,2026-01-31,Y,>=65,Female,0,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0063,ONC-305 + SOC,1,Progression-Free Survival,PFS,6.13,187,0,Event,2024-07-11,2025-01-14,Y,<65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0063,ONC-305 + SOC,1,Overall Survival,OS,8.11,247,0,Event,2024-07-11,2025-03-15,Y,<65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0064,ONC-305 + SOC,1,Progression-Free Survival,PFS,3.32,101,0,Event,2024-07-23,2024-11-01,Y,<65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0064,ONC-305 + SOC,1,Overall Survival,OS,18.3,557,1,Censored,2024-07-23,2026-01-31,Y,<65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0065,Placebo + SOC,0,Progression-Free Survival,PFS,4.73,144,0,Event,2024-06-09,2024-10-31,Y,<65,Male,0,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0065,Placebo + SOC,0,Overall Survival,OS,19.75,601,1,Censored,2024-06-09,2026-01-31,Y,<65,Male,0,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0066,Placebo + SOC,0,Progression-Free Survival,PFS,0.6,18,0,Event,2024-02-09,2024-02-27,Y,>=65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0066,Placebo + SOC,0,Overall Survival,OS,23.72,722,1,Censored,2024-02-09,2026-01-31,Y,>=65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0067,ONC-305 + SOC,1,Progression-Free Survival,PFS,6.98,212,0,Event,2024-05-03,2024-12-01,Y,>=65,Male,0,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0067,ONC-305 + SOC,1,Overall Survival,OS,14.24,434,0,Event,2024-05-03,2025-07-11,Y,>=65,Male,0,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0068,Placebo + SOC,0,Progression-Free Survival,PFS,8.93,272,0,Event,2024-04-08,2025-01-05,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0068,Placebo + SOC,0,Overall Survival,OS,19.9,606,0,Event,2024-04-08,2025-12-05,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0069,Placebo + SOC,0,Progression-Free Survival,PFS,12.03,366,0,Event,2024-04-30,2025-05-01,Y,>=65,Male,0,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0069,Placebo + SOC,0,Overall Survival,OS,21.06,641,1,Censored,2024-04-30,2026-01-31,Y,>=65,Male,0,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0070,Placebo + SOC,0,Progression-Free Survival,PFS,1.91,58,0,Event,2024-05-03,2024-06-30,Y,<65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0070,Placebo + SOC,0,Overall Survival,OS,9.59,292,0,Event,2024-05-03,2025-02-19,Y,<65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0071,ONC-305 + SOC,1,Progression-Free Survival,PFS,9.17,279,0,Event,2024-07-12,2025-04-17,Y,<65,Male,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0071,ONC-305 + SOC,1,Overall Survival,OS,18.66,568,1,Censored,2024-07-12,2026-01-31,Y,<65,Male,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0072,Placebo + SOC,0,Progression-Free Survival,PFS,3.06,93,0,Event,2024-02-16,2024-05-19,Y,>=65,Female,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0072,Placebo + SOC,0,Overall Survival,OS,13.68,416,0,Event,2024-02-16,2025-04-07,Y,>=65,Female,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0073,Placebo + SOC,0,Progression-Free Survival,PFS,17.81,542,1,Censored,2024-08-07,2026-01-31,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0073,Placebo + SOC,0,Overall Survival,OS,17.81,542,1,Censored,2024-08-07,2026-01-31,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0074,ONC-305 + SOC,1,Progression-Free Survival,PFS,12.5,381,0,Event,2024-05-07,2025-05-23,Y,>=65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0074,ONC-305 + SOC,1,Overall Survival,OS,14.36,437,1,Censored,2024-05-07,2025-07-18,Y,>=65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0075,ONC-305 + SOC,1,Progression-Free Survival,PFS,15.26,465,0,Event,2024-08-15,2025-11-23,Y,>=65,Female,1,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0075,ONC-305 + SOC,1,Overall Survival,OS,15.85,482,0,Event,2024-08-15,2025-12-10,Y,>=65,Female,1,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0076,ONC-305 + SOC,1,Progression-Free Survival,PFS,3.63,111,0,Event,2024-01-05,2024-04-25,Y,<65,Male,0,IIIB/IIIC,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0076,ONC-305 + SOC,1,Overall Survival,OS,17.86,544,0,Event,2024-01-05,2025-07-02,Y,<65,Male,0,IIIB/IIIC,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0077,ONC-305 + SOC,1,Progression-Free Survival,PFS,6.4,195,0,Event,2024-08-06,2025-02-17,Y,<65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0077,ONC-305 + SOC,1,Overall Survival,OS,9.28,283,0,Event,2024-08-06,2025-05-16,Y,<65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0078,ONC-305 + SOC,1,Progression-Free Survival,PFS,2.29,70,0,Event,2024-02-19,2024-04-29,Y,<65,Male,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0078,ONC-305 + SOC,1,Overall Survival,OS,3.5,107,0,Event,2024-02-19,2024-06-05,Y,<65,Male,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0079,ONC-305 + SOC,1,Progression-Free Survival,PFS,16.47,501,0,Event,2024-04-30,2025-09-13,Y,>=65,Male,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0079,ONC-305 + SOC,1,Overall Survival,OS,17.31,527,0,Event,2024-04-30,2025-10-09,Y,>=65,Male,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0080,ONC-305 + SOC,1,Progression-Free Survival,PFS,4.24,129,0,Event,2024-01-21,2024-05-29,Y,>=65,Male,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0080,ONC-305 + SOC,1,Overall Survival,OS,6.59,201,0,Event,2024-01-21,2024-08-09,Y,>=65,Male,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0081,Placebo + SOC,0,Progression-Free Survival,PFS,6.48,197,0,Event,2024-07-01,2025-01-14,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0081,Placebo + SOC,0,Overall Survival,OS,15.78,480,0,Event,2024-07-01,2025-10-24,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0082,ONC-305 + SOC,1,Progression-Free Survival,PFS,13.76,419,0,Event,2024-03-06,2025-04-29,Y,<65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0082,ONC-305 + SOC,1,Overall Survival,OS,15.09,459,1,Censored,2024-03-06,2025-06-08,Y,<65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0083,Placebo + SOC,0,Progression-Free Survival,PFS,4.36,133,0,Event,2024-04-13,2024-08-24,Y,>=65,Female,1,IV,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0083,Placebo + SOC,0,Overall Survival,OS,4.61,140,0,Event,2024-04-13,2024-08-31,Y,>=65,Female,1,IV,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0084,ONC-305 + SOC,1,Progression-Free Survival,PFS,13.79,420,0,Event,2024-03-13,2025-05-07,Y,<65,Female,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0084,ONC-305 + SOC,1,Overall Survival,OS,21.19,645,0,Event,2024-03-13,2025-12-18,Y,<65,Female,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0085,ONC-305 + SOC,1,Progression-Free Survival,PFS,0.47,14,0,Event,2024-04-12,2024-04-26,Y,>=65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0085,ONC-305 + SOC,1,Overall Survival,OS,0.5,15,0,Event,2024-04-12,2024-04-27,Y,>=65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0086,Placebo + SOC,0,Progression-Free Survival,PFS,1.45,44,0,Event,2024-02-18,2024-04-02,Y,<65,Male,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0086,Placebo + SOC,0,Overall Survival,OS,2.64,80,0,Event,2024-02-18,2024-05-08,Y,<65,Male,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0087,ONC-305 + SOC,1,Progression-Free Survival,PFS,7.73,235,0,Event,2024-07-28,2025-03-20,Y,>=65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0087,ONC-305 + SOC,1,Overall Survival,OS,18.14,552,1,Censored,2024-07-28,2026-01-31,Y,>=65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0088,ONC-305 + SOC,1,Progression-Free Survival,PFS,2.8,85,0,Event,2024-04-22,2024-07-16,Y,>=65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0088,ONC-305 + SOC,1,Overall Survival,OS,6.8,207,0,Event,2024-04-22,2024-11-15,Y,>=65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0089,Placebo + SOC,0,Progression-Free Survival,PFS,6.93,211,0,Event,2024-08-11,2025-03-10,Y,>=65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0089,Placebo + SOC,0,Overall Survival,OS,7.41,226,0,Event,2024-08-11,2025-03-25,Y,>=65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0090,ONC-305 + SOC,1,Progression-Free Survival,PFS,14.95,455,1,Censored,2024-04-21,2025-07-20,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0090,ONC-305 + SOC,1,Overall Survival,OS,16.94,516,0,Event,2024-04-21,2025-09-19,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0091,Placebo + SOC,0,Progression-Free Survival,PFS,3.83,117,0,Event,2024-08-11,2024-12-06,Y,<65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0091,Placebo + SOC,0,Overall Survival,OS,17.68,538,1,Censored,2024-08-11,2026-01-31,Y,<65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0092,ONC-305 + SOC,1,Progression-Free Survival,PFS,10.87,331,1,Censored,2024-03-18,2025-02-12,Y,>=65,Female,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0092,ONC-305 + SOC,1,Overall Survival,OS,21.36,650,1,Censored,2024-03-18,2025-12-28,Y,>=65,Female,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0093,ONC-305 + SOC,1,Progression-Free Survival,PFS,7.99,243,0,Event,2024-04-16,2024-12-15,Y,<65,Female,1,IIIB/IIIC,<1%,North America,Y
+ONC-305-301,ONC-305-301-0093,ONC-305 + SOC,1,Overall Survival,OS,16.06,489,1,Censored,2024-04-16,2025-08-18,Y,<65,Female,1,IIIB/IIIC,<1%,North America,Y
+ONC-305-301,ONC-305-301-0094,ONC-305 + SOC,1,Progression-Free Survival,PFS,16.56,504,1,Censored,2024-05-04,2025-09-20,Y,>=65,Female,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0094,ONC-305 + SOC,1,Overall Survival,OS,17.33,527,1,Censored,2024-05-04,2025-10-13,Y,>=65,Female,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0095,Placebo + SOC,0,Progression-Free Survival,PFS,2.45,75,0,Event,2024-04-12,2024-06-26,Y,<65,Female,1,IIIB/IIIC,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0095,Placebo + SOC,0,Overall Survival,OS,4.78,145,0,Event,2024-04-12,2024-09-04,Y,<65,Female,1,IIIB/IIIC,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0096,ONC-305 + SOC,1,Progression-Free Survival,PFS,12.7,387,1,Censored,2024-01-25,2025-02-15,Y,>=65,Male,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0096,ONC-305 + SOC,1,Overall Survival,OS,24.21,737,1,Censored,2024-01-25,2026-01-31,Y,>=65,Male,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0097,ONC-305 + SOC,1,Progression-Free Survival,PFS,10.69,325,0,Event,2024-01-29,2024-12-19,Y,<65,Female,0,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0097,ONC-305 + SOC,1,Overall Survival,OS,18.9,575,0,Event,2024-01-29,2025-08-26,Y,<65,Female,0,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0098,Placebo + SOC,0,Progression-Free Survival,PFS,1.95,59,0,Event,2024-08-26,2024-10-24,Y,<65,Male,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0098,Placebo + SOC,0,Overall Survival,OS,6.67,203,0,Event,2024-08-26,2025-03-17,Y,<65,Male,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0099,ONC-305 + SOC,1,Progression-Free Survival,PFS,7.09,216,0,Event,2024-02-19,2024-09-22,Y,>=65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0099,ONC-305 + SOC,1,Overall Survival,OS,13.02,396,0,Event,2024-02-19,2025-03-21,Y,>=65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0100,Placebo + SOC,0,Progression-Free Survival,PFS,6.69,204,0,Event,2024-07-08,2025-01-28,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0100,Placebo + SOC,0,Overall Survival,OS,18.79,572,1,Censored,2024-07-08,2026-01-31,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0101,ONC-305 + SOC,1,Progression-Free Survival,PFS,10.96,334,0,Event,2024-04-17,2025-03-17,Y,>=65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0101,ONC-305 + SOC,1,Overall Survival,OS,14.05,428,0,Event,2024-04-17,2025-06-19,Y,>=65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0102,Placebo + SOC,0,Progression-Free Survival,PFS,4.76,145,0,Event,2024-08-13,2025-01-05,Y,<65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0102,Placebo + SOC,0,Overall Survival,OS,16.91,515,0,Event,2024-08-13,2026-01-10,Y,<65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0103,Placebo + SOC,0,Progression-Free Survival,PFS,11.41,347,1,Censored,2024-03-08,2025-02-18,Y,<65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0103,Placebo + SOC,0,Overall Survival,OS,22.8,694,1,Censored,2024-03-08,2026-01-31,Y,<65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0104,ONC-305 + SOC,1,Progression-Free Survival,PFS,1.82,55,0,Event,2024-05-27,2024-07-21,Y,<65,Male,0,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0104,ONC-305 + SOC,1,Overall Survival,OS,20.17,614,1,Censored,2024-05-27,2026-01-31,Y,<65,Male,0,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0105,ONC-305 + SOC,1,Progression-Free Survival,PFS,15.71,478,0,Event,2024-07-01,2025-10-22,Y,<65,Female,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0105,ONC-305 + SOC,1,Overall Survival,OS,17.53,534,1,Censored,2024-07-01,2025-12-17,Y,<65,Female,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0106,ONC-305 + SOC,1,Progression-Free Survival,PFS,3.65,111,0,Event,2024-07-06,2024-10-25,Y,<65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0106,ONC-305 + SOC,1,Overall Survival,OS,7.62,232,0,Event,2024-07-06,2025-02-23,Y,<65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0107,ONC-305 + SOC,1,Progression-Free Survival,PFS,12.39,377,1,Censored,2024-08-22,2025-09-03,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0107,ONC-305 + SOC,1,Overall Survival,OS,17.31,527,1,Censored,2024-08-22,2026-01-31,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0108,ONC-305 + SOC,1,Progression-Free Survival,PFS,2.66,81,0,Event,2024-05-13,2024-08-02,Y,<65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0108,ONC-305 + SOC,1,Overall Survival,OS,11.34,345,0,Event,2024-05-13,2025-04-23,Y,<65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0109,Placebo + SOC,0,Progression-Free Survival,PFS,12.47,379,0,Event,2024-03-27,2025-04-10,Y,<65,Male,1,IIIB/IIIC,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0109,Placebo + SOC,0,Overall Survival,OS,18.03,549,0,Event,2024-03-27,2025-09-27,Y,<65,Male,1,IIIB/IIIC,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0110,Placebo + SOC,0,Progression-Free Survival,PFS,0.22,7,0,Event,2024-02-08,2024-02-15,Y,>=65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0110,Placebo + SOC,0,Overall Survival,OS,3.71,113,0,Event,2024-02-08,2024-05-31,Y,>=65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0111,Placebo + SOC,0,Progression-Free Survival,PFS,0.16,5,0,Event,2024-03-28,2024-04-02,Y,<65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0111,Placebo + SOC,0,Overall Survival,OS,16.94,515,1,Censored,2024-03-28,2025-08-25,Y,<65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0112,Placebo + SOC,0,Progression-Free Survival,PFS,11.45,348,0,Event,2024-09-01,2025-08-15,Y,<65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0112,Placebo + SOC,0,Overall Survival,OS,13.68,416,0,Event,2024-09-01,2025-10-22,Y,<65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0113,Placebo + SOC,0,Progression-Free Survival,PFS,3.71,113,0,Event,2024-07-09,2024-10-30,Y,<65,Female,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0113,Placebo + SOC,0,Overall Survival,OS,15.84,482,1,Censored,2024-07-09,2025-11-03,Y,<65,Female,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0114,ONC-305 + SOC,1,Progression-Free Survival,PFS,13.85,422,0,Event,2024-01-23,2025-03-20,Y,<65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0114,ONC-305 + SOC,1,Overall Survival,OS,14.18,432,0,Event,2024-01-23,2025-03-30,Y,<65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0115,Placebo + SOC,0,Progression-Free Survival,PFS,11.29,344,1,Censored,2024-04-18,2025-03-28,Y,>=65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0115,Placebo + SOC,0,Overall Survival,OS,21.45,653,1,Censored,2024-04-18,2026-01-31,Y,>=65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0116,ONC-305 + SOC,1,Progression-Free Survival,PFS,0.99,30,0,Event,2024-08-30,2024-09-29,Y,>=65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0116,ONC-305 + SOC,1,Overall Survival,OS,17.05,519,1,Censored,2024-08-30,2026-01-31,Y,>=65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0117,ONC-305 + SOC,1,Progression-Free Survival,PFS,7.66,233,0,Event,2024-02-23,2024-10-13,Y,<65,Female,1,IV,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0117,ONC-305 + SOC,1,Overall Survival,OS,17.5,533,1,Censored,2024-02-23,2025-08-09,Y,<65,Female,1,IV,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0118,Placebo + SOC,0,Progression-Free Survival,PFS,3.02,92,0,Event,2024-03-11,2024-06-11,Y,>=65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0118,Placebo + SOC,0,Overall Survival,OS,22.7,691,1,Censored,2024-03-11,2026-01-31,Y,>=65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0119,ONC-305 + SOC,1,Progression-Free Survival,PFS,11.18,340,1,Censored,2024-08-25,2025-07-31,Y,<65,Female,1,IIIB/IIIC,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0119,ONC-305 + SOC,1,Overall Survival,OS,17.22,524,1,Censored,2024-08-25,2026-01-31,Y,<65,Female,1,IIIB/IIIC,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0120,ONC-305 + SOC,1,Progression-Free Survival,PFS,6.48,197,0,Event,2024-04-03,2024-10-17,Y,<65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0120,ONC-305 + SOC,1,Overall Survival,OS,13.65,416,0,Event,2024-04-03,2025-05-24,Y,<65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0121,Placebo + SOC,0,Progression-Free Survival,PFS,5.14,156,0,Event,2024-05-24,2024-10-27,Y,<65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0121,Placebo + SOC,0,Overall Survival,OS,7.95,242,0,Event,2024-05-24,2025-01-21,Y,<65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0122,Placebo + SOC,0,Progression-Free Survival,PFS,2.77,84,0,Event,2024-06-17,2024-09-09,Y,<65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0122,Placebo + SOC,0,Overall Survival,OS,19.48,593,1,Censored,2024-06-17,2026-01-31,Y,<65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0123,Placebo + SOC,0,Progression-Free Survival,PFS,7.3,222,0,Event,2024-07-10,2025-02-17,Y,>=65,Male,0,IIIB/IIIC,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0123,Placebo + SOC,0,Overall Survival,OS,18.73,570,1,Censored,2024-07-10,2026-01-31,Y,>=65,Male,0,IIIB/IIIC,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0124,Placebo + SOC,0,Progression-Free Survival,PFS,11.14,339,0,Event,2024-08-28,2025-08-02,Y,>=65,Male,1,IIIB/IIIC,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0124,Placebo + SOC,0,Overall Survival,OS,13.09,398,0,Event,2024-08-28,2025-09-30,Y,>=65,Male,1,IIIB/IIIC,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0125,Placebo + SOC,0,Progression-Free Survival,PFS,7.24,220,0,Event,2024-08-30,2025-04-07,Y,<65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0125,Placebo + SOC,0,Overall Survival,OS,12.42,378,0,Event,2024-08-30,2025-09-12,Y,<65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0126,ONC-305 + SOC,1,Progression-Free Survival,PFS,11.34,345,1,Censored,2024-05-22,2025-05-02,Y,>=65,Male,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0126,ONC-305 + SOC,1,Overall Survival,OS,13.33,406,0,Event,2024-05-22,2025-07-02,Y,>=65,Male,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0127,ONC-305 + SOC,1,Progression-Free Survival,PFS,1.23,38,0,Event,2024-05-17,2024-06-24,Y,>=65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0127,ONC-305 + SOC,1,Overall Survival,OS,7.62,232,0,Event,2024-05-17,2025-01-04,Y,>=65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0128,Placebo + SOC,0,Progression-Free Survival,PFS,9.82,299,0,Event,2024-08-11,2025-06-06,Y,<65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0128,Placebo + SOC,0,Overall Survival,OS,14.04,427,1,Censored,2024-08-11,2025-10-12,Y,<65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0129,Placebo + SOC,0,Progression-Free Survival,PFS,2.73,83,0,Event,2024-04-20,2024-07-12,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0129,Placebo + SOC,0,Overall Survival,OS,5.06,154,0,Event,2024-04-20,2024-09-21,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0130,ONC-305 + SOC,1,Progression-Free Survival,PFS,6.72,205,0,Event,2024-01-06,2024-07-29,Y,>=65,Female,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0130,ONC-305 + SOC,1,Overall Survival,OS,24.84,756,1,Censored,2024-01-06,2026-01-31,Y,>=65,Female,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0131,ONC-305 + SOC,1,Progression-Free Survival,PFS,8.21,250,0,Event,2024-03-17,2024-11-22,Y,>=65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0131,ONC-305 + SOC,1,Overall Survival,OS,22.51,685,1,Censored,2024-03-17,2026-01-31,Y,>=65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0132,Placebo + SOC,0,Progression-Free Survival,PFS,18.69,569,1,Censored,2024-01-17,2025-08-08,Y,>=65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0132,Placebo + SOC,0,Overall Survival,OS,24.48,745,1,Censored,2024-01-17,2026-01-31,Y,>=65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0133,ONC-305 + SOC,1,Progression-Free Survival,PFS,5.07,154,0,Event,2024-03-09,2024-08-10,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0133,ONC-305 + SOC,1,Overall Survival,OS,6.43,196,0,Event,2024-03-09,2024-09-21,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0134,ONC-305 + SOC,1,Progression-Free Survival,PFS,10.2,311,0,Event,2024-07-12,2025-05-19,Y,>=65,Female,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0134,ONC-305 + SOC,1,Overall Survival,OS,11.99,365,0,Event,2024-07-12,2025-07-12,Y,>=65,Female,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0135,Placebo + SOC,0,Progression-Free Survival,PFS,0.66,20,0,Event,2024-03-21,2024-04-10,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0135,Placebo + SOC,0,Overall Survival,OS,15.6,475,0,Event,2024-03-21,2025-07-09,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0136,Placebo + SOC,0,Progression-Free Survival,PFS,2.18,66,0,Event,2024-04-07,2024-06-12,Y,>=65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0136,Placebo + SOC,0,Overall Survival,OS,17.16,522,0,Event,2024-04-07,2025-09-11,Y,>=65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0137,ONC-305 + SOC,1,Progression-Free Survival,PFS,19.22,585,0,Event,2024-02-11,2025-09-18,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0137,ONC-305 + SOC,1,Overall Survival,OS,20.07,611,0,Event,2024-02-11,2025-10-14,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0138,Placebo + SOC,0,Progression-Free Survival,PFS,1.94,59,0,Event,2024-05-25,2024-07-23,Y,<65,Male,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0138,Placebo + SOC,0,Overall Survival,OS,8.96,273,0,Event,2024-05-25,2025-02-22,Y,<65,Male,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0139,Placebo + SOC,0,Progression-Free Survival,PFS,4.4,134,0,Event,2024-08-07,2024-12-19,Y,<65,Female,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0139,Placebo + SOC,0,Overall Survival,OS,15.81,481,0,Event,2024-08-07,2025-12-01,Y,<65,Female,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0140,ONC-305 + SOC,1,Progression-Free Survival,PFS,11.74,357,0,Event,2024-02-08,2025-01-30,Y,<65,Male,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0140,ONC-305 + SOC,1,Overall Survival,OS,23.75,723,1,Censored,2024-02-08,2026-01-31,Y,<65,Male,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0141,ONC-305 + SOC,1,Progression-Free Survival,PFS,1.91,58,0,Event,2024-01-28,2024-03-26,Y,<65,Female,0,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0141,ONC-305 + SOC,1,Overall Survival,OS,12.42,378,0,Event,2024-01-28,2025-02-09,Y,<65,Female,0,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0142,ONC-305 + SOC,1,Progression-Free Survival,PFS,2.39,73,0,Event,2024-08-12,2024-10-24,Y,>=65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0142,ONC-305 + SOC,1,Overall Survival,OS,13.33,406,0,Event,2024-08-12,2025-09-22,Y,>=65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0143,Placebo + SOC,0,Progression-Free Survival,PFS,9.5,289,0,Event,2024-07-31,2025-05-16,Y,>=65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0143,Placebo + SOC,0,Overall Survival,OS,16.32,497,1,Censored,2024-07-31,2025-12-10,Y,>=65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0144,ONC-305 + SOC,1,Progression-Free Survival,PFS,19.2,585,0,Event,2024-01-24,2025-08-31,Y,<65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0144,ONC-305 + SOC,1,Overall Survival,OS,23.98,730,0,Event,2024-01-24,2026-01-23,Y,<65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0145,ONC-305 + SOC,1,Progression-Free Survival,PFS,0.79,24,0,Event,2024-03-19,2024-04-12,Y,<65,Male,0,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0145,ONC-305 + SOC,1,Overall Survival,OS,14.44,439,1,Censored,2024-03-19,2025-06-01,Y,<65,Male,0,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0146,Placebo + SOC,0,Progression-Free Survival,PFS,4.69,143,0,Event,2024-08-20,2025-01-10,Y,>=65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0146,Placebo + SOC,0,Overall Survival,OS,12.78,389,0,Event,2024-08-20,2025-09-13,Y,>=65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0147,ONC-305 + SOC,1,Progression-Free Survival,PFS,15.37,468,0,Event,2024-05-24,2025-09-04,Y,<65,Male,1,IIIB/IIIC,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0147,ONC-305 + SOC,1,Overall Survival,OS,20.27,617,1,Censored,2024-05-24,2026-01-31,Y,<65,Male,1,IIIB/IIIC,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0148,ONC-305 + SOC,1,Progression-Free Survival,PFS,7.1,216,0,Event,2024-06-03,2025-01-05,Y,<65,Male,0,IV,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0148,ONC-305 + SOC,1,Overall Survival,OS,19.94,607,1,Censored,2024-06-03,2026-01-31,Y,<65,Male,0,IV,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0149,ONC-305 + SOC,1,Progression-Free Survival,PFS,4.69,143,0,Event,2024-06-12,2024-11-02,Y,>=65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0149,ONC-305 + SOC,1,Overall Survival,OS,15.54,473,0,Event,2024-06-12,2025-09-28,Y,>=65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0150,ONC-305 + SOC,1,Progression-Free Survival,PFS,0.37,11,0,Event,2024-05-09,2024-05-20,Y,<65,Female,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0150,ONC-305 + SOC,1,Overall Survival,OS,15.38,468,0,Event,2024-05-09,2025-08-20,Y,<65,Female,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0151,ONC-305 + SOC,1,Progression-Free Survival,PFS,18.0,548,0,Event,2024-05-06,2025-11-05,Y,>=65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0151,ONC-305 + SOC,1,Overall Survival,OS,20.86,635,1,Censored,2024-05-06,2026-01-31,Y,>=65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0152,Placebo + SOC,0,Progression-Free Survival,PFS,1.89,58,0,Event,2024-06-14,2024-08-11,Y,>=65,Male,1,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0152,Placebo + SOC,0,Overall Survival,OS,10.65,324,0,Event,2024-06-14,2025-05-04,Y,>=65,Male,1,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0153,Placebo + SOC,0,Progression-Free Survival,PFS,13.94,424,0,Event,2024-02-02,2025-04-01,Y,>=65,Male,0,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0153,Placebo + SOC,0,Overall Survival,OS,21.15,644,1,Censored,2024-02-02,2025-11-07,Y,>=65,Male,0,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0154,ONC-305 + SOC,1,Progression-Free Survival,PFS,7.96,242,0,Event,2024-03-10,2024-11-07,Y,>=65,Male,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0154,ONC-305 + SOC,1,Overall Survival,OS,18.06,550,0,Event,2024-03-10,2025-09-11,Y,>=65,Male,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0155,Placebo + SOC,0,Progression-Free Survival,PFS,21.96,668,1,Censored,2024-01-11,2025-11-09,Y,>=65,Female,1,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0155,Placebo + SOC,0,Overall Survival,OS,24.67,751,1,Censored,2024-01-11,2026-01-31,Y,>=65,Female,1,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0156,Placebo + SOC,0,Progression-Free Survival,PFS,5.79,176,0,Event,2024-01-10,2024-07-04,Y,>=65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0156,Placebo + SOC,0,Overall Survival,OS,17.67,538,1,Censored,2024-01-10,2025-07-01,Y,>=65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0157,ONC-305 + SOC,1,Progression-Free Survival,PFS,8.74,266,0,Event,2024-05-29,2025-02-19,Y,>=65,Female,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0157,ONC-305 + SOC,1,Overall Survival,OS,17.16,522,0,Event,2024-05-29,2025-11-02,Y,>=65,Female,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0158,Placebo + SOC,0,Progression-Free Survival,PFS,7.67,233,0,Event,2024-03-06,2024-10-25,Y,<65,Female,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0158,Placebo + SOC,0,Overall Survival,OS,13.15,400,0,Event,2024-03-06,2025-04-10,Y,<65,Female,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0159,ONC-305 + SOC,1,Progression-Free Survival,PFS,12.14,370,0,Event,2024-05-03,2025-05-08,Y,<65,Female,0,IV,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0159,ONC-305 + SOC,1,Overall Survival,OS,18.92,576,0,Event,2024-05-03,2025-11-30,Y,<65,Female,0,IV,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0160,Placebo + SOC,0,Progression-Free Survival,PFS,6.69,203,0,Event,2024-05-09,2024-11-28,Y,<65,Male,1,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0160,Placebo + SOC,0,Overall Survival,OS,9.12,278,0,Event,2024-05-09,2025-02-11,Y,<65,Male,1,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0161,Placebo + SOC,0,Progression-Free Survival,PFS,0.24,7,0,Event,2024-06-27,2024-07-04,Y,<65,Male,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0161,Placebo + SOC,0,Overall Survival,OS,19.15,583,1,Censored,2024-06-27,2026-01-31,Y,<65,Male,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0162,ONC-305 + SOC,1,Progression-Free Survival,PFS,3.11,95,0,Event,2024-01-18,2024-04-22,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0162,ONC-305 + SOC,1,Overall Survival,OS,16.12,491,1,Censored,2024-01-18,2025-05-23,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0163,ONC-305 + SOC,1,Progression-Free Survival,PFS,0.43,13,0,Event,2024-05-23,2024-06-05,Y,<65,Male,0,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0163,ONC-305 + SOC,1,Overall Survival,OS,20.3,618,1,Censored,2024-05-23,2026-01-31,Y,<65,Male,0,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0164,Placebo + SOC,0,Progression-Free Survival,PFS,4.43,135,0,Event,2024-08-19,2025-01-01,Y,>=65,Female,0,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0164,Placebo + SOC,0,Overall Survival,OS,15.84,482,1,Censored,2024-08-19,2025-12-14,Y,>=65,Female,0,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0165,ONC-305 + SOC,1,Progression-Free Survival,PFS,2.9,88,0,Event,2024-08-03,2024-10-30,Y,<65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0165,ONC-305 + SOC,1,Overall Survival,OS,13.97,425,0,Event,2024-08-03,2025-10-02,Y,<65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0166,ONC-305 + SOC,1,Progression-Free Survival,PFS,8.03,245,0,Event,2024-07-19,2025-03-21,Y,<65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0166,ONC-305 + SOC,1,Overall Survival,OS,16.16,492,1,Censored,2024-07-19,2025-11-23,Y,<65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0167,Placebo + SOC,0,Progression-Free Survival,PFS,14.1,429,0,Event,2024-03-08,2025-05-11,Y,<65,Male,1,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0167,Placebo + SOC,0,Overall Survival,OS,21.57,657,0,Event,2024-03-08,2025-12-25,Y,<65,Male,1,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0168,Placebo + SOC,0,Progression-Free Survival,PFS,1.94,59,0,Event,2024-01-22,2024-03-21,Y,<65,Female,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0168,Placebo + SOC,0,Overall Survival,OS,14.87,453,1,Censored,2024-01-22,2025-04-19,Y,<65,Female,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0169,Placebo + SOC,0,Progression-Free Survival,PFS,4.94,150,0,Event,2024-04-02,2024-08-30,Y,<65,Female,1,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0169,Placebo + SOC,0,Overall Survival,OS,12.42,378,0,Event,2024-04-02,2025-04-15,Y,<65,Female,1,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0170,Placebo + SOC,0,Progression-Free Survival,PFS,16.94,516,0,Event,2024-05-07,2025-10-05,Y,<65,Male,0,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0170,Placebo + SOC,0,Overall Survival,OS,20.41,621,1,Censored,2024-05-07,2026-01-18,Y,<65,Male,0,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0171,Placebo + SOC,0,Progression-Free Survival,PFS,4.61,140,0,Event,2024-05-04,2024-09-21,Y,>=65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0171,Placebo + SOC,0,Overall Survival,OS,16.64,507,0,Event,2024-05-04,2025-09-23,Y,>=65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0172,ONC-305 + SOC,1,Progression-Free Survival,PFS,9.87,300,0,Event,2024-02-13,2024-12-09,Y,<65,Female,1,IV,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0172,ONC-305 + SOC,1,Overall Survival,OS,13.96,425,0,Event,2024-02-13,2025-04-13,Y,<65,Female,1,IV,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0173,ONC-305 + SOC,1,Progression-Free Survival,PFS,1.2,37,0,Event,2024-03-17,2024-04-23,Y,>=65,Female,1,IIIB/IIIC,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0173,ONC-305 + SOC,1,Overall Survival,OS,6.1,186,0,Event,2024-03-17,2024-09-19,Y,>=65,Female,1,IIIB/IIIC,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0174,ONC-305 + SOC,1,Progression-Free Survival,PFS,3.89,118,0,Event,2024-02-13,2024-06-10,Y,<65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0174,ONC-305 + SOC,1,Overall Survival,OS,22.38,681,0,Event,2024-02-13,2025-12-25,Y,<65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0175,ONC-305 + SOC,1,Progression-Free Survival,PFS,14.08,429,1,Censored,2024-05-14,2025-07-17,Y,<65,Female,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0175,ONC-305 + SOC,1,Overall Survival,OS,18.6,566,1,Censored,2024-05-14,2025-12-01,Y,<65,Female,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0176,ONC-305 + SOC,1,Progression-Free Survival,PFS,10.4,316,1,Censored,2024-08-01,2025-06-13,Y,<65,Female,1,IIIB/IIIC,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0176,ONC-305 + SOC,1,Overall Survival,OS,18.0,548,1,Censored,2024-08-01,2026-01-31,Y,<65,Female,1,IIIB/IIIC,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0177,ONC-305 + SOC,1,Progression-Free Survival,PFS,2.09,64,0,Event,2024-05-27,2024-07-30,Y,<65,Female,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0177,ONC-305 + SOC,1,Overall Survival,OS,6.03,184,0,Event,2024-05-27,2024-11-27,Y,<65,Female,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0178,ONC-305 + SOC,1,Progression-Free Survival,PFS,14.11,430,1,Censored,2024-06-11,2025-08-15,Y,>=65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0178,ONC-305 + SOC,1,Overall Survival,OS,19.68,599,1,Censored,2024-06-11,2026-01-31,Y,>=65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0179,ONC-305 + SOC,1,Progression-Free Survival,PFS,11.74,357,0,Event,2024-05-27,2025-05-19,Y,>=65,Male,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0179,ONC-305 + SOC,1,Overall Survival,OS,14.57,444,0,Event,2024-05-27,2025-08-14,Y,>=65,Male,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0180,Placebo + SOC,0,Progression-Free Survival,PFS,9.54,290,0,Event,2024-03-03,2024-12-18,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0180,Placebo + SOC,0,Overall Survival,OS,19.52,594,0,Event,2024-03-03,2025-10-18,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0181,ONC-305 + SOC,1,Progression-Free Survival,PFS,5.85,178,0,Event,2024-05-25,2024-11-19,Y,<65,Female,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0181,ONC-305 + SOC,1,Overall Survival,OS,14.11,429,1,Censored,2024-05-25,2025-07-28,Y,<65,Female,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0182,Placebo + SOC,0,Progression-Free Survival,PFS,11.38,347,0,Event,2024-01-20,2025-01-01,Y,<65,Female,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0182,Placebo + SOC,0,Overall Survival,OS,12.77,389,0,Event,2024-01-20,2025-02-12,Y,<65,Female,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0183,ONC-305 + SOC,1,Progression-Free Survival,PFS,10.23,311,1,Censored,2024-03-30,2025-02-04,Y,>=65,Male,0,IIIB/IIIC,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0183,ONC-305 + SOC,1,Overall Survival,OS,22.08,672,1,Censored,2024-03-30,2026-01-31,Y,>=65,Male,0,IIIB/IIIC,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0184,ONC-305 + SOC,1,Progression-Free Survival,PFS,14.85,452,0,Event,2024-02-13,2025-05-10,Y,<65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0184,ONC-305 + SOC,1,Overall Survival,OS,15.03,458,0,Event,2024-02-13,2025-05-16,Y,<65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0185,ONC-305 + SOC,1,Progression-Free Survival,PFS,16.47,501,0,Event,2024-02-12,2025-06-27,Y,>=65,Male,0,IV,<1%,Rest of World,Y
+ONC-305-301,ONC-305-301-0185,ONC-305 + SOC,1,Overall Survival,OS,17.18,523,0,Event,2024-02-12,2025-07-19,Y,>=65,Male,0,IV,<1%,Rest of World,Y
+ONC-305-301,ONC-305-301-0186,Placebo + SOC,0,Progression-Free Survival,PFS,3.31,101,0,Event,2024-06-30,2024-10-09,Y,<65,Female,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0186,Placebo + SOC,0,Overall Survival,OS,13.97,425,0,Event,2024-06-30,2025-08-29,Y,<65,Female,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0187,Placebo + SOC,0,Progression-Free Survival,PFS,12.95,394,1,Censored,2024-08-26,2025-09-24,Y,<65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0187,Placebo + SOC,0,Overall Survival,OS,17.18,523,1,Censored,2024-08-26,2026-01-31,Y,<65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0188,ONC-305 + SOC,1,Progression-Free Survival,PFS,22.24,677,1,Censored,2024-03-25,2026-01-31,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0188,ONC-305 + SOC,1,Overall Survival,OS,22.24,677,1,Censored,2024-03-25,2026-01-31,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0189,Placebo + SOC,0,Progression-Free Survival,PFS,6.46,197,0,Event,2024-04-09,2024-10-23,Y,<65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0189,Placebo + SOC,0,Overall Survival,OS,14.63,445,0,Event,2024-04-09,2025-06-28,Y,<65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0190,ONC-305 + SOC,1,Progression-Free Survival,PFS,12.82,390,1,Censored,2024-06-27,2025-07-22,Y,<65,Male,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0190,ONC-305 + SOC,1,Overall Survival,OS,14.66,446,1,Censored,2024-06-27,2025-09-16,Y,<65,Male,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0191,Placebo + SOC,0,Progression-Free Survival,PFS,14.41,439,0,Event,2024-04-04,2025-06-17,Y,<65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0191,Placebo + SOC,0,Overall Survival,OS,21.91,667,1,Censored,2024-04-04,2026-01-31,Y,<65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0192,ONC-305 + SOC,1,Progression-Free Survival,PFS,2.96,90,0,Event,2024-08-15,2024-11-13,Y,<65,Female,1,IV,>=50%,Rest of World,Y
+ONC-305-301,ONC-305-301-0192,ONC-305 + SOC,1,Overall Survival,OS,6.3,192,0,Event,2024-08-15,2025-02-23,Y,<65,Female,1,IV,>=50%,Rest of World,Y
+ONC-305-301,ONC-305-301-0193,ONC-305 + SOC,1,Progression-Free Survival,PFS,10.74,327,0,Event,2024-02-28,2025-01-20,Y,>=65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0193,ONC-305 + SOC,1,Overall Survival,OS,11.42,347,0,Event,2024-02-28,2025-02-09,Y,>=65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0194,ONC-305 + SOC,1,Progression-Free Survival,PFS,7.03,214,0,Event,2024-08-27,2025-03-29,Y,<65,Male,1,IIIB/IIIC,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0194,ONC-305 + SOC,1,Overall Survival,OS,17.15,522,1,Censored,2024-08-27,2026-01-31,Y,<65,Male,1,IIIB/IIIC,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0195,ONC-305 + SOC,1,Progression-Free Survival,PFS,3.57,109,0,Event,2024-07-29,2024-11-15,Y,>=65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0195,ONC-305 + SOC,1,Overall Survival,OS,8.92,271,0,Event,2024-07-29,2025-04-26,Y,>=65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0196,ONC-305 + SOC,1,Progression-Free Survival,PFS,22.41,682,1,Censored,2024-03-20,2026-01-31,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0196,ONC-305 + SOC,1,Overall Survival,OS,22.41,682,1,Censored,2024-03-20,2026-01-31,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0197,Placebo + SOC,0,Progression-Free Survival,PFS,2.58,79,0,Event,2024-04-03,2024-06-21,Y,>=65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0197,Placebo + SOC,0,Overall Survival,OS,21.95,668,1,Censored,2024-04-03,2026-01-31,Y,>=65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0198,ONC-305 + SOC,1,Progression-Free Survival,PFS,7.83,238,0,Event,2024-03-21,2024-11-14,Y,>=65,Male,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0198,ONC-305 + SOC,1,Overall Survival,OS,20.96,638,1,Censored,2024-03-21,2025-12-19,Y,>=65,Male,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0199,Placebo + SOC,0,Progression-Free Survival,PFS,6.08,185,0,Event,2024-01-31,2024-08-03,Y,<65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0199,Placebo + SOC,0,Overall Survival,OS,8.71,265,0,Event,2024-01-31,2024-10-22,Y,<65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0200,ONC-305 + SOC,1,Progression-Free Survival,PFS,13.44,409,0,Event,2024-03-21,2025-05-04,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0200,ONC-305 + SOC,1,Overall Survival,OS,16.3,496,1,Censored,2024-03-21,2025-07-30,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0201,ONC-305 + SOC,1,Progression-Free Survival,PFS,12.47,380,0,Event,2024-02-20,2025-03-06,Y,>=65,Male,0,IV,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0201,ONC-305 + SOC,1,Overall Survival,OS,18.8,572,0,Event,2024-02-20,2025-09-14,Y,>=65,Male,0,IV,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0202,ONC-305 + SOC,1,Progression-Free Survival,PFS,3.92,119,0,Event,2024-03-24,2024-07-21,Y,<65,Male,0,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0202,ONC-305 + SOC,1,Overall Survival,OS,22.28,678,1,Censored,2024-03-24,2026-01-31,Y,<65,Male,0,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0203,ONC-305 + SOC,1,Progression-Free Survival,PFS,4.23,129,0,Event,2024-06-10,2024-10-17,Y,<65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0203,ONC-305 + SOC,1,Overall Survival,OS,9.02,274,0,Event,2024-06-10,2025-03-11,Y,<65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0204,ONC-305 + SOC,1,Progression-Free Survival,PFS,18.46,562,1,Censored,2024-02-18,2025-09-02,Y,<65,Male,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0204,ONC-305 + SOC,1,Overall Survival,OS,23.43,713,1,Censored,2024-02-18,2026-01-31,Y,<65,Male,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0205,Placebo + SOC,0,Progression-Free Survival,PFS,1.0,30,0,Event,2024-02-02,2024-03-03,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0205,Placebo + SOC,0,Overall Survival,OS,16.0,487,1,Censored,2024-02-02,2025-06-03,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0206,Placebo + SOC,0,Progression-Free Survival,PFS,11.22,341,0,Event,2024-03-31,2025-03-07,Y,>=65,Male,0,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0206,Placebo + SOC,0,Overall Survival,OS,14.12,430,0,Event,2024-03-31,2025-06-04,Y,>=65,Male,0,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0207,ONC-305 + SOC,1,Progression-Free Survival,PFS,11.87,361,1,Censored,2024-03-21,2025-03-17,Y,<65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0207,ONC-305 + SOC,1,Overall Survival,OS,17.59,535,1,Censored,2024-03-21,2025-09-07,Y,<65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0208,ONC-305 + SOC,1,Progression-Free Survival,PFS,10.03,305,0,Event,2024-07-03,2025-05-04,Y,<65,Female,1,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0208,ONC-305 + SOC,1,Overall Survival,OS,18.96,577,1,Censored,2024-07-03,2026-01-31,Y,<65,Female,1,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0209,ONC-305 + SOC,1,Progression-Free Survival,PFS,16.05,489,0,Event,2024-01-04,2025-05-07,Y,<65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0209,ONC-305 + SOC,1,Overall Survival,OS,18.34,558,0,Event,2024-01-04,2025-07-15,Y,<65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0210,Placebo + SOC,0,Progression-Free Survival,PFS,6.46,197,0,Event,2024-03-17,2024-09-30,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0210,Placebo + SOC,0,Overall Survival,OS,22.51,685,1,Censored,2024-03-17,2026-01-31,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0211,Placebo + SOC,0,Progression-Free Survival,PFS,2.01,61,0,Event,2024-08-03,2024-10-03,Y,<65,Male,0,IIIB/IIIC,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0211,Placebo + SOC,0,Overall Survival,OS,17.94,546,1,Censored,2024-08-03,2026-01-31,Y,<65,Male,0,IIIB/IIIC,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0212,Placebo + SOC,0,Progression-Free Survival,PFS,6.07,185,0,Event,2024-07-18,2025-01-19,Y,<65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0212,Placebo + SOC,0,Overall Survival,OS,8.65,263,0,Event,2024-07-18,2025-04-07,Y,<65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0213,ONC-305 + SOC,1,Progression-Free Survival,PFS,19.88,605,1,Censored,2024-06-05,2026-01-31,Y,<65,Male,1,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0213,ONC-305 + SOC,1,Overall Survival,OS,19.88,605,1,Censored,2024-06-05,2026-01-31,Y,<65,Male,1,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0214,ONC-305 + SOC,1,Progression-Free Survival,PFS,6.64,202,0,Event,2024-08-24,2025-03-14,Y,>=65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0214,ONC-305 + SOC,1,Overall Survival,OS,17.25,525,1,Censored,2024-08-24,2026-01-31,Y,>=65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0215,ONC-305 + SOC,1,Progression-Free Survival,PFS,9.27,282,0,Event,2024-04-04,2025-01-11,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0215,ONC-305 + SOC,1,Overall Survival,OS,21.91,667,1,Censored,2024-04-04,2026-01-31,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0216,ONC-305 + SOC,1,Progression-Free Survival,PFS,0.36,11,0,Event,2024-07-30,2024-08-10,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0216,ONC-305 + SOC,1,Overall Survival,OS,18.07,550,1,Censored,2024-07-30,2026-01-31,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0217,ONC-305 + SOC,1,Progression-Free Survival,PFS,0.97,29,0,Event,2024-09-01,2024-09-30,Y,>=65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0217,ONC-305 + SOC,1,Overall Survival,OS,7.54,230,0,Event,2024-09-01,2025-04-19,Y,>=65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0218,Placebo + SOC,0,Progression-Free Survival,PFS,17.54,534,1,Censored,2024-08-15,2026-01-31,Y,<65,Male,1,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0218,Placebo + SOC,0,Overall Survival,OS,17.54,534,1,Censored,2024-08-15,2026-01-31,Y,<65,Male,1,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0219,Placebo + SOC,0,Progression-Free Survival,PFS,15.76,480,0,Event,2024-01-16,2025-05-10,Y,>=65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0219,Placebo + SOC,0,Overall Survival,OS,19.76,602,0,Event,2024-01-16,2025-09-09,Y,>=65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0220,ONC-305 + SOC,1,Progression-Free Survival,PFS,17.53,534,0,Event,2024-03-12,2025-08-28,Y,>=65,Male,0,IV,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0220,ONC-305 + SOC,1,Overall Survival,OS,17.96,547,0,Event,2024-03-12,2025-09-10,Y,>=65,Male,0,IV,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0221,ONC-305 + SOC,1,Progression-Free Survival,PFS,14.39,438,1,Censored,2024-01-27,2025-04-09,Y,>=65,Male,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0221,ONC-305 + SOC,1,Overall Survival,OS,16.85,513,0,Event,2024-01-27,2025-06-23,Y,>=65,Male,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0222,Placebo + SOC,0,Progression-Free Survival,PFS,3.51,107,0,Event,2024-08-22,2024-12-07,Y,>=65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0222,Placebo + SOC,0,Overall Survival,OS,13.72,417,0,Event,2024-08-22,2025-10-13,Y,>=65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0223,Placebo + SOC,0,Progression-Free Survival,PFS,5.03,153,0,Event,2024-01-14,2024-06-15,Y,<65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0223,Placebo + SOC,0,Overall Survival,OS,14.79,450,0,Event,2024-01-14,2025-04-08,Y,<65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0224,ONC-305 + SOC,1,Progression-Free Survival,PFS,20.1,612,0,Event,2024-02-14,2025-10-18,Y,>=65,Male,0,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0224,ONC-305 + SOC,1,Overall Survival,OS,23.56,717,1,Censored,2024-02-14,2026-01-31,Y,>=65,Male,0,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0225,ONC-305 + SOC,1,Progression-Free Survival,PFS,3.5,106,0,Event,2024-08-18,2024-12-02,Y,>=65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0225,ONC-305 + SOC,1,Overall Survival,OS,16.92,515,1,Censored,2024-08-18,2026-01-15,Y,>=65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0226,ONC-305 + SOC,1,Progression-Free Survival,PFS,7.96,242,0,Event,2024-03-03,2024-10-31,Y,<65,Female,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0226,ONC-305 + SOC,1,Overall Survival,OS,10.86,331,0,Event,2024-03-03,2025-01-28,Y,<65,Female,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0227,Placebo + SOC,0,Progression-Free Survival,PFS,4.58,139,0,Event,2024-02-12,2024-06-30,Y,<65,Female,1,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0227,Placebo + SOC,0,Overall Survival,OS,10.96,334,0,Event,2024-02-12,2025-01-11,Y,<65,Female,1,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0228,ONC-305 + SOC,1,Progression-Free Survival,PFS,10.5,320,0,Event,2024-02-14,2024-12-30,Y,<65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0228,ONC-305 + SOC,1,Overall Survival,OS,14.61,445,1,Censored,2024-02-14,2025-05-04,Y,<65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0229,ONC-305 + SOC,1,Progression-Free Survival,PFS,4.87,148,0,Event,2024-03-30,2024-08-25,Y,<65,Female,0,IV,<1%,Rest of World,Y
+ONC-305-301,ONC-305-301-0229,ONC-305 + SOC,1,Overall Survival,OS,22.08,672,1,Censored,2024-03-30,2026-01-31,Y,<65,Female,0,IV,<1%,Rest of World,Y
+ONC-305-301,ONC-305-301-0230,ONC-305 + SOC,1,Progression-Free Survival,PFS,3.64,111,0,Event,2024-01-11,2024-05-01,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0230,ONC-305 + SOC,1,Overall Survival,OS,5.3,161,0,Event,2024-01-11,2024-06-20,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0231,ONC-305 + SOC,1,Progression-Free Survival,PFS,6.69,204,0,Event,2024-05-31,2024-12-21,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0231,ONC-305 + SOC,1,Overall Survival,OS,17.22,524,1,Censored,2024-05-31,2025-11-06,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0232,ONC-305 + SOC,1,Progression-Free Survival,PFS,4.71,143,0,Event,2024-06-23,2024-11-13,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0232,ONC-305 + SOC,1,Overall Survival,OS,12.68,386,0,Event,2024-06-23,2025-07-14,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0233,Placebo + SOC,0,Progression-Free Survival,PFS,10.02,305,0,Event,2024-05-13,2025-03-14,Y,<65,Female,1,IV,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0233,Placebo + SOC,0,Overall Survival,OS,17.05,519,0,Event,2024-05-13,2025-10-14,Y,<65,Female,1,IV,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0234,ONC-305 + SOC,1,Progression-Free Survival,PFS,19.97,608,1,Censored,2024-03-03,2025-11-01,Y,<65,Male,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0234,ONC-305 + SOC,1,Overall Survival,OS,22.97,699,1,Censored,2024-03-03,2026-01-31,Y,<65,Male,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0235,Placebo + SOC,0,Progression-Free Survival,PFS,11.87,361,0,Event,2024-07-17,2025-07-13,Y,>=65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0235,Placebo + SOC,0,Overall Survival,OS,18.5,563,1,Censored,2024-07-17,2026-01-31,Y,>=65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0236,Placebo + SOC,0,Progression-Free Survival,PFS,2.17,66,0,Event,2024-07-11,2024-09-15,Y,<65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0236,Placebo + SOC,0,Overall Survival,OS,6.19,188,0,Event,2024-07-11,2025-01-15,Y,<65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0237,ONC-305 + SOC,1,Progression-Free Survival,PFS,4.55,138,0,Event,2024-08-01,2024-12-17,Y,<65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0237,ONC-305 + SOC,1,Overall Survival,OS,15.5,472,0,Event,2024-08-01,2025-11-16,Y,<65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0238,Placebo + SOC,0,Progression-Free Survival,PFS,1.72,53,0,Event,2024-02-26,2024-04-19,Y,<65,Female,1,IIIB/IIIC,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0238,Placebo + SOC,0,Overall Survival,OS,9.8,298,0,Event,2024-02-26,2024-12-20,Y,<65,Female,1,IIIB/IIIC,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0239,ONC-305 + SOC,1,Progression-Free Survival,PFS,5.39,164,0,Event,2024-05-21,2024-11-01,Y,>=65,Female,0,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0239,ONC-305 + SOC,1,Overall Survival,OS,20.37,620,1,Censored,2024-05-21,2026-01-31,Y,>=65,Female,0,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0240,ONC-305 + SOC,1,Progression-Free Survival,PFS,1.97,60,0,Event,2024-06-15,2024-08-14,Y,<65,Male,1,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0240,ONC-305 + SOC,1,Overall Survival,OS,19.53,594,1,Censored,2024-06-15,2026-01-30,Y,<65,Male,1,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0241,ONC-305 + SOC,1,Progression-Free Survival,PFS,1.81,55,0,Event,2024-07-27,2024-09-20,Y,<65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0241,ONC-305 + SOC,1,Overall Survival,OS,18.17,553,1,Censored,2024-07-27,2026-01-31,Y,<65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0242,ONC-305 + SOC,1,Progression-Free Survival,PFS,5.02,153,0,Event,2024-04-29,2024-09-29,Y,>=65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0242,ONC-305 + SOC,1,Overall Survival,OS,21.09,642,1,Censored,2024-04-29,2026-01-31,Y,>=65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0243,ONC-305 + SOC,1,Progression-Free Survival,PFS,9.52,290,0,Event,2024-01-28,2024-11-13,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0243,ONC-305 + SOC,1,Overall Survival,OS,14.98,456,0,Event,2024-01-28,2025-04-28,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0244,Placebo + SOC,0,Progression-Free Survival,PFS,18.96,577,0,Event,2024-05-02,2025-11-30,Y,<65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0244,Placebo + SOC,0,Overall Survival,OS,19.0,578,0,Event,2024-05-02,2025-12-01,Y,<65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0245,Placebo + SOC,0,Progression-Free Survival,PFS,4.78,145,0,Event,2024-01-07,2024-05-31,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0245,Placebo + SOC,0,Overall Survival,OS,4.85,148,0,Event,2024-01-07,2024-06-03,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0246,Placebo + SOC,0,Progression-Free Survival,PFS,1.48,45,0,Event,2024-02-17,2024-04-02,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0246,Placebo + SOC,0,Overall Survival,OS,23.46,714,1,Censored,2024-02-17,2026-01-31,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0247,Placebo + SOC,0,Progression-Free Survival,PFS,6.08,185,0,Event,2024-02-06,2024-08-09,Y,<65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0247,Placebo + SOC,0,Overall Survival,OS,6.63,202,0,Event,2024-02-06,2024-08-26,Y,<65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0248,ONC-305 + SOC,1,Progression-Free Survival,PFS,4.04,123,0,Event,2024-08-30,2024-12-31,Y,>=65,Female,0,IIIB/IIIC,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0248,ONC-305 + SOC,1,Overall Survival,OS,17.05,519,1,Censored,2024-08-30,2026-01-31,Y,>=65,Female,0,IIIB/IIIC,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0249,ONC-305 + SOC,1,Progression-Free Survival,PFS,12.63,385,0,Event,2024-04-21,2025-05-11,Y,<65,Male,1,IIIB/IIIC,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0249,ONC-305 + SOC,1,Overall Survival,OS,15.62,475,0,Event,2024-04-21,2025-08-09,Y,<65,Male,1,IIIB/IIIC,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0250,ONC-305 + SOC,1,Progression-Free Survival,PFS,1.73,53,0,Event,2024-01-18,2024-03-11,Y,>=65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0250,ONC-305 + SOC,1,Overall Survival,OS,15.21,463,0,Event,2024-01-18,2025-04-25,Y,>=65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0251,Placebo + SOC,0,Progression-Free Survival,PFS,2.4,73,0,Event,2024-08-17,2024-10-29,Y,<65,Female,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0251,Placebo + SOC,0,Overall Survival,OS,15.91,484,1,Censored,2024-08-17,2025-12-14,Y,<65,Female,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0252,Placebo + SOC,0,Progression-Free Survival,PFS,1.76,54,0,Event,2024-01-30,2024-03-24,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0252,Placebo + SOC,0,Overall Survival,OS,11.9,362,0,Event,2024-01-30,2025-01-26,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0253,ONC-305 + SOC,1,Progression-Free Survival,PFS,15.31,466,0,Event,2024-01-17,2025-04-27,Y,>=65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0253,ONC-305 + SOC,1,Overall Survival,OS,19.48,593,0,Event,2024-01-17,2025-09-01,Y,>=65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0254,Placebo + SOC,0,Progression-Free Survival,PFS,3.55,108,0,Event,2024-06-02,2024-09-18,Y,<65,Female,1,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0254,Placebo + SOC,0,Overall Survival,OS,18.42,561,0,Event,2024-06-02,2025-12-15,Y,<65,Female,1,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0255,ONC-305 + SOC,1,Progression-Free Survival,PFS,6.89,210,0,Event,2024-05-11,2024-12-07,Y,>=65,Male,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0255,ONC-305 + SOC,1,Overall Survival,OS,20.7,630,1,Censored,2024-05-11,2026-01-31,Y,>=65,Male,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0256,ONC-305 + SOC,1,Progression-Free Survival,PFS,5.75,175,0,Event,2024-06-14,2024-12-06,Y,>=65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0256,ONC-305 + SOC,1,Overall Survival,OS,6.97,212,0,Event,2024-06-14,2025-01-12,Y,>=65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0257,ONC-305 + SOC,1,Progression-Free Survival,PFS,18.5,563,1,Censored,2024-07-17,2026-01-31,Y,>=65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0257,ONC-305 + SOC,1,Overall Survival,OS,18.5,563,1,Censored,2024-07-17,2026-01-31,Y,>=65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0258,Placebo + SOC,0,Progression-Free Survival,PFS,13.8,420,0,Event,2024-02-22,2025-04-17,Y,<65,Male,1,IIIB/IIIC,<1%,North America,Y
+ONC-305-301,ONC-305-301-0258,Placebo + SOC,0,Overall Survival,OS,14.99,456,0,Event,2024-02-22,2025-05-23,Y,<65,Male,1,IIIB/IIIC,<1%,North America,Y
+ONC-305-301,ONC-305-301-0259,Placebo + SOC,0,Progression-Free Survival,PFS,1.67,51,0,Event,2024-08-16,2024-10-06,Y,>=65,Female,1,IV,<1%,Rest of World,Y
+ONC-305-301,ONC-305-301-0259,Placebo + SOC,0,Overall Survival,OS,9.94,303,0,Event,2024-08-16,2025-06-15,Y,>=65,Female,1,IV,<1%,Rest of World,Y
+ONC-305-301,ONC-305-301-0260,Placebo + SOC,0,Progression-Free Survival,PFS,7.4,225,0,Event,2024-05-04,2024-12-15,Y,<65,Male,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0260,Placebo + SOC,0,Overall Survival,OS,7.92,241,0,Event,2024-05-04,2024-12-31,Y,<65,Male,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0261,Placebo + SOC,0,Progression-Free Survival,PFS,8.13,248,0,Event,2024-07-07,2025-03-12,Y,<65,Male,0,IIIB/IIIC,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0261,Placebo + SOC,0,Overall Survival,OS,9.2,280,0,Event,2024-07-07,2025-04-13,Y,<65,Male,0,IIIB/IIIC,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0262,ONC-305 + SOC,1,Progression-Free Survival,PFS,16.83,512,0,Event,2024-05-06,2025-09-30,Y,>=65,Female,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0262,ONC-305 + SOC,1,Overall Survival,OS,20.44,622,1,Censored,2024-05-06,2026-01-18,Y,>=65,Female,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0263,ONC-305 + SOC,1,Progression-Free Survival,PFS,17.25,525,1,Censored,2024-08-24,2026-01-31,Y,<65,Female,0,IV,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0263,ONC-305 + SOC,1,Overall Survival,OS,17.25,525,1,Censored,2024-08-24,2026-01-31,Y,<65,Female,0,IV,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0264,ONC-305 + SOC,1,Progression-Free Survival,PFS,1.66,51,0,Event,2024-03-29,2024-05-19,Y,<65,Male,0,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0264,ONC-305 + SOC,1,Overall Survival,OS,22.11,673,1,Censored,2024-03-29,2026-01-31,Y,<65,Male,0,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0265,Placebo + SOC,0,Progression-Free Survival,PFS,4.6,140,0,Event,2024-05-04,2024-09-21,Y,<65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0265,Placebo + SOC,0,Overall Survival,OS,20.93,637,1,Censored,2024-05-04,2026-01-31,Y,<65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0266,Placebo + SOC,0,Progression-Free Survival,PFS,1.17,35,0,Event,2024-07-23,2024-08-27,Y,<65,Male,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0266,Placebo + SOC,0,Overall Survival,OS,9.9,301,0,Event,2024-07-23,2025-05-20,Y,<65,Male,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0267,Placebo + SOC,0,Progression-Free Survival,PFS,3.02,92,0,Event,2024-03-01,2024-06-01,Y,<65,Male,1,IIIB/IIIC,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0267,Placebo + SOC,0,Overall Survival,OS,5.32,162,0,Event,2024-03-01,2024-08-10,Y,<65,Male,1,IIIB/IIIC,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0268,ONC-305 + SOC,1,Progression-Free Survival,PFS,4.21,128,0,Event,2024-09-02,2025-01-08,Y,<65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0268,ONC-305 + SOC,1,Overall Survival,OS,16.95,516,1,Censored,2024-09-02,2026-01-31,Y,<65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0269,ONC-305 + SOC,1,Progression-Free Survival,PFS,2.35,71,0,Event,2024-06-23,2024-09-02,Y,>=65,Female,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0269,ONC-305 + SOC,1,Overall Survival,OS,4.24,129,0,Event,2024-06-23,2024-10-30,Y,>=65,Female,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0270,Placebo + SOC,0,Progression-Free Survival,PFS,10.21,311,0,Event,2024-08-29,2025-07-06,Y,<65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0270,Placebo + SOC,0,Overall Survival,OS,17.08,520,1,Censored,2024-08-29,2026-01-31,Y,<65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0271,Placebo + SOC,0,Progression-Free Survival,PFS,5.72,174,0,Event,2024-06-14,2024-12-05,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0271,Placebo + SOC,0,Overall Survival,OS,11.13,339,0,Event,2024-06-14,2025-05-19,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0272,ONC-305 + SOC,1,Progression-Free Survival,PFS,18.62,567,0,Event,2024-01-05,2025-07-25,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0272,ONC-305 + SOC,1,Overall Survival,OS,24.87,757,1,Censored,2024-01-05,2026-01-31,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0273,ONC-305 + SOC,1,Progression-Free Survival,PFS,12.32,375,0,Event,2024-06-27,2025-07-07,Y,<65,Male,0,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0273,ONC-305 + SOC,1,Overall Survival,OS,14.36,437,1,Censored,2024-06-27,2025-09-07,Y,<65,Male,0,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0274,Placebo + SOC,0,Progression-Free Survival,PFS,2.17,66,0,Event,2024-04-07,2024-06-12,Y,>=65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0274,Placebo + SOC,0,Overall Survival,OS,12.76,388,0,Event,2024-04-07,2025-04-30,Y,>=65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0275,Placebo + SOC,0,Progression-Free Survival,PFS,9.44,287,0,Event,2024-06-01,2025-03-15,Y,>=65,Male,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0275,Placebo + SOC,0,Overall Survival,OS,9.58,292,0,Event,2024-06-01,2025-03-20,Y,>=65,Male,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0276,ONC-305 + SOC,1,Progression-Free Survival,PFS,23.03,701,1,Censored,2024-03-01,2026-01-31,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0276,ONC-305 + SOC,1,Overall Survival,OS,23.03,701,1,Censored,2024-03-01,2026-01-31,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0277,Placebo + SOC,0,Progression-Free Survival,PFS,5.98,182,0,Event,2024-03-23,2024-09-21,Y,>=65,Female,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0277,Placebo + SOC,0,Overall Survival,OS,22.31,679,1,Censored,2024-03-23,2026-01-31,Y,>=65,Female,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0278,ONC-305 + SOC,1,Progression-Free Survival,PFS,17.64,537,1,Censored,2024-08-12,2026-01-31,Y,>=65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0278,ONC-305 + SOC,1,Overall Survival,OS,17.64,537,1,Censored,2024-08-12,2026-01-31,Y,>=65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0279,ONC-305 + SOC,1,Progression-Free Survival,PFS,3.31,101,0,Event,2024-06-03,2024-09-12,Y,<65,Male,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0279,ONC-305 + SOC,1,Overall Survival,OS,5.55,169,0,Event,2024-06-03,2024-11-19,Y,<65,Male,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0280,Placebo + SOC,0,Progression-Free Survival,PFS,5.86,178,0,Event,2024-06-13,2024-12-08,Y,>=65,Male,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0280,Placebo + SOC,0,Overall Survival,OS,8.49,258,0,Event,2024-06-13,2025-02-26,Y,>=65,Male,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0281,ONC-305 + SOC,1,Progression-Free Survival,PFS,20.05,610,1,Censored,2024-03-26,2025-11-26,Y,<65,Male,0,IV,<1%,Rest of World,Y
+ONC-305-301,ONC-305-301-0281,ONC-305 + SOC,1,Overall Survival,OS,22.21,676,1,Censored,2024-03-26,2026-01-31,Y,<65,Male,0,IV,<1%,Rest of World,Y
+ONC-305-301,ONC-305-301-0282,ONC-305 + SOC,1,Progression-Free Survival,PFS,0.87,26,0,Event,2024-03-07,2024-04-02,Y,<65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0282,ONC-305 + SOC,1,Overall Survival,OS,7.07,215,0,Event,2024-03-07,2024-10-08,Y,<65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0283,ONC-305 + SOC,1,Progression-Free Survival,PFS,0.98,30,0,Event,2024-04-17,2024-05-17,Y,>=65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0283,ONC-305 + SOC,1,Overall Survival,OS,12.7,387,0,Event,2024-04-17,2025-05-09,Y,>=65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0284,Placebo + SOC,0,Progression-Free Survival,PFS,4.56,139,0,Event,2024-02-29,2024-07-17,Y,<65,Male,0,IIIB/IIIC,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0284,Placebo + SOC,0,Overall Survival,OS,15.96,486,0,Event,2024-02-29,2025-06-29,Y,<65,Male,0,IIIB/IIIC,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0285,ONC-305 + SOC,1,Progression-Free Survival,PFS,2.8,85,0,Event,2024-07-15,2024-10-08,Y,>=65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0285,ONC-305 + SOC,1,Overall Survival,OS,18.56,565,1,Censored,2024-07-15,2026-01-31,Y,>=65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0286,Placebo + SOC,0,Progression-Free Survival,PFS,8.46,258,0,Event,2024-04-07,2024-12-21,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0286,Placebo + SOC,0,Overall Survival,OS,12.34,376,0,Event,2024-04-07,2025-04-18,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0287,Placebo + SOC,0,Progression-Free Survival,PFS,12.13,369,1,Censored,2024-02-11,2025-02-14,Y,>=65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0287,Placebo + SOC,0,Overall Survival,OS,23.66,720,1,Censored,2024-02-11,2026-01-31,Y,>=65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0288,Placebo + SOC,0,Progression-Free Survival,PFS,1.64,50,0,Event,2024-03-24,2024-05-13,Y,<65,Male,1,IV,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0288,Placebo + SOC,0,Overall Survival,OS,4.22,128,0,Event,2024-03-24,2024-07-30,Y,<65,Male,1,IV,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0289,ONC-305 + SOC,1,Progression-Free Survival,PFS,7.31,223,0,Event,2024-02-01,2024-09-11,Y,<65,Male,0,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0289,ONC-305 + SOC,1,Overall Survival,OS,23.98,730,1,Censored,2024-02-01,2026-01-31,Y,<65,Male,0,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0290,ONC-305 + SOC,1,Progression-Free Survival,PFS,18.73,570,1,Censored,2024-07-10,2026-01-31,Y,>=65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0290,ONC-305 + SOC,1,Overall Survival,OS,18.73,570,1,Censored,2024-07-10,2026-01-31,Y,>=65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0291,Placebo + SOC,0,Progression-Free Survival,PFS,10.37,316,0,Event,2024-02-21,2025-01-02,Y,>=65,Female,0,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0291,Placebo + SOC,0,Overall Survival,OS,11.71,356,0,Event,2024-02-21,2025-02-11,Y,>=65,Female,0,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0292,ONC-305 + SOC,1,Progression-Free Survival,PFS,9.51,289,0,Event,2024-02-06,2024-11-21,Y,<65,Male,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0292,ONC-305 + SOC,1,Overall Survival,OS,20.2,615,1,Censored,2024-02-06,2025-10-13,Y,<65,Male,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0293,Placebo + SOC,0,Progression-Free Survival,PFS,6.31,192,0,Event,2024-08-01,2025-02-09,Y,<65,Male,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0293,Placebo + SOC,0,Overall Survival,OS,7.55,230,0,Event,2024-08-01,2025-03-19,Y,<65,Male,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0294,Placebo + SOC,0,Progression-Free Survival,PFS,4.14,126,0,Event,2024-07-02,2024-11-05,Y,<65,Male,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0294,Placebo + SOC,0,Overall Survival,OS,13.86,422,0,Event,2024-07-02,2025-08-28,Y,<65,Male,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0295,ONC-305 + SOC,1,Progression-Free Survival,PFS,11.53,351,0,Event,2024-01-11,2024-12-27,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0295,ONC-305 + SOC,1,Overall Survival,OS,14.19,432,0,Event,2024-01-11,2025-03-18,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0296,Placebo + SOC,0,Progression-Free Survival,PFS,1.27,39,0,Event,2024-01-21,2024-02-29,Y,>=65,Male,0,IIIB/IIIC,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0296,Placebo + SOC,0,Overall Survival,OS,9.94,302,0,Event,2024-01-21,2024-11-18,Y,>=65,Male,0,IIIB/IIIC,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0297,Placebo + SOC,0,Progression-Free Survival,PFS,10.03,305,0,Event,2024-06-27,2025-04-28,Y,<65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0297,Placebo + SOC,0,Overall Survival,OS,19.15,583,1,Censored,2024-06-27,2026-01-31,Y,<65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0298,Placebo + SOC,0,Progression-Free Survival,PFS,18.73,570,0,Event,2024-06-30,2026-01-21,Y,<65,Female,0,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0298,Placebo + SOC,0,Overall Survival,OS,14.55,443,1,Censored,2024-06-30,2025-09-16,Y,<65,Female,0,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0299,ONC-305 + SOC,1,Progression-Free Survival,PFS,16.82,512,0,Event,2024-05-26,2025-10-20,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0299,ONC-305 + SOC,1,Overall Survival,OS,20.21,615,1,Censored,2024-05-26,2026-01-31,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0300,Placebo + SOC,0,Progression-Free Survival,PFS,6.94,211,0,Event,2024-02-12,2024-09-10,Y,>=65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0300,Placebo + SOC,0,Overall Survival,OS,9.5,289,0,Event,2024-02-12,2024-11-27,Y,>=65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0301,Placebo + SOC,0,Progression-Free Survival,PFS,5.57,169,0,Event,2024-08-26,2025-02-11,Y,>=65,Male,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0301,Placebo + SOC,0,Overall Survival,OS,17.18,523,1,Censored,2024-08-26,2026-01-31,Y,>=65,Male,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0302,Placebo + SOC,0,Progression-Free Survival,PFS,5.65,172,0,Event,2024-04-20,2024-10-09,Y,<65,Female,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0302,Placebo + SOC,0,Overall Survival,OS,21.39,651,1,Censored,2024-04-20,2026-01-31,Y,<65,Female,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0303,Placebo + SOC,0,Progression-Free Survival,PFS,1.74,53,0,Event,2024-06-07,2024-07-30,Y,>=65,Female,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0303,Placebo + SOC,0,Overall Survival,OS,19.81,603,1,Censored,2024-06-07,2026-01-31,Y,>=65,Female,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0304,ONC-305 + SOC,1,Progression-Free Survival,PFS,12.09,368,1,Censored,2024-07-06,2025-07-09,Y,<65,Male,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0304,ONC-305 + SOC,1,Overall Survival,OS,18.86,574,1,Censored,2024-07-06,2026-01-31,Y,<65,Male,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0305,ONC-305 + SOC,1,Progression-Free Survival,PFS,17.45,531,0,Event,2024-02-06,2025-07-21,Y,>=65,Male,1,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0305,ONC-305 + SOC,1,Overall Survival,OS,21.95,668,1,Censored,2024-02-06,2025-12-05,Y,>=65,Male,1,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0306,ONC-305 + SOC,1,Progression-Free Survival,PFS,12.44,379,0,Event,2024-07-10,2025-07-24,Y,>=65,Female,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0306,ONC-305 + SOC,1,Overall Survival,OS,16.87,514,0,Event,2024-07-10,2025-12-06,Y,>=65,Female,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0307,Placebo + SOC,0,Progression-Free Survival,PFS,7.62,232,0,Event,2024-06-02,2025-01-20,Y,<65,Female,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0307,Placebo + SOC,0,Overall Survival,OS,19.98,608,1,Censored,2024-06-02,2026-01-31,Y,<65,Female,1,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0308,Placebo + SOC,0,Progression-Free Survival,PFS,9.92,302,0,Event,2024-05-07,2025-03-05,Y,<65,Male,0,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0308,Placebo + SOC,0,Overall Survival,OS,20.83,634,1,Censored,2024-05-07,2026-01-31,Y,<65,Male,0,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0309,Placebo + SOC,0,Progression-Free Survival,PFS,2.23,68,0,Event,2024-07-13,2024-09-19,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0309,Placebo + SOC,0,Overall Survival,OS,15.15,461,0,Event,2024-07-13,2025-10-17,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0310,ONC-305 + SOC,1,Progression-Free Survival,PFS,8.22,250,0,Event,2024-02-19,2024-10-26,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0310,ONC-305 + SOC,1,Overall Survival,OS,23.39,712,1,Censored,2024-02-19,2026-01-31,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0311,Placebo + SOC,0,Progression-Free Survival,PFS,6.67,203,0,Event,2024-08-14,2025-03-05,Y,<65,Male,0,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0311,Placebo + SOC,0,Overall Survival,OS,17.58,535,1,Censored,2024-08-14,2026-01-31,Y,<65,Male,0,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0312,ONC-305 + SOC,1,Progression-Free Survival,PFS,6.95,211,0,Event,2024-06-08,2025-01-05,Y,>=65,Male,0,IV,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0312,ONC-305 + SOC,1,Overall Survival,OS,8.1,246,0,Event,2024-06-08,2025-02-09,Y,>=65,Male,0,IV,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0313,ONC-305 + SOC,1,Progression-Free Survival,PFS,10.68,325,1,Censored,2024-07-16,2025-06-06,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0313,ONC-305 + SOC,1,Overall Survival,OS,18.53,564,1,Censored,2024-07-16,2026-01-31,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0314,ONC-305 + SOC,1,Progression-Free Survival,PFS,3.7,113,0,Event,2024-04-09,2024-07-31,Y,<65,Female,1,IV,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0314,ONC-305 + SOC,1,Overall Survival,OS,9.14,278,0,Event,2024-04-09,2025-01-12,Y,<65,Female,1,IV,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0315,Placebo + SOC,0,Progression-Free Survival,PFS,8.78,267,0,Event,2024-01-16,2024-10-09,Y,<65,Female,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0315,Placebo + SOC,0,Overall Survival,OS,9.93,302,0,Event,2024-01-16,2024-11-13,Y,<65,Female,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0316,ONC-305 + SOC,1,Progression-Free Survival,PFS,4.5,137,0,Event,2024-02-12,2024-06-28,Y,<65,Female,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0316,ONC-305 + SOC,1,Overall Survival,OS,5.36,163,0,Event,2024-02-12,2024-07-24,Y,<65,Female,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0317,Placebo + SOC,0,Progression-Free Survival,PFS,9.65,294,0,Event,2024-02-07,2024-11-27,Y,<65,Male,0,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0317,Placebo + SOC,0,Overall Survival,OS,21.11,643,1,Censored,2024-02-07,2025-11-11,Y,<65,Male,0,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0318,ONC-305 + SOC,1,Progression-Free Survival,PFS,13.51,411,0,Event,2024-06-08,2025-07-24,Y,<65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0318,ONC-305 + SOC,1,Overall Survival,OS,19.48,593,1,Censored,2024-06-08,2026-01-22,Y,<65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0319,Placebo + SOC,0,Progression-Free Survival,PFS,5.14,156,0,Event,2024-06-02,2024-11-05,Y,>=65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0319,Placebo + SOC,0,Overall Survival,OS,19.98,608,1,Censored,2024-06-02,2026-01-31,Y,>=65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0320,ONC-305 + SOC,1,Progression-Free Survival,PFS,4.03,123,0,Event,2024-06-10,2024-10-11,Y,>=65,Male,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0320,ONC-305 + SOC,1,Overall Survival,OS,14.3,435,1,Censored,2024-06-10,2025-08-19,Y,>=65,Male,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0321,ONC-305 + SOC,1,Progression-Free Survival,PFS,5.07,154,0,Event,2024-04-09,2024-09-10,Y,>=65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0321,ONC-305 + SOC,1,Overall Survival,OS,20.67,629,1,Censored,2024-04-09,2025-12-29,Y,>=65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0322,ONC-305 + SOC,1,Progression-Free Survival,PFS,6.86,209,0,Event,2024-07-18,2025-02-12,Y,>=65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0322,ONC-305 + SOC,1,Overall Survival,OS,18.46,562,1,Censored,2024-07-18,2026-01-31,Y,>=65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0323,Placebo + SOC,0,Progression-Free Survival,PFS,17.85,543,1,Censored,2024-01-24,2025-07-20,Y,>=65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0323,Placebo + SOC,0,Overall Survival,OS,21.39,651,1,Censored,2024-01-24,2025-11-05,Y,>=65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0324,Placebo + SOC,0,Progression-Free Survival,PFS,2.86,87,0,Event,2024-05-16,2024-08-11,Y,<65,Female,0,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0324,Placebo + SOC,0,Overall Survival,OS,20.53,625,1,Censored,2024-05-16,2026-01-31,Y,<65,Female,0,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0325,Placebo + SOC,0,Progression-Free Survival,PFS,4.62,141,0,Event,2024-04-03,2024-08-22,Y,>=65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0325,Placebo + SOC,0,Overall Survival,OS,8.02,244,0,Event,2024-04-03,2024-12-03,Y,>=65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0326,Placebo + SOC,0,Progression-Free Survival,PFS,6.34,193,0,Event,2024-08-17,2025-02-26,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0326,Placebo + SOC,0,Overall Survival,OS,7.64,232,0,Event,2024-08-17,2025-04-06,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0327,Placebo + SOC,0,Progression-Free Survival,PFS,13.99,426,1,Censored,2024-07-01,2025-08-31,Y,<65,Male,0,IIIB/IIIC,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0327,Placebo + SOC,0,Overall Survival,OS,19.02,579,1,Censored,2024-07-01,2026-01-31,Y,<65,Male,0,IIIB/IIIC,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0328,Placebo + SOC,0,Progression-Free Survival,PFS,3.44,105,0,Event,2024-06-06,2024-09-19,Y,>=65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0328,Placebo + SOC,0,Overall Survival,OS,19.84,604,1,Censored,2024-06-06,2026-01-31,Y,>=65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0329,Placebo + SOC,0,Progression-Free Survival,PFS,13.41,408,0,Event,2024-06-03,2025-07-16,Y,<65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0329,Placebo + SOC,0,Overall Survival,OS,19.94,607,1,Censored,2024-06-03,2026-01-31,Y,<65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0330,Placebo + SOC,0,Progression-Free Survival,PFS,7.93,241,0,Event,2024-06-28,2025-02-24,Y,<65,Male,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0330,Placebo + SOC,0,Overall Survival,OS,17.41,530,0,Event,2024-06-28,2025-12-10,Y,<65,Male,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0331,Placebo + SOC,0,Progression-Free Survival,PFS,11.98,365,1,Censored,2024-07-30,2025-07-30,Y,>=65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0331,Placebo + SOC,0,Overall Survival,OS,18.07,550,1,Censored,2024-07-30,2026-01-31,Y,>=65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0332,Placebo + SOC,0,Progression-Free Survival,PFS,10.02,305,0,Event,2024-04-07,2025-02-06,Y,>=65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0332,Placebo + SOC,0,Overall Survival,OS,16.92,515,1,Censored,2024-04-07,2025-09-04,Y,>=65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0333,ONC-305 + SOC,1,Progression-Free Survival,PFS,16.73,509,1,Censored,2024-03-06,2025-07-28,Y,<65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0333,ONC-305 + SOC,1,Overall Survival,OS,19.73,600,1,Censored,2024-03-06,2025-10-27,Y,<65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0334,Placebo + SOC,0,Progression-Free Survival,PFS,5.94,181,0,Event,2024-07-18,2025-01-15,Y,>=65,Female,0,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0334,Placebo + SOC,0,Overall Survival,OS,16.56,504,0,Event,2024-07-18,2025-12-04,Y,>=65,Female,0,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0335,ONC-305 + SOC,1,Progression-Free Survival,PFS,2.04,62,0,Event,2024-02-12,2024-04-14,Y,>=65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0335,ONC-305 + SOC,1,Overall Survival,OS,22.03,671,0,Event,2024-02-12,2025-12-14,Y,>=65,Female,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0336,ONC-305 + SOC,1,Progression-Free Survival,PFS,18.94,576,0,Event,2024-03-23,2025-10-20,Y,>=65,Female,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0336,ONC-305 + SOC,1,Overall Survival,OS,20.69,630,1,Censored,2024-03-23,2025-12-13,Y,>=65,Female,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0337,Placebo + SOC,0,Progression-Free Survival,PFS,5.56,169,0,Event,2024-05-28,2024-11-13,Y,>=65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0337,Placebo + SOC,0,Overall Survival,OS,16.39,499,0,Event,2024-05-28,2025-10-09,Y,>=65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0338,ONC-305 + SOC,1,Progression-Free Survival,PFS,2.05,62,0,Event,2024-08-12,2024-10-13,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0338,ONC-305 + SOC,1,Overall Survival,OS,5.21,159,0,Event,2024-08-12,2025-01-18,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0339,ONC-305 + SOC,1,Progression-Free Survival,PFS,1.17,36,0,Event,2024-07-19,2024-08-24,Y,>=65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0339,ONC-305 + SOC,1,Overall Survival,OS,18.43,561,1,Censored,2024-07-19,2026-01-31,Y,>=65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0340,Placebo + SOC,0,Progression-Free Survival,PFS,12.39,377,1,Censored,2024-05-09,2025-05-21,Y,<65,Male,0,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0340,Placebo + SOC,0,Overall Survival,OS,17.55,534,0,Event,2024-05-09,2025-10-25,Y,<65,Male,0,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0341,ONC-305 + SOC,1,Progression-Free Survival,PFS,4.29,131,0,Event,2024-01-13,2024-05-23,Y,>=65,Male,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0341,ONC-305 + SOC,1,Overall Survival,OS,5.31,162,0,Event,2024-01-13,2024-06-23,Y,>=65,Male,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0342,Placebo + SOC,0,Progression-Free Survival,PFS,7.94,242,0,Event,2024-03-21,2024-11-18,Y,<65,Female,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0342,Placebo + SOC,0,Overall Survival,OS,15.87,483,0,Event,2024-03-21,2025-07-17,Y,<65,Female,0,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0343,Placebo + SOC,0,Progression-Free Survival,PFS,3.97,121,0,Event,2024-06-03,2024-10-02,Y,<65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0343,Placebo + SOC,0,Overall Survival,OS,12.15,370,0,Event,2024-06-03,2025-06-08,Y,<65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0344,Placebo + SOC,0,Progression-Free Survival,PFS,7.83,238,0,Event,2024-03-23,2024-11-16,Y,<65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0344,Placebo + SOC,0,Overall Survival,OS,10.46,318,0,Event,2024-03-23,2025-02-04,Y,<65,Male,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0345,Placebo + SOC,0,Progression-Free Survival,PFS,9.2,280,0,Event,2024-04-20,2025-01-25,Y,<65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0345,Placebo + SOC,0,Overall Survival,OS,14.18,432,0,Event,2024-04-20,2025-06-26,Y,<65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0346,Placebo + SOC,0,Progression-Free Survival,PFS,0.05,2,0,Event,2024-06-23,2024-06-25,Y,>=65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0346,Placebo + SOC,0,Overall Survival,OS,19.29,587,1,Censored,2024-06-23,2026-01-31,Y,>=65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0347,ONC-305 + SOC,1,Progression-Free Survival,PFS,1.53,47,0,Event,2024-06-24,2024-08-10,Y,>=65,Male,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0347,ONC-305 + SOC,1,Overall Survival,OS,17.79,541,1,Censored,2024-06-24,2025-12-17,Y,>=65,Male,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0348,ONC-305 + SOC,1,Progression-Free Survival,PFS,13.33,406,1,Censored,2024-04-03,2025-05-14,Y,>=65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0348,ONC-305 + SOC,1,Overall Survival,OS,14.91,454,1,Censored,2024-04-03,2025-07-01,Y,>=65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0349,Placebo + SOC,0,Progression-Free Survival,PFS,17.87,544,1,Censored,2024-08-05,2026-01-31,Y,>=65,Female,0,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0349,Placebo + SOC,0,Overall Survival,OS,17.87,544,1,Censored,2024-08-05,2026-01-31,Y,>=65,Female,0,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0350,Placebo + SOC,0,Progression-Free Survival,PFS,3.28,100,0,Event,2024-07-25,2024-11-02,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0350,Placebo + SOC,0,Overall Survival,OS,18.23,555,1,Censored,2024-07-25,2026-01-31,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0351,Placebo + SOC,0,Progression-Free Survival,PFS,0.58,18,0,Event,2024-04-28,2024-05-16,Y,<65,Female,1,IIIB/IIIC,<1%,Rest of World,Y
+ONC-305-301,ONC-305-301-0351,Placebo + SOC,0,Overall Survival,OS,10.2,310,0,Event,2024-04-28,2025-03-04,Y,<65,Female,1,IIIB/IIIC,<1%,Rest of World,Y
+ONC-305-301,ONC-305-301-0352,Placebo + SOC,0,Progression-Free Survival,PFS,7.68,234,0,Event,2024-01-24,2024-09-14,Y,<65,Male,1,IIIB/IIIC,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0352,Placebo + SOC,0,Overall Survival,OS,12.61,384,0,Event,2024-01-24,2025-02-11,Y,<65,Male,1,IIIB/IIIC,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0353,ONC-305 + SOC,1,Progression-Free Survival,PFS,3.46,105,0,Event,2024-01-23,2024-05-07,Y,<65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0353,ONC-305 + SOC,1,Overall Survival,OS,18.75,571,1,Censored,2024-01-23,2025-08-16,Y,<65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0354,ONC-305 + SOC,1,Progression-Free Survival,PFS,7.61,232,0,Event,2024-08-12,2025-04-01,Y,<65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0354,ONC-305 + SOC,1,Overall Survival,OS,10.96,334,0,Event,2024-08-12,2025-07-12,Y,<65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0355,ONC-305 + SOC,1,Progression-Free Survival,PFS,10.29,313,0,Event,2024-07-22,2025-05-31,Y,<65,Male,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0355,ONC-305 + SOC,1,Overall Survival,OS,18.33,558,1,Censored,2024-07-22,2026-01-31,Y,<65,Male,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0356,Placebo + SOC,0,Progression-Free Survival,PFS,4.41,134,0,Event,2024-03-21,2024-08-02,Y,>=65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0356,Placebo + SOC,0,Overall Survival,OS,9.36,285,0,Event,2024-03-21,2024-12-31,Y,>=65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0357,Placebo + SOC,0,Progression-Free Survival,PFS,9.72,296,0,Event,2024-01-16,2024-11-07,Y,>=65,Female,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0357,Placebo + SOC,0,Overall Survival,OS,11.62,354,0,Event,2024-01-16,2025-01-04,Y,>=65,Female,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0358,Placebo + SOC,0,Progression-Free Survival,PFS,18.5,563,0,Event,2024-02-20,2025-09-05,Y,>=65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0358,Placebo + SOC,0,Overall Survival,OS,18.84,574,0,Event,2024-02-20,2025-09-16,Y,>=65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0359,ONC-305 + SOC,1,Progression-Free Survival,PFS,13.49,411,0,Event,2024-01-04,2025-02-18,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0359,ONC-305 + SOC,1,Overall Survival,OS,24.9,758,1,Censored,2024-01-04,2026-01-31,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0360,Placebo + SOC,0,Progression-Free Survival,PFS,4.21,128,0,Event,2024-01-29,2024-06-05,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0360,Placebo + SOC,0,Overall Survival,OS,14.8,451,0,Event,2024-01-29,2025-04-24,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0361,Placebo + SOC,0,Progression-Free Survival,PFS,4.42,134,0,Event,2024-01-19,2024-06-01,Y,<65,Male,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0361,Placebo + SOC,0,Overall Survival,OS,7.11,216,0,Event,2024-01-19,2024-08-22,Y,<65,Male,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0362,ONC-305 + SOC,1,Progression-Free Survival,PFS,4.85,148,0,Event,2024-07-05,2024-11-30,Y,<65,Female,0,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0362,ONC-305 + SOC,1,Overall Survival,OS,10.17,310,0,Event,2024-07-05,2025-05-11,Y,<65,Female,0,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0363,Placebo + SOC,0,Progression-Free Survival,PFS,9.43,287,0,Event,2024-03-05,2024-12-17,Y,>=65,Female,0,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0363,Placebo + SOC,0,Overall Survival,OS,16.31,496,0,Event,2024-03-05,2025-07-14,Y,>=65,Female,0,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0364,Placebo + SOC,0,Progression-Free Survival,PFS,7.13,217,0,Event,2024-03-14,2024-10-17,Y,<65,Female,1,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0364,Placebo + SOC,0,Overall Survival,OS,14.36,437,1,Censored,2024-03-14,2025-05-25,Y,<65,Female,1,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0365,Placebo + SOC,0,Progression-Free Survival,PFS,1.34,41,0,Event,2024-05-07,2024-06-17,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0365,Placebo + SOC,0,Overall Survival,OS,20.83,634,1,Censored,2024-05-07,2026-01-31,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0366,Placebo + SOC,0,Progression-Free Survival,PFS,5.04,153,0,Event,2024-04-30,2024-09-30,Y,>=65,Male,1,IV,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0366,Placebo + SOC,0,Overall Survival,OS,11.3,344,0,Event,2024-04-30,2025-04-09,Y,>=65,Male,1,IV,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0367,ONC-305 + SOC,1,Progression-Free Survival,PFS,8.03,244,0,Event,2024-05-19,2025-01-18,Y,>=65,Male,1,IIIB/IIIC,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0367,ONC-305 + SOC,1,Overall Survival,OS,20.44,622,1,Censored,2024-05-19,2026-01-31,Y,>=65,Male,1,IIIB/IIIC,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0368,Placebo + SOC,0,Progression-Free Survival,PFS,4.02,122,0,Event,2024-08-18,2024-12-18,Y,<65,Male,1,IV,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0368,Placebo + SOC,0,Overall Survival,OS,14.53,442,1,Censored,2024-08-18,2025-11-03,Y,<65,Male,1,IV,1-49%,Rest of World,Y
+ONC-305-301,ONC-305-301-0369,Placebo + SOC,0,Progression-Free Survival,PFS,8.51,259,0,Event,2024-02-16,2024-11-01,Y,>=65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0369,Placebo + SOC,0,Overall Survival,OS,13.45,409,0,Event,2024-02-16,2025-03-31,Y,>=65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0370,Placebo + SOC,0,Progression-Free Survival,PFS,13.54,412,1,Censored,2024-04-14,2025-05-31,Y,>=65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0370,Placebo + SOC,0,Overall Survival,OS,21.41,652,1,Censored,2024-04-14,2026-01-26,Y,>=65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0371,Placebo + SOC,0,Progression-Free Survival,PFS,5.5,167,0,Event,2024-05-26,2024-11-09,Y,<65,Female,0,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0371,Placebo + SOC,0,Overall Survival,OS,17.99,547,1,Censored,2024-05-26,2025-11-24,Y,<65,Female,0,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0372,Placebo + SOC,0,Progression-Free Survival,PFS,1.48,45,0,Event,2024-06-12,2024-07-27,Y,>=65,Female,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0372,Placebo + SOC,0,Overall Survival,OS,4.5,137,0,Event,2024-06-12,2024-10-27,Y,>=65,Female,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0373,ONC-305 + SOC,1,Progression-Free Survival,PFS,1.54,47,0,Event,2024-05-13,2024-06-29,Y,<65,Female,1,IIIB/IIIC,<1%,North America,Y
+ONC-305-301,ONC-305-301-0373,ONC-305 + SOC,1,Overall Survival,OS,14.98,456,1,Censored,2024-05-13,2025-08-12,Y,<65,Female,1,IIIB/IIIC,<1%,North America,Y
+ONC-305-301,ONC-305-301-0374,ONC-305 + SOC,1,Progression-Free Survival,PFS,3.83,117,0,Event,2024-04-08,2024-08-03,Y,<65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0374,ONC-305 + SOC,1,Overall Survival,OS,13.98,425,0,Event,2024-04-08,2025-06-07,Y,<65,Female,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0375,Placebo + SOC,0,Progression-Free Survival,PFS,8.66,264,0,Event,2024-05-23,2025-02-11,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0375,Placebo + SOC,0,Overall Survival,OS,20.3,618,1,Censored,2024-05-23,2026-01-31,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0376,Placebo + SOC,0,Progression-Free Survival,PFS,0.44,13,0,Event,2024-02-11,2024-02-24,Y,>=65,Female,1,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0376,Placebo + SOC,0,Overall Survival,OS,23.66,720,1,Censored,2024-02-11,2026-01-31,Y,>=65,Female,1,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0377,ONC-305 + SOC,1,Progression-Free Survival,PFS,2.33,71,0,Event,2024-05-12,2024-07-22,Y,<65,Male,0,IIIB/IIIC,<1%,North America,Y
+ONC-305-301,ONC-305-301-0377,ONC-305 + SOC,1,Overall Survival,OS,20.67,629,1,Censored,2024-05-12,2026-01-31,Y,<65,Male,0,IIIB/IIIC,<1%,North America,Y
+ONC-305-301,ONC-305-301-0378,Placebo + SOC,0,Progression-Free Survival,PFS,15.7,478,0,Event,2024-08-10,2025-12-01,Y,<65,Female,0,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0378,Placebo + SOC,0,Overall Survival,OS,14.58,444,1,Censored,2024-08-10,2025-10-28,Y,<65,Female,0,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0379,ONC-305 + SOC,1,Progression-Free Survival,PFS,4.43,135,0,Event,2024-06-13,2024-10-26,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0379,ONC-305 + SOC,1,Overall Survival,OS,18.89,575,1,Censored,2024-06-13,2026-01-09,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0380,ONC-305 + SOC,1,Progression-Free Survival,PFS,13.16,401,0,Event,2024-02-23,2025-03-30,Y,>=65,Female,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0380,ONC-305 + SOC,1,Overall Survival,OS,16.89,514,1,Censored,2024-02-23,2025-07-21,Y,>=65,Female,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0381,ONC-305 + SOC,1,Progression-Free Survival,PFS,2.47,75,0,Event,2024-06-04,2024-08-18,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0381,ONC-305 + SOC,1,Overall Survival,OS,8.12,247,0,Event,2024-06-04,2025-02-06,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0382,ONC-305 + SOC,1,Progression-Free Survival,PFS,2.25,68,0,Event,2024-01-14,2024-03-22,Y,<65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0382,ONC-305 + SOC,1,Overall Survival,OS,24.57,748,1,Censored,2024-01-14,2026-01-31,Y,<65,Female,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0383,Placebo + SOC,0,Progression-Free Survival,PFS,1.45,44,0,Event,2024-07-29,2024-09-11,Y,>=65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0383,Placebo + SOC,0,Overall Survival,OS,10.35,315,0,Event,2024-07-29,2025-06-09,Y,>=65,Male,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0384,Placebo + SOC,0,Progression-Free Survival,PFS,5.92,180,0,Event,2024-07-04,2024-12-31,Y,<65,Male,1,IV,<1%,Rest of World,Y
+ONC-305-301,ONC-305-301-0384,Placebo + SOC,0,Overall Survival,OS,13.79,420,0,Event,2024-07-04,2025-08-28,Y,<65,Male,1,IV,<1%,Rest of World,Y
+ONC-305-301,ONC-305-301-0385,Placebo + SOC,0,Progression-Free Survival,PFS,10.01,305,0,Event,2024-04-12,2025-02-11,Y,<65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0385,Placebo + SOC,0,Overall Survival,OS,21.65,659,1,Censored,2024-04-12,2026-01-31,Y,<65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0386,Placebo + SOC,0,Progression-Free Survival,PFS,6.65,202,0,Event,2024-04-17,2024-11-05,Y,>=65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0386,Placebo + SOC,0,Overall Survival,OS,10.5,320,0,Event,2024-04-17,2025-03-03,Y,>=65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0387,Placebo + SOC,0,Progression-Free Survival,PFS,7.06,215,0,Event,2024-03-16,2024-10-17,Y,<65,Male,1,IV,<1%,Rest of World,Y
+ONC-305-301,ONC-305-301-0387,Placebo + SOC,0,Overall Survival,OS,8.48,258,0,Event,2024-03-16,2024-11-29,Y,<65,Male,1,IV,<1%,Rest of World,Y
+ONC-305-301,ONC-305-301-0388,Placebo + SOC,0,Progression-Free Survival,PFS,1.0,30,0,Event,2024-04-28,2024-05-28,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0388,Placebo + SOC,0,Overall Survival,OS,21.13,643,1,Censored,2024-04-28,2026-01-31,Y,<65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0389,Placebo + SOC,0,Progression-Free Survival,PFS,8.95,272,0,Event,2024-03-27,2024-12-24,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0389,Placebo + SOC,0,Overall Survival,OS,15.87,483,1,Censored,2024-03-27,2025-07-23,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0390,Placebo + SOC,0,Progression-Free Survival,PFS,8.94,272,0,Event,2024-03-29,2024-12-26,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0390,Placebo + SOC,0,Overall Survival,OS,21.0,639,1,Censored,2024-03-29,2025-12-28,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0391,ONC-305 + SOC,1,Progression-Free Survival,PFS,4.19,127,0,Event,2024-02-09,2024-06-15,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0391,ONC-305 + SOC,1,Overall Survival,OS,15.83,482,0,Event,2024-02-09,2025-06-05,Y,<65,Male,1,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0392,Placebo + SOC,0,Progression-Free Survival,PFS,10.58,322,0,Event,2024-04-23,2025-03-11,Y,<65,Male,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0392,Placebo + SOC,0,Overall Survival,OS,10.67,325,0,Event,2024-04-23,2025-03-14,Y,<65,Male,1,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0393,ONC-305 + SOC,1,Progression-Free Survival,PFS,1.6,49,0,Event,2024-01-10,2024-02-28,Y,<65,Female,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0393,ONC-305 + SOC,1,Overall Survival,OS,24.71,752,1,Censored,2024-01-10,2026-01-31,Y,<65,Female,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0394,ONC-305 + SOC,1,Progression-Free Survival,PFS,1.41,43,0,Event,2024-07-12,2024-08-24,Y,<65,Female,1,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0394,ONC-305 + SOC,1,Overall Survival,OS,8.69,265,0,Event,2024-07-12,2025-04-03,Y,<65,Female,1,IV,<1%,North America,Y
+ONC-305-301,ONC-305-301-0395,Placebo + SOC,0,Progression-Free Survival,PFS,20.79,633,0,Event,2024-02-16,2025-11-10,Y,>=65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0395,Placebo + SOC,0,Overall Survival,OS,23.49,715,1,Censored,2024-02-16,2026-01-31,Y,>=65,Male,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0396,Placebo + SOC,0,Progression-Free Survival,PFS,9.48,289,0,Event,2024-07-08,2025-04-23,Y,>=65,Male,1,IV,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0396,Placebo + SOC,0,Overall Survival,OS,18.79,572,1,Censored,2024-07-08,2026-01-31,Y,>=65,Male,1,IV,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0397,Placebo + SOC,0,Progression-Free Survival,PFS,5.02,153,0,Event,2024-04-23,2024-09-23,Y,>=65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0397,Placebo + SOC,0,Overall Survival,OS,19.79,602,1,Censored,2024-04-23,2025-12-16,Y,>=65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0398,Placebo + SOC,0,Progression-Free Survival,PFS,0.21,6,0,Event,2024-01-31,2024-02-06,Y,>=65,Female,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0398,Placebo + SOC,0,Overall Survival,OS,4.8,146,0,Event,2024-01-31,2024-06-25,Y,>=65,Female,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0399,ONC-305 + SOC,1,Progression-Free Survival,PFS,2.27,69,0,Event,2024-02-15,2024-04-24,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0399,ONC-305 + SOC,1,Overall Survival,OS,5.54,169,0,Event,2024-02-15,2024-08-02,Y,<65,Male,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0400,ONC-305 + SOC,1,Progression-Free Survival,PFS,7.08,216,0,Event,2024-08-27,2025-03-31,Y,<65,Female,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0400,ONC-305 + SOC,1,Overall Survival,OS,14.39,438,0,Event,2024-08-27,2025-11-08,Y,<65,Female,0,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0401,Placebo + SOC,0,Progression-Free Survival,PFS,6.91,210,0,Event,2024-01-11,2024-08-08,Y,<65,Female,0,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0401,Placebo + SOC,0,Overall Survival,OS,8.48,258,0,Event,2024-01-11,2024-09-25,Y,<65,Female,0,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0402,ONC-305 + SOC,1,Progression-Free Survival,PFS,2.93,89,0,Event,2024-04-29,2024-07-27,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0402,ONC-305 + SOC,1,Overall Survival,OS,5.61,171,0,Event,2024-04-29,2024-10-17,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0403,ONC-305 + SOC,1,Progression-Free Survival,PFS,7.36,224,0,Event,2024-07-18,2025-02-27,Y,>=65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0403,ONC-305 + SOC,1,Overall Survival,OS,18.46,562,1,Censored,2024-07-18,2026-01-31,Y,>=65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0404,ONC-305 + SOC,1,Progression-Free Survival,PFS,1.35,41,0,Event,2024-04-23,2024-06-03,Y,<65,Female,0,IV,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0404,ONC-305 + SOC,1,Overall Survival,OS,2.38,72,0,Event,2024-04-23,2024-07-04,Y,<65,Female,0,IV,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0405,ONC-305 + SOC,1,Progression-Free Survival,PFS,15.79,481,0,Event,2024-01-11,2025-05-06,Y,<65,Female,1,IIIB/IIIC,<1%,Rest of World,Y
+ONC-305-301,ONC-305-301-0405,ONC-305 + SOC,1,Overall Survival,OS,17.28,526,0,Event,2024-01-11,2025-06-20,Y,<65,Female,1,IIIB/IIIC,<1%,Rest of World,Y
+ONC-305-301,ONC-305-301-0406,ONC-305 + SOC,1,Progression-Free Survival,PFS,13.72,418,1,Censored,2024-04-27,2025-06-19,Y,>=65,Male,0,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0406,ONC-305 + SOC,1,Overall Survival,OS,19.33,588,0,Event,2024-04-27,2025-12-06,Y,>=65,Male,0,IV,1-49%,North America,Y
+ONC-305-301,ONC-305-301-0407,ONC-305 + SOC,1,Progression-Free Survival,PFS,23.56,717,1,Censored,2024-02-14,2026-01-31,Y,<65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0407,ONC-305 + SOC,1,Overall Survival,OS,23.56,717,1,Censored,2024-02-14,2026-01-31,Y,<65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0408,Placebo + SOC,0,Progression-Free Survival,PFS,23.1,703,1,Censored,2024-02-17,2026-01-20,Y,>=65,Male,1,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0408,Placebo + SOC,0,Overall Survival,OS,15.18,462,1,Censored,2024-02-17,2025-05-24,Y,>=65,Male,1,IIIB/IIIC,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0409,ONC-305 + SOC,1,Progression-Free Survival,PFS,13.84,421,1,Censored,2024-03-14,2025-05-09,Y,<65,Female,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0409,ONC-305 + SOC,1,Overall Survival,OS,18.26,556,1,Censored,2024-03-14,2025-09-21,Y,<65,Female,1,IIIB/IIIC,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0410,ONC-305 + SOC,1,Progression-Free Survival,PFS,12.26,373,1,Censored,2024-01-28,2025-02-04,Y,<65,Female,0,IIIB/IIIC,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0410,ONC-305 + SOC,1,Overall Survival,OS,24.11,734,1,Censored,2024-01-28,2026-01-31,Y,<65,Female,0,IIIB/IIIC,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0411,ONC-305 + SOC,1,Progression-Free Survival,PFS,2.11,64,0,Event,2024-01-28,2024-04-01,Y,>=65,Female,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0411,ONC-305 + SOC,1,Overall Survival,OS,24.11,734,1,Censored,2024-01-28,2026-01-31,Y,>=65,Female,0,IV,<1%,Europe,Y
+ONC-305-301,ONC-305-301-0412,ONC-305 + SOC,1,Progression-Free Survival,PFS,13.52,411,1,Censored,2024-08-20,2025-10-05,Y,<65,Female,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0412,ONC-305 + SOC,1,Overall Survival,OS,17.38,529,1,Censored,2024-08-20,2026-01-31,Y,<65,Female,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0413,Placebo + SOC,0,Progression-Free Survival,PFS,15.71,478,0,Event,2024-03-07,2025-06-28,Y,>=65,Male,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0413,Placebo + SOC,0,Overall Survival,OS,22.83,695,1,Censored,2024-03-07,2026-01-31,Y,>=65,Male,1,IV,1-49%,Europe,Y
+ONC-305-301,ONC-305-301-0414,Placebo + SOC,0,Progression-Free Survival,PFS,0.52,16,0,Event,2024-05-31,2024-06-16,Y,>=65,Male,0,IV,<1%,Rest of World,Y
+ONC-305-301,ONC-305-301-0414,Placebo + SOC,0,Overall Survival,OS,6.42,195,0,Event,2024-05-31,2024-12-12,Y,>=65,Male,0,IV,<1%,Rest of World,Y
+ONC-305-301,ONC-305-301-0415,ONC-305 + SOC,1,Progression-Free Survival,PFS,4.23,129,0,Event,2024-01-17,2024-05-25,Y,>=65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0415,ONC-305 + SOC,1,Overall Survival,OS,15.39,468,0,Event,2024-01-17,2025-04-29,Y,>=65,Female,0,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0416,Placebo + SOC,0,Progression-Free Survival,PFS,7.42,226,0,Event,2024-03-16,2024-10-28,Y,<65,Female,1,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0416,Placebo + SOC,0,Overall Survival,OS,8.1,246,0,Event,2024-03-16,2024-11-17,Y,<65,Female,1,IV,>=50%,North America,Y
+ONC-305-301,ONC-305-301-0417,Placebo + SOC,0,Progression-Free Survival,PFS,3.77,115,0,Event,2024-02-23,2024-06-17,Y,<65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0417,Placebo + SOC,0,Overall Survival,OS,9.34,284,0,Event,2024-02-23,2024-12-03,Y,<65,Female,1,IV,>=50%,Asia,Y
+ONC-305-301,ONC-305-301-0418,Placebo + SOC,0,Progression-Free Survival,PFS,2.65,81,0,Event,2024-04-15,2024-07-05,Y,<65,Female,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0418,Placebo + SOC,0,Overall Survival,OS,21.55,656,1,Censored,2024-04-15,2026-01-31,Y,<65,Female,0,IV,<1%,Asia,Y
+ONC-305-301,ONC-305-301-0419,ONC-305 + SOC,1,Progression-Free Survival,PFS,14.56,443,0,Event,2024-06-26,2025-09-12,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0419,ONC-305 + SOC,1,Overall Survival,OS,19.19,584,1,Censored,2024-06-26,2026-01-31,Y,<65,Male,1,IV,1-49%,Asia,Y
+ONC-305-301,ONC-305-301-0420,Placebo + SOC,0,Progression-Free Survival,PFS,0.77,23,0,Event,2024-01-17,2024-02-09,Y,<65,Female,1,IV,>=50%,Europe,Y
+ONC-305-301,ONC-305-301-0420,Placebo + SOC,0,Overall Survival,OS,13.38,407,0,Event,2024-01-17,2025-02-27,Y,<65,Female,1,IV,>=50%,Europe,Y

@@ -1,0 +1,47 @@
+# Listing 16.2.3 Adverse Events Leading to Treatment Discontinuation
+
+| USUBJID          | TRT01P        |   AESEQ | AEBODSYS                                        | AEDECOD                            | AESTDT     |   AETOXGR | AESER   | AEREL   | AEOUT                      |
+|:-----------------|:--------------|--------:|:------------------------------------------------|:-----------------------------------|:-----------|----------:|:--------|:--------|:---------------------------|
+| ONC-305-301-0011 | ONC-305 + SOC |       5 | INVESTIGATIONS                                  | Weight decreased                   | 2025-01-14 |         4 | Y       | Y       | Recovered/resolved         |
+| ONC-305-301-0075 | ONC-305 + SOC |       2 | GASTROINTESTINAL DISORDERS                      | Diarrhoea                          | 2025-01-22 |         3 | N       | N       | Recovered/resolved         |
+| ONC-305-301-0085 | ONC-305 + SOC |       1 | GASTROINTESTINAL DISORDERS                      | Nausea                             | 2024-04-17 |         3 | N       | Y       | Recovered/resolved         |
+| ONC-305-301-0088 | ONC-305 + SOC |       1 | GASTROINTESTINAL DISORDERS                      | Diarrhoea                          | 2024-07-05 |         3 | N       | Y       | Recovered/resolved         |
+| ONC-305-301-0126 | ONC-305 + SOC |       1 | GASTROINTESTINAL DISORDERS                      | Diarrhoea                          | 2025-04-11 |         3 | Y       | N       | Recovered/resolved         |
+| ONC-305-301-0130 | ONC-305 + SOC |       6 | HEPATOBILIARY DISORDERS                         | Alanine aminotransferase increased | 2024-04-20 |         3 | N       | Y       | Recovered/resolved         |
+| ONC-305-301-0142 | ONC-305 + SOC |       4 | MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS | Arthralgia                         | 2024-10-30 |         3 | N       | N       | Recovered/resolved         |
+| ONC-305-301-0151 | ONC-305 + SOC |       3 | INVESTIGATIONS                                  | Weight decreased                   | 2024-12-07 |         4 | Y       | Y       | Recovering/resolving       |
+| ONC-305-301-0157 | ONC-305 + SOC |       2 | HEPATOBILIARY DISORDERS                         | Alanine aminotransferase increased | 2024-09-15 |         3 | N       | N       | Recovered/resolved         |
+| ONC-305-301-0157 | ONC-305 + SOC |       3 | RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS | Dyspnoea                           | 2025-01-12 |         5 | Y       | Y       | Fatal                      |
+| ONC-305-301-0203 | ONC-305 + SOC |       1 | BLOOD AND LYMPHATIC SYSTEM DISORDERS            | Neutropenia                        | 2024-07-26 |         5 | Y       | Y       | Fatal                      |
+| ONC-305-301-0203 | ONC-305 + SOC |       3 | HEPATOBILIARY DISORDERS                         | Alanine aminotransferase increased | 2024-08-01 |         5 | Y       | Y       | Fatal                      |
+| ONC-305-301-0209 | ONC-305 + SOC |       2 | SKIN AND SUBCUTANEOUS TISSUE DISORDERS          | Rash                               | 2025-01-05 |         3 | Y       | N       | Recovered/resolved         |
+| ONC-305-301-0214 | ONC-305 + SOC |       3 | HEPATOBILIARY DISORDERS                         | Alanine aminotransferase increased | 2025-02-10 |         3 | N       | N       | Recovered/resolved         |
+| ONC-305-301-0215 | ONC-305 + SOC |       4 | SKIN AND SUBCUTANEOUS TISSUE DISORDERS          | Rash                               | 2024-06-28 |         5 | Y       | N       | Fatal                      |
+| ONC-305-301-0228 | ONC-305 + SOC |       1 | MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS | Arthralgia                         | 2024-06-06 |         3 | N       | Y       | Recovering/resolving       |
+| ONC-305-301-0232 | ONC-305 + SOC |       2 | RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS | Dyspnoea                           | 2024-09-27 |         3 | N       | N       | Recovered/resolved         |
+| ONC-305-301-0239 | ONC-305 + SOC |       3 | GENERAL DISORDERS                               | Fatigue                            | 2024-08-12 |         5 | Y       | Y       | Fatal                      |
+| ONC-305-301-0242 | ONC-305 + SOC |       2 | SKIN AND SUBCUTANEOUS TISSUE DISORDERS          | Rash                               | 2024-05-21 |         4 | Y       | Y       | Recovered/resolved         |
+| ONC-305-301-0264 | ONC-305 + SOC |       1 | GASTROINTESTINAL DISORDERS                      | Nausea                             | 2024-05-08 |         4 | Y       | N       | Recovered/resolved         |
+| ONC-305-301-0272 | ONC-305 + SOC |       2 | RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS | Dyspnoea                           | 2025-05-13 |         5 | Y       | N       | Fatal                      |
+| ONC-305-301-0292 | ONC-305 + SOC |       1 | GASTROINTESTINAL DISORDERS                      | Diarrhoea                          | 2024-06-20 |         5 | Y       | Y       | Fatal                      |
+| ONC-305-301-0292 | ONC-305 + SOC |       2 | GENERAL DISORDERS                               | Fatigue                            | 2024-02-15 |         3 | N       | Y       | Recovered/resolved         |
+| ONC-305-301-0338 | ONC-305 + SOC |       2 | GENERAL DISORDERS                               | Fatigue                            | 2024-10-18 |         4 | Y       | Y       | Recovered/resolved         |
+| ONC-305-301-0359 | ONC-305 + SOC |       3 | METABOLISM AND NUTRITION DISORDERS              | Decreased appetite                 | 2024-01-08 |         3 | N       | Y       | Recovered/resolved         |
+| ONC-305-301-0400 | ONC-305 + SOC |       2 | GENERAL DISORDERS                               | Fatigue                            | 2025-03-16 |         4 | Y       | N       | Recovered/resolved         |
+| ONC-305-301-0407 | ONC-305 + SOC |       2 | BLOOD AND LYMPHATIC SYSTEM DISORDERS            | Neutropenia                        | 2025-04-21 |         4 | Y       | Y       | Recovered/resolved         |
+| ONC-305-301-0028 | Placebo + SOC |       1 | BLOOD AND LYMPHATIC SYSTEM DISORDERS            | Neutropenia                        | 2024-08-18 |         4 | Y       | N       | Not recovered/not resolved |
+| ONC-305-301-0061 | Placebo + SOC |       1 | MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS | Arthralgia                         | 2025-02-13 |         5 | Y       | N       | Fatal                      |
+| ONC-305-301-0095 | Placebo + SOC |       1 | METABOLISM AND NUTRITION DISORDERS              | Decreased appetite                 | 2024-05-02 |         3 | Y       | Y       | Recovered/resolved         |
+| ONC-305-301-0103 | Placebo + SOC |       1 | GASTROINTESTINAL DISORDERS                      | Diarrhoea                          | 2024-06-23 |         5 | Y       | Y       | Fatal                      |
+| ONC-305-301-0109 | Placebo + SOC |       1 | GASTROINTESTINAL DISORDERS                      | Nausea                             | 2025-03-27 |         5 | Y       | Y       | Fatal                      |
+| ONC-305-301-0153 | Placebo + SOC |       2 | GENERAL DISORDERS                               | Fatigue                            | 2024-04-08 |         4 | Y       | N       | Not recovered/not resolved |
+| ONC-305-301-0199 | Placebo + SOC |       1 | GENERAL DISORDERS                               | Fatigue                            | 2024-02-24 |         3 | N       | Y       | Recovered/resolved         |
+| ONC-305-301-0212 | Placebo + SOC |       2 | NERVOUS SYSTEM DISORDERS                        | Headache                           | 2025-01-10 |         5 | Y       | N       | Fatal                      |
+| ONC-305-301-0258 | Placebo + SOC |       1 | GASTROINTESTINAL DISORDERS                      | Diarrhoea                          | 2024-05-05 |         4 | Y       | N       | Recovering/resolving       |
+| ONC-305-301-0323 | Placebo + SOC |       2 | CARDIAC DISORDERS                               | Tachycardia                        | 2024-12-26 |         3 | N       | N       | Recovering/resolving       |
+| ONC-305-301-0337 | Placebo + SOC |       4 | BLOOD AND LYMPHATIC SYSTEM DISORDERS            | Anaemia                            | 2024-07-15 |         5 | Y       | N       | Fatal                      |
+| ONC-305-301-0371 | Placebo + SOC |       1 | GASTROINTESTINAL DISORDERS                      | Nausea                             | 2024-07-27 |         3 | N       | Y       | Recovered/resolved         |
+| ONC-305-301-0372 | Placebo + SOC |       4 | BLOOD AND LYMPHATIC SYSTEM DISORDERS            | Neutropenia                        | 2024-06-30 |         3 | Y       | N       | Recovered/resolved         |
+| ONC-305-301-0388 | Placebo + SOC |       2 | GASTROINTESTINAL DISORDERS                      | Diarrhoea                          | 2024-06-13 |         3 | N       | N       | Recovered/resolved         |
+
+* First 100 rows are shown if more than 100 events are present.

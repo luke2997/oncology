@@ -1,0 +1,73 @@
+# Validation Report
+
+This report provides reproducibility and consistency checks for the simulated ONC-305-301 statistical submission portfolio.
+
+Total checks: 62
+PASS: 62
+WARN: 0
+FAIL: 0
+
+| Check                                                      | Status   | Detail                                                                   |
+|:-----------------------------------------------------------|:---------|:-------------------------------------------------------------------------|
+| ADSL subject uniqueness                                    | PASS     | ADSL subjects=420, unique=420                                            |
+| ADSL equals raw DM count                                   | PASS     | ADSL=420, DM=420                                                         |
+| Treatment arms present                                     | PASS     | Arms=['ONC-305 + SOC', 'Placebo + SOC']                                  |
+| Planned and actual treatment match in simulation           | PASS     | All actual treatments equal planned treatment                            |
+| FAS flag complete                                          | PASS     | FAS N=420                                                                |
+| Safety flag complete                                       | PASS     | Safety N=420                                                             |
+| ITT flag complete                                          | PASS     | ITT N=420                                                                |
+| Randomization before or on treatment start                 | PASS     | RANDDT <= TRTSDT for all subjects                                        |
+| Treatment start before or on treatment end                 | PASS     | TRTSDT <= TRTEDT for all subjects                                        |
+| Positive treatment duration                                | PASS     | Minimum TRTDURD=26                                                       |
+| Randomization roughly balanced                             | PASS     | ONC-305 + SOC=211, Placebo + SOC=209                                     |
+| ADTTE has two records per subject                          | PASS     | ADTTE rows=840, expected=840                                             |
+| ADTTE unique subject/endpoint                              | PASS     | No duplicate USUBJID/PARAMCD records                                     |
+| ADTTE endpoints are PFS and OS                             | PASS     | PARAMCD=['OS', 'PFS']                                                    |
+| ADTTE censoring values valid                               | PASS     | CNSR values=[0, 1]                                                       |
+| ADTTE event description consistent                         | PASS     | EVNTDESC=['Censored', 'Event']                                           |
+| ADTTE event/censor consistency                             | PASS     | CNSR and EVNTDESC agree                                                  |
+| ADTTE positive times                                       | PASS     | Minimum AVAL=0.05                                                        |
+| ADTTE dates after randomization                            | PASS     | ADT >= STARTDT for all records                                           |
+| ADTTE analysis flag complete                               | PASS     | ANL01FL Y count=840                                                      |
+| ADRS one record per subject                                | PASS     | ADRS subjects=420                                                        |
+| ADRS BOR values valid                                      | PASS     | BOR=['CR', 'NE', 'PD', 'PR', 'SD']                                       |
+| ADRS ORR flag consistent                                   | PASS     | ORRFL equals Y for CR/PR only                                            |
+| ADRS DCR flag consistent                                   | PASS     | DCRFL equals Y for CR/PR/SD only                                         |
+| ADLB four parameters per subject                           | PASS     | ADLB rows=1680, expected=1680                                            |
+| ADLB unique subject/parameter                              | PASS     | No duplicate lab records by subject/parameter                            |
+| ADLB grades valid                                          | PASS     | Grades=[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)] |
+| ADAE row count matches raw AE                              | PASS     | ADAE=976, raw AE=976                                                     |
+| ADAE unique subject/sequence                               | PASS     | No duplicate USUBJID/AESEQ records                                       |
+| ADAE treatment-emergent dates                              | PASS     | All AE start dates are on or after treatment start                       |
+| ADAE end dates after start dates                           | PASS     | AEENDT >= AESTDT                                                         |
+| ADAE toxicity grades valid                                 | PASS     | Grades=[1, 2, 3, 4, 5]                                                   |
+| ADAE serious flag valid                                    | PASS     | AESER=['N', 'Y']                                                         |
+| ADAE relatedness flag valid                                | PASS     | AEREL=['N', 'Y']                                                         |
+| ADAE fatal flag valid                                      | PASS     | AESDTH=['N', 'Y']                                                        |
+| ADAE occurrence flags valid                                | PASS     | AOCCFL values=['Y']                                                      |
+| ADaM specification exists                                  | PASS     | adam_spec.csv present=True                                               |
+| Define-like metadata exists                                | PASS     | define_like_metadata.xml present=True                                    |
+| ADaM spec covers five datasets                             | PASS     | Datasets=['ADAE', 'ADLB', 'ADRS', 'ADSL', 'ADTTE']                       |
+| Output table exists: t14_1_1_demographics                  | PASS     | t14_1_1_demographics.csv/md/txt present=True                             |
+| Output table exists: t14_1_2_disposition                   | PASS     | t14_1_2_disposition.csv/md/txt present=True                              |
+| Output table exists: t14_1_3_exposure                      | PASS     | t14_1_3_exposure.csv/md/txt present=True                                 |
+| Output table exists: t14_2_1_primary_pfs                   | PASS     | t14_2_1_primary_pfs.csv/md/txt present=True                              |
+| Output table exists: t14_2_2_overall_survival              | PASS     | t14_2_2_overall_survival.csv/md/txt present=True                         |
+| Output table exists: t14_2_3_best_overall_response         | PASS     | t14_2_3_best_overall_response.csv/md/txt present=True                    |
+| Output table exists: t14_3_1_safety_overview               | PASS     | t14_3_1_safety_overview.csv/md/txt present=True                          |
+| Output table exists: t14_3_2_teae_by_soc_pt                | PASS     | t14_3_2_teae_by_soc_pt.csv/md/txt present=True                           |
+| Output table exists: t14_3_3_grade3_teae_by_soc_pt         | PASS     | t14_3_3_grade3_teae_by_soc_pt.csv/md/txt present=True                    |
+| Output table exists: t14_3_4_lab_shift                     | PASS     | t14_3_4_lab_shift.csv/md/txt present=True                                |
+| Output listing exists: l16_2_1_deaths                      | PASS     | l16_2_1_deaths.csv/md/txt present=True                                   |
+| Output listing exists: l16_2_2_serious_adverse_events      | PASS     | l16_2_2_serious_adverse_events.csv/md/txt present=True                   |
+| Output listing exists: l16_2_3_ae_discontinuations         | PASS     | l16_2_3_ae_discontinuations.csv/md/txt present=True                      |
+| Output figure exists: f14_2_1_km_pfs.png                   | PASS     | f14_2_1_km_pfs.png present=True                                          |
+| Output figure exists: f14_2_2_km_os.png                    | PASS     | f14_2_2_km_os.png present=True                                           |
+| Output figure exists: f14_2_3_pfs_forest.png               | PASS     | f14_2_3_pfs_forest.png present=True                                      |
+| Output figure exists: f14_2_4_waterfall_best_change.png    | PASS     | f14_2_4_waterfall_best_change.png present=True                           |
+| Output figure exists: f14_3_1_top_teae_bar.png             | PASS     | f14_3_1_top_teae_bar.png present=True                                    |
+| Programming asset exists: programs/python/run_all.py       | PASS     | programs/python/run_all.py present=True                                  |
+| Programming asset exists: programs/python/generate_tlfs.py | PASS     | programs/python/generate_tlfs.py present=True                            |
+| Programming asset exists: programs/sas/01_primary_pfs.sas  | PASS     | programs/sas/01_primary_pfs.sas present=True                             |
+| Programming asset exists: programs/r/01_primary_pfs.R      | PASS     | programs/r/01_primary_pfs.R present=True                                 |
+| Programming asset exists: requirements.txt                 | PASS     | requirements.txt present=True                                            |

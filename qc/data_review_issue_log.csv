@@ -1,0 +1,6 @@
+Issue ID,Area,Issue,Observation,Resolution,Status
+BDR-001,Data review,Missing response assessments,29 subjects have NE BOR by simulation design,Handled as NE; ORR denominator remains all FAS subjects,Closed
+BDR-002,Endpoint,PFS censoring traceability,Subjects without progression/death censored at last adequate assessment,CNSR documented in ADTTE and SAP,Closed
+BDR-003,Safety,AE dates relative to exposure,All TEAEs checked for chronology against treatment start/end,Automated chronology checks passed,Closed
+BDR-004,Programming,TLF reproducibility,All outputs regenerated from a single run_all.py command,Manifest and validation tracker generated,Closed
+BDR-005,Metadata,Reviewer traceability,Source-to-ADaM traceability matrix added,ADaM reviewer guide created,Closed

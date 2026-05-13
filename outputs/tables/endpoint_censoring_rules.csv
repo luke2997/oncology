@@ -1,0 +1,7 @@
+Endpoint,Scenario,Outcome,Analysis date
+PFS,Progression or death documented after randomization,Event,Event date
+PFS,No progression/death by data cutoff,Censored,Last adequate tumor assessment
+PFS,New anti-cancer therapy before progression/death,Censored,Last adequate assessment before new therapy
+PFS,Progression/death after two or more missed visits,Censored in primary analysis,Last adequate assessment before missed visits
+OS,Death from any cause,Event,Death date
+OS,Alive at data cutoff or lost to follow-up,Censored,Last date known alive

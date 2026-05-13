@@ -1,0 +1,7 @@
+Requirement,Analysis question,Document reference,Dataset/variables,Output,Program
+Primary objective,Compare PFS,SAP Section 7.1,ADTTE PARAMCD=PFS,"Table 14.2.1, Figure 14.2.1",programs/python/generate_tlfs.py
+Key secondary objective,Compare OS,SAP Section 7.2,ADTTE PARAMCD=OS,"Table 14.2.2, Figure 14.2.2",programs/python/generate_tlfs.py
+Key secondary objective,Summarize ORR,SAP Section 7.3,ADRS ORRFL,"Table 14.2.3, Figure 14.2.4",programs/python/generate_tlfs.py
+Safety objective,Summarize TEAEs,SAP Section 8,ADAE TRTEMFL/AOCCFL/AOCCSFL,"Tables 14.3.1-14.3.5, Listings 16.2.2-16.2.3",programs/python/generate_tlfs.py
+Data standards,Document ADaM-style metadata,ADRG Section 4,ADSL/ADTTE/ADAE/ADRS/ADLB,"define_like_metadata.xml, adam_spec.csv",programs/python/build_adam.py
+QC objective,Confirm reproducibility and output completeness,Validation Report,All analysis datasets and outputs,qc/validation_checks.csv,programs/python/qc_validation.py

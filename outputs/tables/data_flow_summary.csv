@@ -1,0 +1,11 @@
+Layer,Dataset,Rows,Variables,Purpose
+Raw/simulated,DM,420,24,"Demography, randomization, baseline and treatment dates"
+Raw/simulated,TTE,840,10,Progression-free survival and overall survival source
+Raw/simulated,RS,420,6,Best overall response and tumor change source
+Raw/simulated,AE,976,15,Adverse event source
+Raw/simulated,LB,1680,7,Laboratory grade shifts source
+ADaM-style,ADSL,420,33,Subject-level analysis dataset
+ADaM-style,ADTTE,840,20,Time-to-event analysis dataset
+ADaM-style,ADAE,976,24,Adverse event analysis dataset
+ADaM-style,ADRS,420,15,Response analysis dataset
+ADaM-style,ADLB,1680,11,Laboratory analysis dataset

@@ -1,0 +1,36 @@
+Table 14.1.1 Demographics and Baseline Characteristics
+======================================================
+
+                 Characteristic ONC-305 + SOC (N=211) Placebo + SOC (N=209)     Total (N=420)
+Analysis set: Full analysis set                   211                   209               420
+         Age, years - mean (SD)            62.9 (9.1)            61.1 (9.4)        62.0 (9.2)
+ Age, years - median (min, max)     62.0 (40.0, 82.0)     61.0 (34.0, 82.0) 62.0 (34.0, 82.0)
+                      Age group                                                              
+                            <65           128 (60.7%)           133 (63.6%)       261 (62.1%)
+                           >=65            83 (39.3%)            76 (36.4%)       159 (37.9%)
+                            Sex                                                              
+                           Male           115 (54.5%)           120 (57.4%)       235 (56.0%)
+                         Female            96 (45.5%)            89 (42.6%)       185 (44.0%)
+                           Race                                                              
+                          Asian           140 (66.4%)           108 (51.7%)       248 (59.0%)
+                          White            53 (25.1%)            78 (37.3%)       131 (31.2%)
+      Black or African American             11 (5.2%)             11 (5.3%)         22 (5.2%)
+                          Other              7 (3.3%)             12 (5.7%)         19 (4.5%)
+        ECOG performance status                                                              
+                              0            91 (43.1%)            89 (42.6%)       180 (42.9%)
+                              1           120 (56.9%)           120 (57.4%)       240 (57.1%)
+                  Disease stage                                                              
+                      IIIB/IIIC            37 (17.5%)            39 (18.7%)        76 (18.1%)
+                             IV           174 (82.5%)           170 (81.3%)       344 (81.9%)
+                 PD-L1 category                                                              
+                            <1%            66 (31.3%)            65 (31.1%)       131 (31.2%)
+                          1-49%            88 (41.7%)            87 (41.6%)       175 (41.7%)
+                          >=50%            57 (27.0%)            57 (27.3%)       114 (27.1%)
+                         Region                                                              
+                           Asia           124 (58.8%)           116 (55.5%)       240 (57.1%)
+                         Europe            49 (23.2%)            46 (22.0%)        95 (22.6%)
+                  North America            26 (12.3%)            35 (16.7%)        61 (14.5%)
+                  Rest of World             12 (5.7%)             12 (5.7%)         24 (5.7%)
+
+* Percentages use the full analysis set denominator.
+* All data are simulated.

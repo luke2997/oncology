@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Outputs can be regenerated but are included here for portfolio review
+.DS_Store

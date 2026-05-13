@@ -1,0 +1,12 @@
+# Table 14.3.1 Overall Summary of Treatment-Emergent Adverse Events
+
+| Safety summary                                | ONC-305 + SOC (N=211)   | Placebo + SOC (N=209)   | Total (N=420)   |
+|:----------------------------------------------|:------------------------|:------------------------|:----------------|
+| Any TEAE                                      | 203 (96.2%)             | 186 (89.0%)             | 389 (92.6%)     |
+| Any treatment-related TEAE                    | 170 (80.6%)             | 108 (51.7%)             | 278 (66.2%)     |
+| Any grade >=3 TEAE                            | 86 (40.8%)              | 76 (36.4%)              | 162 (38.6%)     |
+| Any serious TEAE                              | 65 (30.8%)              | 53 (25.4%)              | 118 (28.1%)     |
+| Any TEAE leading to treatment discontinuation | 24 (11.4%)              | 14 (6.7%)               | 38 (9.0%)       |
+| Any fatal TEAE                                | 6 (2.8%)                | 5 (2.4%)                | 11 (2.6%)       |
+
+* Subjects are counted once per category.

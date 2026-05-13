@@ -1,0 +1,14 @@
+Result ID,Title,Source,Population,Method,Program,Output,Validation note
+T14.1.1,Demographics and baseline characteristics,ADSL,FAS,"Counts, percentages, mean/SD, median/range",generate_tlfs.py,outputs/tables/t14_1_1_demographics.csv,Population count QC
+T14.1.2,Subject disposition,ADSL,FAS,Subject-level disposition counts,generate_tlfs.py,outputs/tables/t14_1_2_disposition.csv,ADSL count consistency
+T14.1.3,Extent of exposure,ADSL,Safety,Descriptive exposure summaries,generate_tlfs.py,outputs/tables/t14_1_3_exposure.csv,Treatment duration checks
+T14.1.4,Major protocol deviations,Mock deviation log + ADSL,FAS,Counts and percentages by deviation category,render_professional_package.py,outputs/tables/t14_1_4_major_protocol_deviations.csv,Portfolio demonstration only
+T14.2.1,Primary analysis of PFS,ADTTE,FAS,"Kaplan-Meier, log-rank, Cox model",generate_tlfs.py,outputs/tables/t14_2_1_primary_pfs.csv,Endpoint/event/censoring QC
+T14.2.2,Overall survival,ADTTE,FAS,"Kaplan-Meier, log-rank, Cox model",generate_tlfs.py,outputs/tables/t14_2_2_overall_survival.csv,Endpoint/event/censoring QC
+T14.2.3,Best overall response,ADRS,FAS,CR/PR/SD/PD/NE counts; exact CI for ORR/DCR,generate_tlfs.py,outputs/tables/t14_2_3_best_overall_response.csv,Response flag QC
+F14.2.1,Kaplan-Meier plot for PFS,ADTTE,FAS,KM curve with censoring,generate_tlfs.py,outputs/figures/f14_2_1_km_pfs.pdf,Visual output exists
+F14.2.3,PFS subgroup forest plot,ADTTE + ADSL,FAS,Cox HR by subgroup,generate_tlfs.py,outputs/figures/f14_2_3_pfs_forest.pdf,Subgroup output exists
+T14.3.1,Safety overview,ADAE + ADSL,Safety,Subject-level TEAE categories,generate_tlfs.py,outputs/tables/t14_3_1_safety_overview.csv,TEAE flag QC
+T14.3.2,TEAEs by SOC and PT,ADAE,Safety,Counts once per subject per SOC/PT,generate_tlfs.py,outputs/tables/t14_3_2_teae_by_soc_pt.csv,AOCC flag QC
+T14.3.4,Laboratory shift summary,ADLB,Safety,Baseline-to-worst grade shift counts,generate_tlfs.py,outputs/tables/t14_3_4_lab_shift.csv,Lab grade QC
+L16.2.1,Deaths listing,ADAE + ADSL,Safety,Subject listing,generate_tlfs.py,outputs/listings/l16_2_1_deaths.csv,Listing output exists

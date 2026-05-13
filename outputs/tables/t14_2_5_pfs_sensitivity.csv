@@ -1,0 +1,6 @@
+Analysis,Description,Result/implementation
+Primary Cox PH,Unstratified Cox model with treatment as covariate,"HR 0.69 (0.56, 0.86); p=<0.001"
+Log-rank,Two-sided log-rank test,Chi-square 11.86; p=<0.001
+RMST sensitivity,Restricted mean survival time through 12 months,ONC-305 + SOC: 7.50 months; Placebo + SOC: 6.41 months; difference 1.10
+Censoring sensitivity,Treat new anti-cancer therapy/missed assessment rules as SAP-defined censoring events,Implemented through ADTTE CNSR/EVNTDESC fields in this synthetic portfolio
+Subgroup consistency,"Forest plot across age, sex, ECOG, PD-L1 and region",Presented in Figure 14.2.3; descriptive only

@@ -1,0 +1,11 @@
+Metric,Result
+Randomized subjects,420 (211 ONC-305 + SOC; 209 placebo + SOC)
+Primary PFS HR,
+PFS median,"ONC-305 + SOC: 7.7 (6.9, 9.5); Placebo + SOC: 6.1 (5.4, 6.6)"
+PFS log-rank p-value,
+OS HR,
+OS median,"ONC-305 + SOC: 22.4 (19.2, 24.0); Placebo + SOC: 16.9 (15.7, 19.5)"
+OS log-rank p-value,
+ORR,ONC-305 + SOC: 97 (46.0%); 95% CI 39.1-52.9%; Placebo + SOC: 41 (19.6%); 95% CI 14.5-25.7%
+Any TEAE,ONC-305 + SOC: 203 (96.2%); Placebo + SOC: 186 (89.0%)
+Grade >=3 TEAE,ONC-305 + SOC: 86 (40.8%); Placebo + SOC: 76 (36.4%)

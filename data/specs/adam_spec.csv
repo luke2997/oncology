@@ -1,0 +1,104 @@
+Dataset,Dataset Label,Variable,Type,Role,Origin,Comment
+ADSL,Subject-Level Analysis Dataset,STUDYID,object,Identifier,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,USUBJID,object,Identifier,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,SUBJID,int64,Identifier,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,SITEID,int64,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,COUNTRY,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,REGION,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,TRT01P,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,TRT01A,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,TRT01PN,int64,Covariate/Descriptor,Derived,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,TRT01AN,int64,Covariate/Descriptor,Derived,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,RANDDT,datetime64[ns],Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,TRTSDT,datetime64[ns],Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,TRTEDT,datetime64[ns],Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,TRTDURD,int64,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,TRTDURM,float64,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,RDI,float64,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,FASFL,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,SAFFL,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,ITTFL,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,AGE,int64,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,AGEGR1,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,AGEGR1N,int64,Covariate/Descriptor,Derived,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,SEX,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,RACE,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,ECOG,int64,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,ECOGN,int64,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,STAGE,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,STAGE4FL,object,Covariate/Descriptor,Derived,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,PDL1CAT,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,PDL1HIGHFL,object,Covariate/Descriptor,Derived,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,HISTOLOGY,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,DISEASE_MONTHS,float64,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADSL,Subject-Level Analysis Dataset,DCSREAS,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADTTE,Time-to-Event Analysis Dataset,STUDYID,object,Identifier,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADTTE,Time-to-Event Analysis Dataset,USUBJID,object,Identifier,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADTTE,Time-to-Event Analysis Dataset,TRT01P,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADTTE,Time-to-Event Analysis Dataset,TRT01PN,int64,Covariate/Descriptor,Derived,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADTTE,Time-to-Event Analysis Dataset,PARAM,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADTTE,Time-to-Event Analysis Dataset,PARAMCD,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADTTE,Time-to-Event Analysis Dataset,AVAL,float64,Analysis,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADTTE,Time-to-Event Analysis Dataset,AVALD,int64,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADTTE,Time-to-Event Analysis Dataset,CNSR,int64,Analysis,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADTTE,Time-to-Event Analysis Dataset,EVNTDESC,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADTTE,Time-to-Event Analysis Dataset,STARTDT,datetime64[ns],Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADTTE,Time-to-Event Analysis Dataset,ADT,datetime64[ns],Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADTTE,Time-to-Event Analysis Dataset,ANL01FL,object,Covariate/Descriptor,Derived,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADTTE,Time-to-Event Analysis Dataset,AGEGR1,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADTTE,Time-to-Event Analysis Dataset,SEX,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADTTE,Time-to-Event Analysis Dataset,ECOG,int64,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADTTE,Time-to-Event Analysis Dataset,STAGE,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADTTE,Time-to-Event Analysis Dataset,PDL1CAT,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADTTE,Time-to-Event Analysis Dataset,REGION,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADTTE,Time-to-Event Analysis Dataset,FASFL,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADAE,Adverse Event Analysis Dataset,STUDYID,object,Identifier,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADAE,Adverse Event Analysis Dataset,USUBJID,object,Identifier,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADAE,Adverse Event Analysis Dataset,TRT01P,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADAE,Adverse Event Analysis Dataset,TRT01PN,int64,Covariate/Descriptor,Derived,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADAE,Adverse Event Analysis Dataset,SAFFL,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADAE,Adverse Event Analysis Dataset,TRTSDT,datetime64[ns],Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADAE,Adverse Event Analysis Dataset,TRTEDT,datetime64[ns],Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADAE,Adverse Event Analysis Dataset,AESEQ,int64,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADAE,Adverse Event Analysis Dataset,AEBODSYS,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADAE,Adverse Event Analysis Dataset,AEDECOD,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADAE,Adverse Event Analysis Dataset,AETERM,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADAE,Adverse Event Analysis Dataset,AESTDT,datetime64[ns],Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADAE,Adverse Event Analysis Dataset,AEENDT,datetime64[ns],Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADAE,Adverse Event Analysis Dataset,ASTDY,int64,Covariate/Descriptor,Derived,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADAE,Adverse Event Analysis Dataset,AENDY,int64,Covariate/Descriptor,Derived,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADAE,Adverse Event Analysis Dataset,AETOXGR,int64,Analysis,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADAE,Adverse Event Analysis Dataset,AESER,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADAE,Adverse Event Analysis Dataset,AEREL,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADAE,Adverse Event Analysis Dataset,AEACN,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADAE,Adverse Event Analysis Dataset,AEOUT,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADAE,Adverse Event Analysis Dataset,AESDTH,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADAE,Adverse Event Analysis Dataset,TRTEMFL,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADAE,Adverse Event Analysis Dataset,AOCCFL,object,Covariate/Descriptor,Derived,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADAE,Adverse Event Analysis Dataset,AOCCSFL,object,Covariate/Descriptor,Derived,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADRS,Tumor Response Analysis Dataset,STUDYID,object,Identifier,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADRS,Tumor Response Analysis Dataset,USUBJID,object,Identifier,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADRS,Tumor Response Analysis Dataset,TRT01P,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADRS,Tumor Response Analysis Dataset,TRT01PN,int64,Covariate/Descriptor,Derived,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADRS,Tumor Response Analysis Dataset,PARAM,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADRS,Tumor Response Analysis Dataset,PARAMCD,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADRS,Tumor Response Analysis Dataset,BOR,object,Analysis,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADRS,Tumor Response Analysis Dataset,BORNUM,int64,Covariate/Descriptor,Derived,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADRS,Tumor Response Analysis Dataset,ORRFL,object,Analysis,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADRS,Tumor Response Analysis Dataset,DCRFL,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADRS,Tumor Response Analysis Dataset,BESTPCHG,float64,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADRS,Tumor Response Analysis Dataset,ANL01FL,object,Covariate/Descriptor,Derived,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADRS,Tumor Response Analysis Dataset,FASFL,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADRS,Tumor Response Analysis Dataset,PDL1CAT,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADRS,Tumor Response Analysis Dataset,ECOG,int64,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADLB,Laboratory Shift Analysis Dataset,STUDYID,object,Identifier,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADLB,Laboratory Shift Analysis Dataset,USUBJID,object,Identifier,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADLB,Laboratory Shift Analysis Dataset,TRT01P,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADLB,Laboratory Shift Analysis Dataset,TRT01PN,int64,Covariate/Descriptor,Derived,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADLB,Laboratory Shift Analysis Dataset,PARAM,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADLB,Laboratory Shift Analysis Dataset,PARAMCD,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADLB,Laboratory Shift Analysis Dataset,BASEGR,int64,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADLB,Laboratory Shift Analysis Dataset,WORSTGR,int64,Analysis,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADLB,Laboratory Shift Analysis Dataset,SHIFT,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADLB,Laboratory Shift Analysis Dataset,ANL01FL,object,Covariate/Descriptor,Derived,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.
+ADLB,Laboratory Shift Analysis Dataset,SAFFL,object,Covariate/Descriptor,Source/Assigned,Simulated portfolio variable; see programs/python/build_adam.py for derivation logic.

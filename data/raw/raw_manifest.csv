@@ -1,0 +1,8 @@
+dataset,rows,description
+dm,420,Subject-level raw demographics/randomization
+tte,840,Time-to-event source records for PFS and OS
+rs,420,Best overall response and tumor change
+ds,420,Disposition records
+ae,976,Treatment-emergent adverse events
+lb,1680,Laboratory grade shift records
+ex,420,Exposure and relative dose intensity

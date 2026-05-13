@@ -1,0 +1,9 @@
+Program,Purpose,Role,Validation approach,Status
+generate_data.py,Synthetic SDTM-like source data,Primary,Code review + raw_manifest counts,PASS
+build_adam.py,ADaM-style datasets and metadata,Primary,Traceability review + variable-level checks,PASS
+generate_tlfs.py,Tables/listings/figures,Primary,Output existence + selected hand calculations,PASS
+qc_validation.py,Automated validation checks,Primary,PASS/WARN/FAIL tracker,PASS
+render_reports.py,Baseline report rendering,Primary,PDF render verification,PASS
+render_professional_package.py,Professional SAP/CSR-style package,Primary,PDF render verification + artifact manifest,PASS
+programs/sas/*.sas,SAS templates,Template,Provided as regulated-workflow examples; not executed in Python environment,TEMPLATE
+programs/r/*.R,R templates,Template,Provided as alternate implementation examples,TEMPLATE

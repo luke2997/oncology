@@ -1,0 +1,14 @@
+Artifact,Status
+docs/statistical_analysis_plan.pdf,present
+docs/protocol_synopsis.pdf,present
+outputs/reports/clinical_study_analysis_report.pdf,present
+outputs/reports/tlf_packet.pdf,present
+outputs/reports/validation_report.pdf,present
+outputs/reports/adam_reviewer_guide.pdf,present
+outputs/reports/programming_qc_plan.pdf,present
+outputs/reports/tlf_shell_book.pdf,present
+outputs/reports/recruiter_portfolio_summary.pdf,present
+metadata/analysis_results_metadata.csv,present
+metadata/source_to_adam_traceability.csv,present
+qc/program_validation_tracker.csv,present
+qc/data_review_issue_log.csv,present

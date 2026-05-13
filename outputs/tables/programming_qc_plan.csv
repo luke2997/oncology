@@ -1,0 +1,8 @@
+QC domain,Expectation,Evidence in portfolio
+Source-to-analysis traceability,Raw record counts reconcile to ADaM-style datasets,Automated check + metadata review
+Population denominators,FAS/SAFFL/ITTFL are complete and treatment assignments are stable,Automated check
+Endpoint derivations,"Time-to-event records have valid CNSR, dates and positive AVAL",Automated check
+Safety derivations,"AE dates are treatment-emergent; toxicity grades, seriousness and fatal flags are valid",Automated check
+Output completeness,CSV/MD/TXT TLF files plus PDF packet are present,Automated check + visual review
+Independent review,Key outputs can be reproduced by alternative SAS/R skeletons,Manual/programmatic double programming placeholder
+Version control,"Repository contains reproducible pipeline, seed and CI workflow",GitHub workflow + README

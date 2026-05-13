@@ -1,0 +1,6 @@
+Dataset,Submission-style role,Structure,Key variables,Why it matters
+ADSL,Subject-Level Analysis Dataset,One record per subject,"Treatment, demographics, strata, flags, exposure",ADSL for all population denominators
+ADTTE,Time-to-Event Analysis Dataset,One record per subject per endpoint,"PARAMCD, AVAL, CNSR, EVNTDESC, STARTDT, ADT","PFS/OS KM, log-rank and Cox analyses"
+ADRS,Response Analysis Dataset,One record per subject,"BOR, ORRFL, DCRFL, BESTPCHG",ORR/DCR summaries and waterfall plot
+ADAE,Adverse Event Analysis Dataset,One record per AE,"AEBODSYS, AEDECOD, AETOXGR, AESER, AEREL, AEACN, AESDTH","TEAE incidence, seriousness, severity, discontinuation and fatal-event outputs"
+ADLB,Laboratory Analysis Dataset,One record per subject per lab parameter,"BASEGR, WORSTGR, SHIFT",Laboratory grade-shift table

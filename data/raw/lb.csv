@@ -1,0 +1,1681 @@
+STUDYID,USUBJID,PARAMCD,PARAM,BASEGR,WORSTGR,SHIFT
+ONC-305-301,ONC-305-301-0001,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0001,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0001,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0001,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0002,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0002,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0002,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0002,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0003,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0003,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0003,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0003,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0004,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0004,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0004,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0004,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0005,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0005,AST,Aspartate aminotransferase,2,2,2 to 2
+ONC-305-301,ONC-305-301-0005,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0005,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0006,ALT,Alanine aminotransferase,0,2,0 to 2
+ONC-305-301,ONC-305-301-0006,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0006,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0006,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0007,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0007,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0007,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0007,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0008,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0008,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0008,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0008,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0009,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0009,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0009,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0009,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0010,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0010,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0010,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0010,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0011,ALT,Alanine aminotransferase,0,3,0 to 3
+ONC-305-301,ONC-305-301-0011,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0011,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0011,HGB,Hemoglobin,0,2,0 to 2
+ONC-305-301,ONC-305-301-0012,ALT,Alanine aminotransferase,2,2,2 to 2
+ONC-305-301,ONC-305-301-0012,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0012,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0012,HGB,Hemoglobin,2,2,2 to 2
+ONC-305-301,ONC-305-301-0013,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0013,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0013,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0013,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0014,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0014,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0014,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0014,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0015,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0015,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0015,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0015,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0016,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0016,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0016,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0016,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0017,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0017,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0017,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0017,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0018,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0018,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0018,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0018,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0019,ALT,Alanine aminotransferase,1,3,1 to 3
+ONC-305-301,ONC-305-301-0019,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0019,NEUT,Neutrophils,0,2,0 to 2
+ONC-305-301,ONC-305-301-0019,HGB,Hemoglobin,0,2,0 to 2
+ONC-305-301,ONC-305-301-0020,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0020,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0020,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0020,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0021,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0021,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0021,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0021,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0022,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0022,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0022,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0022,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0023,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0023,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0023,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0023,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0024,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0024,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0024,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0024,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0025,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0025,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0025,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0025,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0026,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0026,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0026,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0026,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0027,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0027,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0027,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0027,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0028,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0028,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0028,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0028,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0029,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0029,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0029,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0029,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0030,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0030,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0030,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0030,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0031,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0031,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0031,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0031,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0032,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0032,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0032,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0032,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0033,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0033,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0033,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0033,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0034,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0034,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0034,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0034,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0035,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0035,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0035,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0035,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0036,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0036,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0036,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0036,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0037,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0037,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0037,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0037,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0038,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0038,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0038,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0038,HGB,Hemoglobin,1,2,1 to 2
+ONC-305-301,ONC-305-301-0039,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0039,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0039,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0039,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0040,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0040,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0040,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0040,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0041,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0041,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0041,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0041,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0042,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0042,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0042,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0042,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0043,ALT,Alanine aminotransferase,0,2,0 to 2
+ONC-305-301,ONC-305-301-0043,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0043,NEUT,Neutrophils,0,1,0 to 1
+ONC-305-301,ONC-305-301-0043,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0044,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0044,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0044,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0044,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0045,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0045,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0045,NEUT,Neutrophils,0,1,0 to 1
+ONC-305-301,ONC-305-301-0045,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0046,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0046,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0046,NEUT,Neutrophils,2,2,2 to 2
+ONC-305-301,ONC-305-301-0046,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0047,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0047,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0047,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0047,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0048,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0048,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0048,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0048,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0049,ALT,Alanine aminotransferase,2,2,2 to 2
+ONC-305-301,ONC-305-301-0049,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0049,NEUT,Neutrophils,0,1,0 to 1
+ONC-305-301,ONC-305-301-0049,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0050,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0050,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0050,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0050,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0051,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0051,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0051,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0051,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0052,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0052,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0052,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0052,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0053,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0053,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0053,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0053,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0054,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0054,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0054,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0054,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0055,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0055,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0055,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0055,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0056,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0056,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0056,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0056,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0057,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0057,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0057,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0057,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0058,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0058,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0058,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0058,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0059,ALT,Alanine aminotransferase,0,2,0 to 2
+ONC-305-301,ONC-305-301-0059,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0059,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0059,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0060,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0060,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0060,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0060,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0061,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0061,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0061,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0061,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0062,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0062,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0062,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0062,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0063,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0063,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0063,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0063,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0064,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0064,AST,Aspartate aminotransferase,1,3,1 to 3
+ONC-305-301,ONC-305-301-0064,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0064,HGB,Hemoglobin,2,2,2 to 2
+ONC-305-301,ONC-305-301-0065,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0065,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0065,NEUT,Neutrophils,0,1,0 to 1
+ONC-305-301,ONC-305-301-0065,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0066,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0066,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0066,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0066,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0067,ALT,Alanine aminotransferase,2,2,2 to 2
+ONC-305-301,ONC-305-301-0067,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0067,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0067,HGB,Hemoglobin,1,4,1 to 4
+ONC-305-301,ONC-305-301-0068,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0068,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0068,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0068,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0069,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0069,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0069,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0069,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0070,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0070,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0070,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0070,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0071,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0071,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0071,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0071,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0072,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0072,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0072,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0072,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0073,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0073,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0073,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0073,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0074,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0074,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0074,NEUT,Neutrophils,2,3,2 to 3
+ONC-305-301,ONC-305-301-0074,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0075,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0075,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0075,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0075,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0076,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0076,AST,Aspartate aminotransferase,0,2,0 to 2
+ONC-305-301,ONC-305-301-0076,NEUT,Neutrophils,2,2,2 to 2
+ONC-305-301,ONC-305-301-0076,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0077,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0077,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0077,NEUT,Neutrophils,0,1,0 to 1
+ONC-305-301,ONC-305-301-0077,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0078,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0078,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0078,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0078,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0079,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0079,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0079,NEUT,Neutrophils,0,1,0 to 1
+ONC-305-301,ONC-305-301-0079,HGB,Hemoglobin,0,2,0 to 2
+ONC-305-301,ONC-305-301-0080,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0080,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0080,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0080,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0081,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0081,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0081,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0081,HGB,Hemoglobin,0,3,0 to 3
+ONC-305-301,ONC-305-301-0082,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0082,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0082,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0082,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0083,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0083,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0083,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0083,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0084,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0084,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0084,NEUT,Neutrophils,0,1,0 to 1
+ONC-305-301,ONC-305-301-0084,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0085,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0085,AST,Aspartate aminotransferase,2,3,2 to 3
+ONC-305-301,ONC-305-301-0085,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0085,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0086,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0086,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0086,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0086,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0087,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0087,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0087,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0087,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0088,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0088,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0088,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0088,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0089,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0089,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0089,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0089,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0090,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0090,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0090,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0090,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0091,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0091,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0091,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0091,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0092,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0092,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0092,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0092,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0093,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0093,AST,Aspartate aminotransferase,1,4,1 to 4
+ONC-305-301,ONC-305-301-0093,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0093,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0094,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0094,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0094,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0094,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0095,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0095,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0095,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0095,HGB,Hemoglobin,0,2,0 to 2
+ONC-305-301,ONC-305-301-0096,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0096,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0096,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0096,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0097,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0097,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0097,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0097,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0098,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0098,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0098,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0098,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0099,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0099,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0099,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0099,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0100,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0100,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0100,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0100,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0101,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0101,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0101,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0101,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0102,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0102,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0102,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0102,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0103,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0103,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0103,NEUT,Neutrophils,0,1,0 to 1
+ONC-305-301,ONC-305-301-0103,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0104,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0104,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0104,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0104,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0105,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0105,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0105,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0105,HGB,Hemoglobin,2,2,2 to 2
+ONC-305-301,ONC-305-301-0106,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0106,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0106,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0106,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0107,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0107,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0107,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0107,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0108,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0108,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0108,NEUT,Neutrophils,0,1,0 to 1
+ONC-305-301,ONC-305-301-0108,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0109,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0109,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0109,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0109,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0110,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0110,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0110,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0110,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0111,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0111,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0111,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0111,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0112,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0112,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0112,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0112,HGB,Hemoglobin,2,2,2 to 2
+ONC-305-301,ONC-305-301-0113,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0113,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0113,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0113,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0114,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0114,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0114,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0114,HGB,Hemoglobin,2,2,2 to 2
+ONC-305-301,ONC-305-301-0115,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0115,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0115,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0115,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0116,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0116,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0116,NEUT,Neutrophils,0,1,0 to 1
+ONC-305-301,ONC-305-301-0116,HGB,Hemoglobin,0,2,0 to 2
+ONC-305-301,ONC-305-301-0117,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0117,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0117,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0117,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0118,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0118,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0118,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0118,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0119,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0119,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0119,NEUT,Neutrophils,0,1,0 to 1
+ONC-305-301,ONC-305-301-0119,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0120,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0120,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0120,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0120,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0121,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0121,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0121,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0121,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0122,ALT,Alanine aminotransferase,1,3,1 to 3
+ONC-305-301,ONC-305-301-0122,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0122,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0122,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0123,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0123,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0123,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0123,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0124,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0124,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0124,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0124,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0125,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0125,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0125,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0125,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0126,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0126,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0126,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0126,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0127,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0127,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0127,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0127,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0128,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0128,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0128,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0128,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0129,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0129,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0129,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0129,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0130,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0130,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0130,NEUT,Neutrophils,1,2,1 to 2
+ONC-305-301,ONC-305-301-0130,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0131,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0131,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0131,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0131,HGB,Hemoglobin,0,2,0 to 2
+ONC-305-301,ONC-305-301-0132,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0132,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0132,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0132,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0133,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0133,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0133,NEUT,Neutrophils,0,1,0 to 1
+ONC-305-301,ONC-305-301-0133,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0134,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0134,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0134,NEUT,Neutrophils,2,2,2 to 2
+ONC-305-301,ONC-305-301-0134,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0135,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0135,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0135,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0135,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0136,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0136,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0136,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0136,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0137,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0137,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0137,NEUT,Neutrophils,0,1,0 to 1
+ONC-305-301,ONC-305-301-0137,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0138,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0138,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0138,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0138,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0139,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0139,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0139,NEUT,Neutrophils,0,2,0 to 2
+ONC-305-301,ONC-305-301-0139,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0140,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0140,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0140,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0140,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0141,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0141,AST,Aspartate aminotransferase,0,2,0 to 2
+ONC-305-301,ONC-305-301-0141,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0141,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0142,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0142,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0142,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0142,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0143,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0143,AST,Aspartate aminotransferase,1,2,1 to 2
+ONC-305-301,ONC-305-301-0143,NEUT,Neutrophils,2,2,2 to 2
+ONC-305-301,ONC-305-301-0143,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0144,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0144,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0144,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0144,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0145,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0145,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0145,NEUT,Neutrophils,0,1,0 to 1
+ONC-305-301,ONC-305-301-0145,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0146,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0146,AST,Aspartate aminotransferase,0,2,0 to 2
+ONC-305-301,ONC-305-301-0146,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0146,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0147,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0147,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0147,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0147,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0148,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0148,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0148,NEUT,Neutrophils,2,3,2 to 3
+ONC-305-301,ONC-305-301-0148,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0149,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0149,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0149,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0149,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0150,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0150,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0150,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0150,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0151,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0151,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0151,NEUT,Neutrophils,2,2,2 to 2
+ONC-305-301,ONC-305-301-0151,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0152,ALT,Alanine aminotransferase,1,2,1 to 2
+ONC-305-301,ONC-305-301-0152,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0152,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0152,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0153,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0153,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0153,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0153,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0154,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0154,AST,Aspartate aminotransferase,1,3,1 to 3
+ONC-305-301,ONC-305-301-0154,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0154,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0155,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0155,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0155,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0155,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0156,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0156,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0156,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0156,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0157,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0157,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0157,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0157,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0158,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0158,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0158,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0158,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0159,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0159,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0159,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0159,HGB,Hemoglobin,2,2,2 to 2
+ONC-305-301,ONC-305-301-0160,ALT,Alanine aminotransferase,0,2,0 to 2
+ONC-305-301,ONC-305-301-0160,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0160,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0160,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0161,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0161,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0161,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0161,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0162,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0162,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0162,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0162,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0163,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0163,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0163,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0163,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0164,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0164,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0164,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0164,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0165,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0165,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0165,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0165,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0166,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0166,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0166,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0166,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0167,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0167,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0167,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0167,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0168,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0168,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0168,NEUT,Neutrophils,0,1,0 to 1
+ONC-305-301,ONC-305-301-0168,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0169,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0169,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0169,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0169,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0170,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0170,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0170,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0170,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0171,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0171,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0171,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0171,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0172,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0172,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0172,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0172,HGB,Hemoglobin,0,3,0 to 3
+ONC-305-301,ONC-305-301-0173,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0173,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0173,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0173,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0174,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0174,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0174,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0174,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0175,ALT,Alanine aminotransferase,0,3,0 to 3
+ONC-305-301,ONC-305-301-0175,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0175,NEUT,Neutrophils,0,1,0 to 1
+ONC-305-301,ONC-305-301-0175,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0176,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0176,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0176,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0176,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0177,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0177,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0177,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0177,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0178,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0178,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0178,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0178,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0179,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0179,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0179,NEUT,Neutrophils,1,2,1 to 2
+ONC-305-301,ONC-305-301-0179,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0180,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0180,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0180,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0180,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0181,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0181,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0181,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0181,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0182,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0182,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0182,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0182,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0183,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0183,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0183,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0183,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0184,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0184,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0184,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0184,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0185,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0185,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0185,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0185,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0186,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0186,AST,Aspartate aminotransferase,2,2,2 to 2
+ONC-305-301,ONC-305-301-0186,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0186,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0187,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0187,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0187,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0187,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0188,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0188,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0188,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0188,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0189,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0189,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0189,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0189,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0190,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0190,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0190,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0190,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0191,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0191,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0191,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0191,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0192,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0192,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0192,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0192,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0193,ALT,Alanine aminotransferase,2,2,2 to 2
+ONC-305-301,ONC-305-301-0193,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0193,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0193,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0194,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0194,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0194,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0194,HGB,Hemoglobin,0,2,0 to 2
+ONC-305-301,ONC-305-301-0195,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0195,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0195,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0195,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0196,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0196,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0196,NEUT,Neutrophils,0,1,0 to 1
+ONC-305-301,ONC-305-301-0196,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0197,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0197,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0197,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0197,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0198,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0198,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0198,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0198,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0199,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0199,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0199,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0199,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0200,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0200,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0200,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0200,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0201,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0201,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0201,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0201,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0202,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0202,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0202,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0202,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0203,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0203,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0203,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0203,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0204,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0204,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0204,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0204,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0205,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0205,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0205,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0205,HGB,Hemoglobin,0,2,0 to 2
+ONC-305-301,ONC-305-301-0206,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0206,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0206,NEUT,Neutrophils,2,2,2 to 2
+ONC-305-301,ONC-305-301-0206,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0207,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0207,AST,Aspartate aminotransferase,0,2,0 to 2
+ONC-305-301,ONC-305-301-0207,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0207,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0208,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0208,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0208,NEUT,Neutrophils,2,2,2 to 2
+ONC-305-301,ONC-305-301-0208,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0209,ALT,Alanine aminotransferase,0,2,0 to 2
+ONC-305-301,ONC-305-301-0209,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0209,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0209,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0210,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0210,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0210,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0210,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0211,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0211,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0211,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0211,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0212,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0212,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0212,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0212,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0213,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0213,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0213,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0213,HGB,Hemoglobin,0,2,0 to 2
+ONC-305-301,ONC-305-301-0214,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0214,AST,Aspartate aminotransferase,2,2,2 to 2
+ONC-305-301,ONC-305-301-0214,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0214,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0215,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0215,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0215,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0215,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0216,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0216,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0216,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0216,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0217,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0217,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0217,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0217,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0218,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0218,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0218,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0218,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0219,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0219,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0219,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0219,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0220,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0220,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0220,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0220,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0221,ALT,Alanine aminotransferase,1,2,1 to 2
+ONC-305-301,ONC-305-301-0221,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0221,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0221,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0222,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0222,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0222,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0222,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0223,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0223,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0223,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0223,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0224,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0224,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0224,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0224,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0225,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0225,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0225,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0225,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0226,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0226,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0226,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0226,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0227,ALT,Alanine aminotransferase,2,2,2 to 2
+ONC-305-301,ONC-305-301-0227,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0227,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0227,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0228,ALT,Alanine aminotransferase,0,3,0 to 3
+ONC-305-301,ONC-305-301-0228,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0228,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0228,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0229,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0229,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0229,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0229,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0230,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0230,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0230,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0230,HGB,Hemoglobin,1,2,1 to 2
+ONC-305-301,ONC-305-301-0231,ALT,Alanine aminotransferase,1,2,1 to 2
+ONC-305-301,ONC-305-301-0231,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0231,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0231,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0232,ALT,Alanine aminotransferase,0,2,0 to 2
+ONC-305-301,ONC-305-301-0232,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0232,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0232,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0233,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0233,AST,Aspartate aminotransferase,2,2,2 to 2
+ONC-305-301,ONC-305-301-0233,NEUT,Neutrophils,1,2,1 to 2
+ONC-305-301,ONC-305-301-0233,HGB,Hemoglobin,2,3,2 to 3
+ONC-305-301,ONC-305-301-0234,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0234,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0234,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0234,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0235,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0235,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0235,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0235,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0236,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0236,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0236,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0236,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0237,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0237,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0237,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0237,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0238,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0238,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0238,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0238,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0239,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0239,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0239,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0239,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0240,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0240,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0240,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0240,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0241,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0241,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0241,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0241,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0242,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0242,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0242,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0242,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0243,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0243,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0243,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0243,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0244,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0244,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0244,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0244,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0245,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0245,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0245,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0245,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0246,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0246,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0246,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0246,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0247,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0247,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0247,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0247,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0248,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0248,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0248,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0248,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0249,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0249,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0249,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0249,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0250,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0250,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0250,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0250,HGB,Hemoglobin,0,2,0 to 2
+ONC-305-301,ONC-305-301-0251,ALT,Alanine aminotransferase,2,2,2 to 2
+ONC-305-301,ONC-305-301-0251,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0251,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0251,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0252,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0252,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0252,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0252,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0253,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0253,AST,Aspartate aminotransferase,2,4,2 to 4
+ONC-305-301,ONC-305-301-0253,NEUT,Neutrophils,2,2,2 to 2
+ONC-305-301,ONC-305-301-0253,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0254,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0254,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0254,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0254,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0255,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0255,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0255,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0255,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0256,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0256,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0256,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0256,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0257,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0257,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0257,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0257,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0258,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0258,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0258,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0258,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0259,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0259,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0259,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0259,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0260,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0260,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0260,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0260,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0261,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0261,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0261,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0261,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0262,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0262,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0262,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0262,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0263,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0263,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0263,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0263,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0264,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0264,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0264,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0264,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0265,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0265,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0265,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0265,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0266,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0266,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0266,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0266,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0267,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0267,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0267,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0267,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0268,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0268,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0268,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0268,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0269,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0269,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0269,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0269,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0270,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0270,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0270,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0270,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0271,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0271,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0271,NEUT,Neutrophils,0,1,0 to 1
+ONC-305-301,ONC-305-301-0271,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0272,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0272,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0272,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0272,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0273,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0273,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0273,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0273,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0274,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0274,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0274,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0274,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0275,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0275,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0275,NEUT,Neutrophils,0,1,0 to 1
+ONC-305-301,ONC-305-301-0275,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0276,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0276,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0276,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0276,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0277,ALT,Alanine aminotransferase,1,4,1 to 4
+ONC-305-301,ONC-305-301-0277,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0277,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0277,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0278,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0278,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0278,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0278,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0279,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0279,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0279,NEUT,Neutrophils,0,1,0 to 1
+ONC-305-301,ONC-305-301-0279,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0280,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0280,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0280,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0280,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0281,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0281,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0281,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0281,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0282,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0282,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0282,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0282,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0283,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0283,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0283,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0283,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0284,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0284,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0284,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0284,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0285,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0285,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0285,NEUT,Neutrophils,0,3,0 to 3
+ONC-305-301,ONC-305-301-0285,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0286,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0286,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0286,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0286,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0287,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0287,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0287,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0287,HGB,Hemoglobin,0,2,0 to 2
+ONC-305-301,ONC-305-301-0288,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0288,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0288,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0288,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0289,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0289,AST,Aspartate aminotransferase,0,2,0 to 2
+ONC-305-301,ONC-305-301-0289,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0289,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0290,ALT,Alanine aminotransferase,1,2,1 to 2
+ONC-305-301,ONC-305-301-0290,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0290,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0290,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0291,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0291,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0291,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0291,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0292,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0292,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0292,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0292,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0293,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0293,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0293,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0293,HGB,Hemoglobin,2,2,2 to 2
+ONC-305-301,ONC-305-301-0294,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0294,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0294,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0294,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0295,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0295,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0295,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0295,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0296,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0296,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0296,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0296,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0297,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0297,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0297,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0297,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0298,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0298,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0298,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0298,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0299,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0299,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0299,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0299,HGB,Hemoglobin,0,2,0 to 2
+ONC-305-301,ONC-305-301-0300,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0300,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0300,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0300,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0301,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0301,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0301,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0301,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0302,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0302,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0302,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0302,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0303,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0303,AST,Aspartate aminotransferase,0,3,0 to 3
+ONC-305-301,ONC-305-301-0303,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0303,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0304,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0304,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0304,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0304,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0305,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0305,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0305,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0305,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0306,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0306,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0306,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0306,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0307,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0307,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0307,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0307,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0308,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0308,AST,Aspartate aminotransferase,2,2,2 to 2
+ONC-305-301,ONC-305-301-0308,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0308,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0309,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0309,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0309,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0309,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0310,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0310,AST,Aspartate aminotransferase,1,2,1 to 2
+ONC-305-301,ONC-305-301-0310,NEUT,Neutrophils,0,1,0 to 1
+ONC-305-301,ONC-305-301-0310,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0311,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0311,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0311,NEUT,Neutrophils,0,2,0 to 2
+ONC-305-301,ONC-305-301-0311,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0312,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0312,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0312,NEUT,Neutrophils,2,2,2 to 2
+ONC-305-301,ONC-305-301-0312,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0313,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0313,AST,Aspartate aminotransferase,0,2,0 to 2
+ONC-305-301,ONC-305-301-0313,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0313,HGB,Hemoglobin,0,2,0 to 2
+ONC-305-301,ONC-305-301-0314,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0314,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0314,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0314,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0315,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0315,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0315,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0315,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0316,ALT,Alanine aminotransferase,1,2,1 to 2
+ONC-305-301,ONC-305-301-0316,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0316,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0316,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0317,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0317,AST,Aspartate aminotransferase,1,2,1 to 2
+ONC-305-301,ONC-305-301-0317,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0317,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0318,ALT,Alanine aminotransferase,0,2,0 to 2
+ONC-305-301,ONC-305-301-0318,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0318,NEUT,Neutrophils,0,1,0 to 1
+ONC-305-301,ONC-305-301-0318,HGB,Hemoglobin,1,3,1 to 3
+ONC-305-301,ONC-305-301-0319,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0319,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0319,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0319,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0320,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0320,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0320,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0320,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0321,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0321,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0321,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0321,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0322,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0322,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0322,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0322,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0323,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0323,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0323,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0323,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0324,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0324,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0324,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0324,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0325,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0325,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0325,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0325,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0326,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0326,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0326,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0326,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0327,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0327,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0327,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0327,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0328,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0328,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0328,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0328,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0329,ALT,Alanine aminotransferase,2,2,2 to 2
+ONC-305-301,ONC-305-301-0329,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0329,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0329,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0330,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0330,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0330,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0330,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0331,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0331,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0331,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0331,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0332,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0332,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0332,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0332,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0333,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0333,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0333,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0333,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0334,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0334,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0334,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0334,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0335,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0335,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0335,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0335,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0336,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0336,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0336,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0336,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0337,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0337,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0337,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0337,HGB,Hemoglobin,0,2,0 to 2
+ONC-305-301,ONC-305-301-0338,ALT,Alanine aminotransferase,0,2,0 to 2
+ONC-305-301,ONC-305-301-0338,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0338,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0338,HGB,Hemoglobin,0,2,0 to 2
+ONC-305-301,ONC-305-301-0339,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0339,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0339,NEUT,Neutrophils,0,1,0 to 1
+ONC-305-301,ONC-305-301-0339,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0340,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0340,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0340,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0340,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0341,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0341,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0341,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0341,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0342,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0342,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0342,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0342,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0343,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0343,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0343,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0343,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0344,ALT,Alanine aminotransferase,2,2,2 to 2
+ONC-305-301,ONC-305-301-0344,AST,Aspartate aminotransferase,0,2,0 to 2
+ONC-305-301,ONC-305-301-0344,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0344,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0345,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0345,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0345,NEUT,Neutrophils,2,2,2 to 2
+ONC-305-301,ONC-305-301-0345,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0346,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0346,AST,Aspartate aminotransferase,0,2,0 to 2
+ONC-305-301,ONC-305-301-0346,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0346,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0347,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0347,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0347,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0347,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0348,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0348,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0348,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0348,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0349,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0349,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0349,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0349,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0350,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0350,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0350,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0350,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0351,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0351,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0351,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0351,HGB,Hemoglobin,0,3,0 to 3
+ONC-305-301,ONC-305-301-0352,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0352,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0352,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0352,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0353,ALT,Alanine aminotransferase,0,2,0 to 2
+ONC-305-301,ONC-305-301-0353,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0353,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0353,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0354,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0354,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0354,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0354,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0355,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0355,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0355,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0355,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0356,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0356,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0356,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0356,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0357,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0357,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0357,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0357,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0358,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0358,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0358,NEUT,Neutrophils,1,4,1 to 4
+ONC-305-301,ONC-305-301-0358,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0359,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0359,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0359,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0359,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0360,ALT,Alanine aminotransferase,0,2,0 to 2
+ONC-305-301,ONC-305-301-0360,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0360,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0360,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0361,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0361,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0361,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0361,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0362,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0362,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0362,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0362,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0363,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0363,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0363,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0363,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0364,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0364,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0364,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0364,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0365,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0365,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0365,NEUT,Neutrophils,0,2,0 to 2
+ONC-305-301,ONC-305-301-0365,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0366,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0366,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0366,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0366,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0367,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0367,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0367,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0367,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0368,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0368,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0368,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0368,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0369,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0369,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0369,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0369,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0370,ALT,Alanine aminotransferase,2,2,2 to 2
+ONC-305-301,ONC-305-301-0370,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0370,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0370,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0371,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0371,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0371,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0371,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0372,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0372,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0372,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0372,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0373,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0373,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0373,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0373,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0374,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0374,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0374,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0374,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0375,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0375,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0375,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0375,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0376,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0376,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0376,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0376,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0377,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0377,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0377,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0377,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0378,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0378,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0378,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0378,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0379,ALT,Alanine aminotransferase,0,2,0 to 2
+ONC-305-301,ONC-305-301-0379,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0379,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0379,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0380,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0380,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0380,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0380,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0381,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0381,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0381,NEUT,Neutrophils,0,1,0 to 1
+ONC-305-301,ONC-305-301-0381,HGB,Hemoglobin,1,2,1 to 2
+ONC-305-301,ONC-305-301-0382,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0382,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0382,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0382,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0383,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0383,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0383,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0383,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0384,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0384,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0384,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0384,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0385,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0385,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0385,NEUT,Neutrophils,1,1,1 to 1
+ONC-305-301,ONC-305-301-0385,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0386,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0386,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0386,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0386,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0387,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0387,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0387,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0387,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0388,ALT,Alanine aminotransferase,0,3,0 to 3
+ONC-305-301,ONC-305-301-0388,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0388,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0388,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0389,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0389,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0389,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0389,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0390,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0390,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0390,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0390,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0391,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0391,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0391,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0391,HGB,Hemoglobin,0,2,0 to 2
+ONC-305-301,ONC-305-301-0392,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0392,AST,Aspartate aminotransferase,2,2,2 to 2
+ONC-305-301,ONC-305-301-0392,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0392,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0393,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0393,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0393,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0393,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0394,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0394,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0394,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0394,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0395,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0395,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0395,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0395,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0396,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0396,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0396,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0396,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0397,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0397,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0397,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0397,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0398,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0398,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0398,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0398,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0399,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0399,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0399,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0399,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0400,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0400,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0400,NEUT,Neutrophils,0,1,0 to 1
+ONC-305-301,ONC-305-301-0400,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0401,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0401,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0401,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0401,HGB,Hemoglobin,0,2,0 to 2
+ONC-305-301,ONC-305-301-0402,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0402,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0402,NEUT,Neutrophils,2,2,2 to 2
+ONC-305-301,ONC-305-301-0402,HGB,Hemoglobin,1,3,1 to 3
+ONC-305-301,ONC-305-301-0403,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0403,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0403,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0403,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0404,ALT,Alanine aminotransferase,0,2,0 to 2
+ONC-305-301,ONC-305-301-0404,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0404,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0404,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0405,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0405,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0405,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0405,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0406,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0406,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0406,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0406,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0407,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0407,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0407,NEUT,Neutrophils,0,3,0 to 3
+ONC-305-301,ONC-305-301-0407,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0408,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0408,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0408,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0408,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0409,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0409,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0409,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0409,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0410,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0410,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0410,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0410,HGB,Hemoglobin,0,1,0 to 1
+ONC-305-301,ONC-305-301-0411,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0411,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0411,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0411,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0412,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0412,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0412,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0412,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0413,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0413,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0413,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0413,HGB,Hemoglobin,1,1,1 to 1
+ONC-305-301,ONC-305-301-0414,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0414,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0414,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0414,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0415,ALT,Alanine aminotransferase,0,2,0 to 2
+ONC-305-301,ONC-305-301-0415,AST,Aspartate aminotransferase,1,2,1 to 2
+ONC-305-301,ONC-305-301-0415,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0415,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0416,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0416,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0416,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0416,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0417,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0417,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0417,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0417,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0418,ALT,Alanine aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0418,AST,Aspartate aminotransferase,0,0,0 to 0
+ONC-305-301,ONC-305-301-0418,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0418,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0419,ALT,Alanine aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0419,AST,Aspartate aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0419,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0419,HGB,Hemoglobin,0,0,0 to 0
+ONC-305-301,ONC-305-301-0420,ALT,Alanine aminotransferase,0,1,0 to 1
+ONC-305-301,ONC-305-301-0420,AST,Aspartate aminotransferase,1,1,1 to 1
+ONC-305-301,ONC-305-301-0420,NEUT,Neutrophils,0,0,0 to 0
+ONC-305-301,ONC-305-301-0420,HGB,Hemoglobin,1,1,1 to 1

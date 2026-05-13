@@ -1,0 +1,5 @@
+Order,Endpoint family,Type I error control,Decision rule
+1,PFS,Two-sided alpha=0.05,"If statistically significant, proceed to OS"
+2,OS,Two-sided alpha=0.05 conditional on PFS,"If statistically significant, proceed to ORR"
+3,ORR,Two-sided alpha=0.05 conditional on PFS and OS,Descriptive if hierarchy stops earlier
+Exploratory,"Subgroups, safety, exposure, laboratory shifts",No multiplicity adjustment,Interpret as descriptive and hypothesis-generating

@@ -1,0 +1,8 @@
+| Major protocol deviation category             | ONC-305 + SOC (N=211)   | Placebo + SOC (N=209)   | Total (N=420)   |
+|:----------------------------------------------|:------------------------|:------------------------|:----------------|
+| Any major protocol deviation                  | 12 (5.7%)               | 16 (7.7%)               | 28 (6.7%)       |
+| Inclusion/exclusion criterion deviation       | 3 (1.4%)                | 5 (2.4%)                | 8 (1.9%)        |
+| Missed or out-of-window disease assessment    | 6 (2.8%)                | 8 (3.8%)                | 14 (3.3%)       |
+| Prohibited concomitant medication             | 3 (1.4%)                | 2 (1.0%)                | 5 (1.2%)        |
+| Study drug interruption > 28 consecutive days | 2 (0.9%)                | 3 (1.4%)                | 5 (1.2%)        |
+| Potential unblinding event                    | 0                       | 0                       | 0               |

@@ -1,0 +1,5 @@
+Analysis set,Definition,Use,Treatment assignment
+Randomized Set,All randomized subjects,Summaries of randomization and disposition,According to randomized treatment
+Full Analysis Set (FAS/ITT),All randomized subjects,"Primary efficacy, OS, response, subgroups",According to randomized treatment
+Safety Set,All subjects receiving at least one dose,"Exposure, adverse events and laboratory summaries",According to actual treatment received
+Response-Evaluable Set,FAS subjects with baseline measurable disease and at least one post-baseline disease assessment or early progression/death,Supportive response analyses,According to randomized treatment
