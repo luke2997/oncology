@@ -49,9 +49,6 @@ pip install -r requirements.txt
 - `qc/program_validation_tracker.csv` - programming/QC tracker.
 - `qc/data_review_issue_log.csv` - mock data-review log.
 
-## Suggested CV bullet
-
-> Built a simulated Phase III oncology statistical-submission portfolio with professional SAP, CSR-style report, ADaM-style ADSL/ADTTE/ADAE/ADRS/ADLB datasets, TLFs, listings, figures, validation report, reviewer guide, traceability metadata and reproducible Python/SAS/R programming structure.
 
 ## Important disclaimer
 
